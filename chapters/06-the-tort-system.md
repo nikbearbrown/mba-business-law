@@ -1,173 +1,186 @@
-# The Tort System
-
-In February 1992, an 81-year-old grandmother named Stella Liebeck purchased a 49-cent cup of coffee at a McDonald's drive-through in Albuquerque, New Mexico. She placed the coffee cup between her knees while removing the lid to add cream and sugar. The cup tipped. The coffee spilled into her lap, where her cotton sweatpants absorbed and held it against her skin. Liebeck sustained third-degree burns over approximately six percent of her body — including her thighs, buttocks, and groin — and was hospitalized for eight days. She underwent skin grafts and two years of medical treatment. Her medical expenses approached $20,000.
-
-Liebeck wrote to McDonald's asking the company to cover her medical costs. McDonald's offered $800. She sued. The case — *Liebeck v. McDonald's Restaurants* — became, in subsequent media coverage, the standing example of *frivolous litigation* in U.S. tort law. The actual record was substantially more interesting than the caricature. McDonald's coffee was, by company specification, brewed and held at approximately 180 to 190 degrees Fahrenheit — substantially hotter than coffee at most other restaurants, and at a temperature documented to cause third-degree burns within seconds of skin contact. McDonald's had received approximately 700 prior complaints about the coffee's temperature in the decade before Liebeck's spill, including reports of severe burns to children. The company had documented the burn risk internally. The company had not adjusted the temperature, on its own analysis, because customers preferred hotter coffee.
-
-The jury, which heard the documentation, awarded Liebeck $200,000 in compensatory damages (reduced to $160,000 to account for her own contributory negligence) and $2.7 million in punitive damages — calibrated to roughly two days of McDonald's coffee sales. The trial judge reduced the punitive award to $480,000. The parties subsequently settled for an undisclosed amount. McDonald's lowered the coffee temperature.
-
-The Liebeck case is the chapter's working example of how tort law actually operates. *The system is the body of civil law governing harms outside the scope of contract.* *The remedy is typically money damages, not imprisonment.* *The standard of proof is preponderance of the evidence, not beyond reasonable doubt.* And *the apparatus is, on inspection, more carefully calibrated to actual harm than the public caricature suggests.*
-
-[FIGURE: A taxonomy of tort categories — intentional torts (assault, battery, defamation, false imprisonment, invasion of privacy), negligence (the dominant category), and strict liability (product liability, abnormally dangerous activities). The student should notice that negligence covers most contemporary commercial tort exposure; the other categories are specific subsets.]
-
-## Learning objectives
-
-By the end of this chapter, you will be able to:
-
-- **Distinguish** the three primary tort categories — intentional torts, negligence, and strict liability — and **identify** the elements required to establish each.
-- **Apply** the four-element negligence framework (duty, breach, causation, damages) to a specific fact pattern.
-- **Analyze** the *Liebeck v. McDonald's* case and **explain** the relationship between compensatory and punitive damages.
-- **Evaluate** specific defenses to tort liability, including contributory negligence, comparative negligence, and assumption of risk.
-- **Articulate** the relationship between tort liability and product-liability claims, including the strict-liability framework that applies to defective products.
-
-## Prerequisites
-
-Chapter 5's framework on the criminal-civil distinction. Tort law is the dominant category of civil liability in business contexts; the chapter is the operating manual for it.
-
-## Why this chapter matters
-
-Tort liability is, on most readings of contemporary U.S. business risk, the largest single category of legal exposure for most operating firms. Product-liability claims, premises-liability claims, professional malpractice claims, and the broader category of negligence claims constitute the bulk of civil litigation against U.S. businesses. The chapter is the framework for managing that exposure.
+# Chapter 6 — The Tort System
+*What the coffee cup actually taught us.*
 
 ---
 
-## Concept 1: The three categories of tort
+Here is a question I want you to hold before we get into any of the legal machinery.
 
-The word *tort* derives from the French for *wrong*. A tort is a civil wrong — an action or omission that causes harm to another person and produces civil liability. The U.S. tort system organizes torts into three primary categories.
+In February 1992, an 81-year-old woman named Stella Liebeck bought a cup of coffee at a McDonald's drive-through in Albuquerque. She placed the cup between her knees, removed the lid to add cream and sugar, and spilled it. She sustained third-degree burns over approximately six percent of her body — thighs, buttocks, groin — was hospitalized for eight days, underwent skin grafts, and spent two years in medical treatment. Her medical expenses approached $20,000.
 
-**Intentional torts** require a *conscious and purposeful act* by the defendant. The defendant need not have intended the specific harm that resulted; the defendant must have intended the *act* that caused the harm. The major intentional torts include:
+McDonald's offered her $800.
 
-- *Assault*: causing reasonable apprehension of imminent harmful or offensive contact.
-- *Battery*: actual harmful or offensive contact.
-- *False imprisonment*: unlawful restraint of another's freedom of movement.
-- *Defamation*: false statement that damages another's reputation. *Slander* is spoken defamation; *libel* is written or recorded defamation.
-- *Invasion of privacy*: unauthorized intrusion into another's private affairs, public disclosure of private facts, false light publicity, or appropriation of likeness.
-- *Intentional infliction of emotional distress*: extreme and outrageous conduct producing severe emotional harm.
-- *Trespass to land or chattels*: unauthorized entry onto another's property or interference with another's property.
+She sued. The jury awarded her $200,000 in compensatory damages and $2.7 million in punitive damages. The judge reduced the punitive award to $480,000. The parties settled for an undisclosed amount. McDonald's subsequently lowered its coffee temperature.
 
-**Negligence** is the dominant category in commercial litigation. Negligence does not require intent; it requires that the defendant *fail to exercise the standard of care that a reasonable person would exercise under the circumstances*. The four elements are addressed in Concept 2.
+You have probably heard the Liebeck case described as the textbook example of frivolous litigation — the lawsuit where a woman spilled coffee on herself and won millions of dollars. That description is not accurate, and the gap between the description and the actual record is almost exactly as wide as the gap between what most people think the tort system does and what it actually does. The case is therefore a near-perfect entry point.
 
-**Strict liability** imposes liability without regard to fault — the defendant is liable for harm produced by certain categories of activity even when the defendant exercised reasonable care. The major strict-liability categories include *abnormally dangerous activities* (use of explosives, keeping wild animals, certain industrial processes) and *product liability* (defective products that cause harm to consumers). Strict liability is a substantial category of contemporary business exposure; product-liability cases alone produce billions of dollars in annual U.S. settlements and judgments.
+What the description leaves out: McDonald's coffee was, by corporate specification, held at 180 to 190 degrees Fahrenheit — substantially hotter than coffee at most other restaurants, and at a temperature that causes third-degree burns within seconds of skin contact. McDonald's had received approximately 700 prior complaints about the temperature in the decade before Liebeck's spill, including reports of severe burns to children. The company had documented the burn risk internally. It had not adjusted the temperature because its own analysis concluded that customers preferred hotter coffee.
 
-### The trial framework: judges decide law, juries decide facts
+The jury heard all of this. The $2.7 million in punitive damages was calibrated, by the jury's own calculation, to roughly two days of McDonald's coffee sales. The trial judge found the award excessive and reduced it. This is how the system is supposed to work.
 
-Tort cases are tried before juries (with rare exceptions). The respective roles:
+So the question I want you to carry into this chapter is not "was the verdict fair?" That question can be debated. The question I want you to carry is: *what was the apparatus that produced this outcome, and does it do what a well-designed system of liability should do?*
 
-**The judge decides issues of law.** What duty the defendant owed the plaintiff. What elements the defense must establish. How the legal rules apply to the case.
-
-**The jury decides questions of fact.** What happened. The legal consequences of what happened (within the framework the judge specifies). The damages suffered by the plaintiff.
-
-The division of labor matters because it shapes how cases are tried. Lawyers trying tort cases must persuade the judge on the legal questions and the jury on the factual questions; the two audiences require different presentations.
+That is what this chapter is about.
 
 ---
 
-## Concept 2: Negligence — the four-element framework
+## What a tort is and why the category exists
 
-The negligence framework dominates contemporary commercial tort litigation. The plaintiff in a negligence case must establish four elements:
+A tort is a civil wrong — an action or omission that causes harm to another person and gives rise to civil liability. *Civil* is the key word. The tort system runs parallel to, and separately from, the criminal system. A criminal prosecution is brought by the government; the penalty is imprisonment or a fine paid to the state; the standard of proof is beyond reasonable doubt. A tort suit is brought by the injured party; the remedy is almost always money paid by the defendant to the plaintiff; the standard of proof is preponderance of the evidence — more likely than not.
 
-**Duty.** The defendant must have owed a *duty of care* to the plaintiff. The duty arises from a recognized legal relationship — landlord to tenant, manufacturer to consumer, professional to client, driver to other road users, business to invitee. The scope of the duty depends on the relationship and the foreseeability of harm.
+The same act can be both a crime and a tort. O.J. Simpson was acquitted of criminal murder in 1995 and found civilly liable for the wrongful death of Nicole Brown Simpson and Ron Goldman in 1997. The acquittal meant the government could not prove guilt beyond reasonable doubt. The civil verdict meant the plaintiffs proved, by a preponderance, that Simpson was responsible for the deaths. Different standard, different outcome.
 
-**Breach.** The defendant must have *breached* the duty by failing to exercise the standard of care a reasonable person would have exercised under the circumstances. The standard is the *reasonable person* — a hypothetical individual who exercises ordinary care, skill, and judgment in the situation. The standard is objective; the defendant's good-faith belief that he was being careful does not, by itself, establish the absence of breach.
+The tort system exists because the criminal system cannot do, and was never designed to do, what the tort system does. Criminal law addresses wrongs against society. Tort law addresses wrongs against specific individuals and attempts to make those individuals whole. When McDonald's coffee burned Stella Liebeck, the government had no particular interest in prosecuting McDonald's. Liebeck had a direct interest in recovering her medical costs and being compensated for her suffering. The tort system is the mechanism through which she pursued that interest.
 
-**Causation.** The defendant's breach must have *caused* the plaintiff's harm. The doctrine has two components: *cause-in-fact* (also called *but-for causation* — the harm would not have occurred but for the defendant's breach) and *proximate cause* (the harm was a foreseeable consequence of the breach). Both must be established.
+The U.S. tort system organizes wrongs into three primary categories. The categories are worth knowing precisely because the legal machinery — what the plaintiff must prove, what defenses are available, what damages are possible — differs substantially across them.
 
-**Damages.** The plaintiff must have suffered *measurable harm*. Negligence does not produce liability for risk that did not materialize into actual harm; the plaintiff must show physical injury, property damage, financial loss, or recognized emotional injury.
+**Intentional torts** require a conscious and purposeful act. The defendant need not have intended the specific harm; the defendant must have intended the act that caused the harm. If I deliberately push you and you fall and break your wrist, I committed battery even if I didn't intend the fracture — I intended the push. The major intentional torts are assault (causing reasonable apprehension of imminent harmful contact), battery (actual harmful or offensive contact), false imprisonment (unlawful restraint of another's freedom of movement), defamation (false statement damaging another's reputation — slander if spoken, libel if written or recorded), invasion of privacy, intentional infliction of emotional distress, and trespass to land or property.
 
-### Worked example: Liebeck v. McDonald's through the framework
+**Negligence** is the dominant category in commercial litigation, and the one that generates most of the legal exposure most businesses actually face. It does not require intent. It requires that the defendant failed to exercise the standard of care that a reasonable person would have exercised under the circumstances. That is the whole thing, and it turns out to contain a surprisingly precise machinery beneath it.
 
-*Duty.* McDonald's, as the operator of a commercial restaurant serving food and beverages to the public, owed Liebeck (and every other customer) a duty of care to provide the products it sold without unreasonable risk of harm.
+**Strict liability** imposes liability without regard to fault at all. Certain activities and certain products carry liability for the harms they produce even when the defendant exercised reasonable care. The question is not whether the defendant was careful. The question is whether the activity or product caused the harm.
 
-*Breach.* The jury found that McDonald's, knowing of the burn risk associated with its coffee temperature (documented through approximately 700 prior complaints), failed to exercise reasonable care by maintaining the temperature at a level documented to cause third-degree burns within seconds.
+Most of what this chapter is actually about is negligence. But the strict-liability framework is where product-liability cases live, and those are the cases that generate the largest dollar amounts in contemporary U.S. commercial litigation, so we will get there.
 
-*Causation.* The hot coffee caused Liebeck's burns. The cause-in-fact element was uncontested.
-
-*Damages.* Liebeck suffered third-degree burns over six percent of her body, eight days of hospitalization, two years of treatment, and approximately $20,000 in medical expenses. The compensatory damages reflected the documented harm. The punitive damages — calibrated to two days of McDonald's coffee sales — reflected the jury's assessment that the company's conduct warranted punishment beyond compensation.
-
-The case illustrates that the negligence framework is not a sympathy mechanism. It is a structured analysis of duty, breach, causation, and damages. The framework produced the verdict; the underlying conduct (documented internal awareness of harm, failure to adjust) was the substance the framework operated on.
-
-### Foreseeability
-
-A key concept in the proximate-cause analysis is *foreseeability* — whether the defendant could reasonably have anticipated that his conduct would produce harm of the type the plaintiff suffered. The doctrine is articulated in *Palsgraf v. Long Island Railroad* (1928), in which Judge Benjamin Cardozo's majority opinion held that a defendant's duty extends only to plaintiffs whose harm was a foreseeable consequence of the defendant's conduct. The opinion is one of the most-cited in U.S. tort law.
-
-### Special-relationship duties
-
-Standard negligence doctrine generally does not impose a duty to act affirmatively to prevent harm to others. The major exceptions involve *special relationships* — relationships that, by their nature, give rise to affirmative duties to act. Doctors owe affirmative duties to patients. Lifeguards owe affirmative duties to swimmers in the guarded area. Common carriers owe heightened duties to passengers. Innkeepers owe heightened duties to guests. Special-relationship duties produce heightened liability when the relationship exists; their absence in non-relational settings is the reason ordinary bystanders typically have no legal obligation to rescue strangers in distress.
+<!-- → [INFOGRAPHIC: Three-column taxonomy of tort categories — Intentional Torts | Negligence | Strict Liability. Each column shows: what the plaintiff must prove, representative examples, and available defenses. Student should immediately see that the intent requirement disappears as you move right across the columns, and that the commercial relevance peaks in the middle.] -->
 
 ---
 
-## Concept 3: Defenses, strict liability, and product liability
+## The negligence framework: four elements and what they mean
 
-The defenses available in tort cases are partly the same across categories and partly category-specific.
+The plaintiff in a negligence case must establish four things. Every law student learns this list in the first weeks of a torts course. What the list does not convey, on its own, is why each element is structured the way it is and what work each one does.
 
-### Defenses to negligence
+**Duty.** The defendant must have owed the plaintiff a duty of care. Not everyone owes a duty to everyone else; the law is more selective than that. The duty arises from a recognized legal relationship — manufacturer to consumer, driver to other road users, business to its customers, landlord to tenant, professional to client. The scope of the duty depends on the relationship and on the foreseeability of harm: a manufacturer owes a duty to the foreseeable users of its product, not to every person on earth.
 
-**Contributory negligence.** Under the traditional doctrine, a plaintiff whose own negligence contributed to her harm could not recover at all. The doctrine produces harsh results — a slightly negligent plaintiff is barred from recovery against a substantially negligent defendant — and most U.S. jurisdictions have replaced it with comparative negligence.
+The foreseeability requirement matters. In the 1928 case *Palsgraf v. Long Island Railroad*, a railroad employee helped a passenger board a moving train. The passenger was carrying fireworks wrapped in newspaper. The fireworks fell, exploded, and the blast knocked over a scale at the other end of the platform, which fell on a woman named Helen Palsgraf. She sued the railroad. Judge Benjamin Cardozo, writing for the New York Court of Appeals, held that the railroad owed no duty to Palsgraf — the harm to her was not a foreseeable consequence of helping the passenger board the train. The case is the standing articulation of foreseeability as the boundary of duty.
 
-**Comparative negligence.** Under contemporary doctrine in most states, the plaintiff's recovery is *reduced* (rather than eliminated) by her share of fault. *Pure comparative* states reduce recovery by the plaintiff's percentage of fault regardless of how high it is. *Modified comparative* states bar recovery entirely if the plaintiff's fault exceeds a specified threshold (50 percent in most modified-comparative states). In the Liebeck case, the New Mexico jury reduced the compensatory award by 20 percent to reflect Liebeck's contributory fault in placing the cup between her knees.
+The doctrine also contains an important exception. Standard negligence doctrine generally imposes no duty to act affirmatively to prevent harm to strangers — a bystander who watches someone drown has no legal obligation to attempt a rescue. The exception is *special relationships*: relationships that, by their nature, give rise to affirmative duties to act. Doctors owe affirmative duties to patients. Lifeguards owe affirmative duties to swimmers in their guarded area. Common carriers owe heightened duties to passengers. The special-relationship doctrine is why the pool owner's liability for a drowning is a different legal analysis than the bystander's.
 
-**Assumption of risk.** A plaintiff who voluntarily and knowingly assumes a risk cannot recover for harm produced by that risk. The defense applies most often in recreational settings (the spectator hit by a foul ball at a baseball game) and in cases involving express assumption (the skier who signs a release before using the ski lift).
+<!-- → [DIAGRAM: Duty-foreseeability boundary illustrated using the Palsgraf fact pattern — visual timeline of the event chain (employee assists passenger → fireworks drop → explosion → scale falls → Palsgraf injured) with a dotted line marking where Cardozo draws the foreseeability boundary and why the harm on the far side of that line is outside the duty. A second panel shows a special-relationship example (lifeguard → swimmer) where affirmative duty runs in the opposite direction. Student should see foreseeability as a spatial concept: duty reaches as far as the foreseeable harm, no further.] -->
 
-### Strict liability
+**Breach.** The defendant must have failed to exercise the care a reasonable person would have exercised under the circumstances. The standard is the *reasonable person* — a hypothetical individual who exercises ordinary care, skill, and judgment, tailored to the situation. The standard is objective: the defendant's genuine belief that he was being careful does not establish the absence of breach. If the reasonable person in the same situation would have taken precautions the defendant did not take, the defendant breached the duty.
 
-Strict liability imposes liability without fault for harm produced by certain categories of activity. The two major categories:
+Notice what this standard is doing. It is not asking whether the defendant was a bad person, or even whether the defendant intended harm. It is asking whether the defendant's conduct fell below the level we expect of ordinarily careful people in the same situation. The standard is calibrated to ordinary competence, not extraordinary care.
 
-**Abnormally dangerous activities.** Activities that are *not of common usage* and that *create a high degree of risk of harm even when reasonable care is exercised*. The classical examples — use of dynamite for blasting, keeping wild animals — apply in modern contexts (industrial operations involving high-pressure systems, hazardous chemicals, certain biotechnology operations). The defendant is liable for harm produced by the activity even when he exercised reasonable care to prevent it.
+**Causation.** The defendant's breach must have caused the plaintiff's harm. The doctrine has two components that are worth distinguishing. *Cause-in-fact*, sometimes called *but-for causation*: the harm would not have occurred but for the defendant's breach. *Proximate cause*: the harm was a foreseeable consequence of the breach, not an unlikely chain of events too remote to justify liability.
 
-**Product liability.** Manufacturers and sellers of products are strictly liable for harm caused by *defective* products. The defect categories are: *manufacturing defects* (the specific unit deviates from the manufacturer's specifications), *design defects* (the product as designed is unreasonably dangerous), and *warning defects* (the product lacks adequate warnings about its risks). The Restatement (Second) of Torts, Section 402A, articulated the strict-liability framework for products that has been adopted in some form in most U.S. states.
+The proximate cause requirement does the work of limiting liability to harms that were reasonably connected to the breach. If a driver runs a red light, that driver is the but-for cause of any accident at that intersection. But the proximate-cause analysis asks whether a particular harm — say, a domino-chain of accidents extending six blocks — is a foreseeable enough consequence of running the light to justify holding the original driver responsible for the distant damage. Sometimes the answer is yes. Sometimes the chain of events is too remote and the court finds the causal connection too attenuated.
 
-### Worked example: the Ford Pinto case
+**Damages.** The plaintiff must have suffered measurable harm. Negligence does not produce liability for risk that did not materialize into actual injury. Near-misses are not compensable. The damages element requires physical injury, property damage, financial loss, or a recognized form of emotional injury. The requirement is not formalistic; it is the mechanism by which the tort system stays focused on actual harm rather than hypothetical harm.
 
-The Ford Pinto product-liability cases of the 1970s are the canonical illustration of design-defect strict liability. The Pinto's fuel-tank placement (behind the rear axle, with insufficient crash protection) produced a documented pattern of fuel-tank rupture and fires in rear-end collisions. Internal Ford documents, disclosed in subsequent litigation, showed that Ford had calculated the costs of redesign (approximately $11 per vehicle) against the expected costs of injury and death claims (estimated at lower aggregate values using contemporary cost-of-life calculations) and had decided not to redesign. The cost-benefit analysis became, in subsequent juries' assessment, evidence of conscious disregard for safety. *Grimshaw v. Ford Motor Company* (1981) produced a $125 million punitive damage award (reduced on appeal to $3.5 million) against Ford for the death of a 13-year-old passenger and severe burns to the driver. The case is now standard in product-liability casebooks for its illustration of how strict-liability and punitive-damages doctrines interact.
+### What the Liebeck case looked like through this lens
 
----
+The framework resolves the case cleanly.
 
-## Integration: a single tort case through the framework
+*Duty.* McDonald's, operating a commercial restaurant and selling food and beverages to the public, owed its customers a duty of care not to sell products that carried unreasonable risks of harm. Liebeck was a customer. The duty existed.
 
-A small business — call it Highland — operates a chain of fitness centers. A member, while using a treadmill, falls when the equipment malfunctions and sustains a broken hip. The member files a tort suit against Highland. Discovery reveals that Highland's maintenance records show the treadmill had not been inspected in approximately eighteen months, that the manufacturer's recommended inspection interval was six months, and that several other members had reported the same malfunction in the preceding year without Highland's response.
+*Breach.* McDonald's knew, from approximately 700 prior complaints over a decade, that its coffee temperature caused severe burns. It had internally documented the risk. It had calculated that the cost of injury claims was acceptable relative to the benefit of maintaining its preferred temperature. The reasonable restaurant operator, knowing what McDonald's knew, would have adjusted the temperature or at least warned customers about the burn risk. McDonald's did neither. The jury found this was breach.
 
-Apply the chapter's apparatus.
+*Causation.* The coffee caused the burns. Uncontested.
 
-*Negligence framework.* Duty: Highland, as the operator of a commercial fitness facility, owed members a duty of care. Breach: the failure to inspect the equipment for 18 months, against the 6-month recommendation, is breach. Causation: the malfunction caused the fall; the fall caused the injury. Damages: the broken hip and associated medical costs, lost work time, and pain and suffering.
+*Damages.* Third-degree burns over six percent of her body. Eight days of hospitalization. Skin grafts. Two years of treatment. Approximately $20,000 in medical costs. These are not abstract harms; they are documented injuries with documented costs.
 
-*Possible defenses.* Highland may argue contributory negligence (was the member using the treadmill properly?). Highland may argue assumption of risk (did the member sign a liability waiver?). The waiver's enforceability depends on state law and on the specific risks the waiver covered.
+The $2.7 million punitive damage award was not random. Punitive damages in the U.S. system are awarded — when they are awarded at all — to punish defendants whose conduct goes beyond ordinary negligence into something more culpable: willful disregard of known risks, conscious decision to prioritize commercial interest over documented safety. The jury's calculation (two days of coffee sales) was an attempt to impose a punishment that would actually register on a company of McDonald's scale — to make the punishment proportionate to the wrong, not just to the plaintiff's medical bills. The judge's reduction of the award to $480,000 reflects the legal system's ongoing calibration of punitive damages against constitutional limits. The whole sequence — award, reduction, settlement — is the system working as designed.
 
-*Strict-liability dimension.* If the malfunction was caused by a manufacturing or design defect, the manufacturer faces strict-liability exposure. Highland's claim against the manufacturer would be a separate action.
+The public caricature misses all of this. The caricature is not wrong that the plaintiff spilled coffee on herself and collected damages. It is wrong about what the case means: it was not a sympathy verdict for clumsiness. It was a structured application of the negligence framework to a company that knew its product was dangerous, documented the danger internally, and chose not to fix it.
 
-*Damages.* If Highland is found liable, damages include compensatory (medical costs, lost wages, pain and suffering) and potentially punitive (if Highland's failure to inspect, despite documented prior complaints, rises to gross negligence or willful disregard).
-
-The integration verdict: the tort framework produces a structured analysis of the case. The remedy is operational — Highland's risk management should include documented maintenance schedules, prompt response to member complaints, adequate insurance, and qualified counsel for any specific incident.
+<!-- → [TABLE: Liebeck v. McDonald's mapped to the four-element negligence framework — rows: Duty, Breach, Causation, Damages. Columns: Element | What it requires | How Liebeck established it | Key evidence. Student uses this as a template for applying the framework to any new fact pattern.] -->
 
 ---
 
-## Exercises
+## Defenses and the comparative fault system
 
-### Warm-up
+The negligence framework does not end with the plaintiff's four elements. The defendant has tools too.
 
-**Exercise 6.1.** *Tests learning objective 1.* Distinguish intentional torts, negligence, and strict liability. Identify the key element required for each. Difficulty: easy.
+The oldest defense is **contributory negligence**: the plaintiff's own negligence contributed to her harm, so the plaintiff should recover nothing. Historically, any degree of contributory fault barred recovery entirely. A plaintiff who was one percent at fault could recover nothing from a defendant who was ninety-nine percent at fault. The doctrine produced results that struck most courts and legislatures as disproportionate, and most U.S. states replaced it with **comparative negligence**.
 
-**Exercise 6.2.** *Tests learning objective 2.* In your own words, articulate the four elements of negligence and apply them to a specific fact pattern (your choice). Difficulty: easy.
+Under comparative negligence, the plaintiff's recovery is reduced by her share of fault — not eliminated. The New Mexico jury in the Liebeck case found that Liebeck was 20 percent at fault for placing the cup between her knees. Her $200,000 compensatory award was reduced by $40,000 to reflect her share of responsibility. McDonald's paid the remaining $160,000.
 
-### Application
+There are two versions of comparative negligence. *Pure comparative* states reduce recovery by the plaintiff's percentage of fault regardless of how high it is — a plaintiff who is 90 percent at fault recovers 10 percent of her damages. *Modified comparative* states bar recovery entirely if the plaintiff's fault exceeds a threshold, typically 50 percent. The distinction matters in cases where both parties contributed substantially to the harm.
 
-**Exercise 6.3.** *Tests learning objective 3.* Analyze the *Liebeck v. McDonald's* case in detail, distinguishing the public caricature from the documented record. Identify what the case actually held and what its precedent value is for similar cases. Difficulty: moderate.
+<!-- → [CHART: Bar chart or decision-tree showing how a $100,000 damages claim resolves across three fault-allocation doctrines — contributory negligence, pure comparative negligence, modified comparative negligence (50% bar) — at plaintiff fault levels of 10%, 30%, 50%, and 70%. Student should immediately see how the doctrines diverge only at high plaintiff-fault scenarios, and why the contributory negligence rule produces the most dramatic discontinuity.] -->
 
-**Exercise 6.4.** *Tests learning objective 4.* Compare contributory negligence, pure comparative negligence, and modified comparative negligence. Identify a fact pattern in which the three doctrines would produce different outcomes. Difficulty: moderate.
+The second defense is **assumption of risk**: a plaintiff who voluntarily and knowingly assumed a particular risk cannot recover for harm that risk produced. The defense applies most cleanly in recreational settings — the spectator hit by a foul ball at a baseball game is held to have assumed the foreseeable risk of attending a baseball game — and in cases involving an express written release. The skier who signs a liability waiver before using the ski lift has expressly assumed certain risks.
 
-### Synthesis
-
-**Exercise 6.5.** *Tests learning objective 5.* The *Grimshaw v. Ford Motor Company* case (Ford Pinto) is presented as an illustration of design-defect strict liability. Construct a contemporary case (within the last 24 months) that illustrates the same doctrine. Difficulty: harder.
+The enforceability of liability waivers varies by state and by the nature of the risk. Courts generally enforce waivers for recreational risks but scrutinize waivers that attempt to disclaim liability for gross negligence, willful misconduct, or violations of statutory duties. A gym member who signs a waiver and then sues because the gym's negligently maintained treadmill caused an injury is in a different legal position than a bungee-jumping customer who signs a waiver and then sues because the activity was inherently dangerous.
 
 ---
 
-## Chapter summary
+## Strict liability and the product-liability framework
 
-You can now do five things you could not do before. You can distinguish intentional torts, negligence, and strict liability. You can apply the four-element negligence framework to a real case. You can analyze the *Liebeck* case as a worked illustration of the framework's operation. You can evaluate specific defenses to tort liability. And you can articulate the relationship between tort liability and product-liability claims.
+The third major category — strict liability — works differently from everything above. The question is not whether the defendant was careful. The question is whether the activity or product caused the harm.
 
-The single idea that matters most is that tort liability is *the largest single category of civil exposure for most U.S. businesses*. The framework the chapter has built is the operational tool for managing the exposure.
+Strict liability applies to two major categories. The first is **abnormally dangerous activities**: activities not of common usage that create a high degree of risk even when conducted with reasonable care. Dynamite blasting, keeping wild animals, certain industrial chemical operations — the liability follows the activity because the risk is inherent and the activity creates it. The manufacturer of explosives who sells them to a legitimate mining operation has exercised all reasonable care. If the explosives cause harm, the strict-liability doctrine says the manufacturer is still the right party to bear the cost — because it created the risk and is better positioned than any individual plaintiff to account for it in product pricing and safety design.
 
-You should now be able to teach the four elements of negligence and the strict-liability framework to a colleague who has not read this chapter, in fifteen minutes.
+The second and more commercially significant category is **product liability**: manufacturers and sellers of products are strictly liable for harm caused by defective products. The defect categories are three. A *manufacturing defect* exists when a specific unit deviates from the manufacturer's own specifications — the lug nut that was not properly torqued at the factory. A *design defect* exists when the product as designed is unreasonably dangerous — even a unit produced exactly to specification is dangerous because the specification itself is wrong. A *warning defect* (sometimes called a failure-to-warn) exists when the product lacks adequate warnings about its risks — even a well-designed product, properly manufactured, can be defective if consumers are not adequately informed of non-obvious dangers.
+
+The policy logic of strict product liability is worth understanding because it is not immediately obvious. Why should a manufacturer who exercised all reasonable care still be liable for harm its product causes? The answer has two parts. First, the manufacturer is in the best position — better than any individual consumer — to know the risks its product creates and to invest in reducing them. Placing liability on the manufacturer creates the right incentives. Second, the cost of product-related injuries can be spread across all consumers through product pricing; the manufacturer is, in effect, an insurer of product safety, and the cost of that insurance is embedded in the price. This is an economic argument for strict liability, not a moral one: it places the cost of product injuries on the party best positioned to reduce them and to distribute the residual risk.
+
+<!-- → [TABLE: Three product-defect categories — columns: Defect Type | Definition | What plaintiff must show | Representative example. Rows: Manufacturing defect, Design defect, Warning defect. The Pinto case (design defect) and a hypothetical warning-defect case should appear as examples. Student should be able to classify any product-liability fact pattern into one of these three columns on sight.] -->
+
+### The Ford Pinto as worked illustration
+
+The Ford Pinto product-liability cases of the 1970s are the canonical illustration of design-defect strict liability — and of the dangerous intersection between strict-liability exposure and punitive damages.
+
+The Pinto's fuel tank was placed behind the rear axle with insufficient crash protection. Ford's internal analyses, disclosed in subsequent litigation, showed the company had calculated the cost of redesigning the fuel system (approximately $11 per vehicle) against the projected cost of injury and death claims under assumptions about likely accident rates. The cost-benefit analysis favored not redesigning. The analysis was used in court as evidence that Ford had consciously weighed the cost of known human harm against the cost of correcting it and had chosen the cheaper option.
+
+*Grimshaw v. Ford Motor Company* (1981) arose from a rear-end collision in which the Pinto's fuel tank ruptured and caught fire. A 13-year-old passenger died; the driver sustained severe burns. The jury awarded $2.5 million in compensatory damages and $125 million in punitive damages. The trial judge reduced the punitive award to $3.5 million. The case is taught in every product-liability course in the country because of what the internal cost-benefit documents revealed: when a manufacturer explicitly calculates that the cost of not fixing a defect is lower than the cost of fixing it, and the defect subsequently kills people, the jury instruction on punitive damages becomes nearly unavoidable.
+
+The Pinto case and the Liebeck case share a structural feature that is worth noticing. In both cases, the defendant had documented internal awareness of a known risk. In both cases, the defendant chose not to act on that awareness. In both cases, the jury was permitted to see the documentation. And in both cases, the jury's punitive damages award was calibrated to communicate something beyond compensation — that this was not an accident, in the sense of something unforeseeable, but a choice, and that the choice had consequences.
+
+<!-- → [TABLE: Side-by-side case comparison — columns: Case element | Liebeck v. McDonald's | Grimshaw v. Ford (Pinto). Rows: Known risk (what was documented internally), Decision not to act (the internal rationale), Damages awarded (compensatory and punitive), Judicial reduction, Final outcome. Student should see the structural parallel immediately: documented awareness + documented decision = punitive exposure.] -->
 
 ---
 
-## Connections forward
+## What the system is actually doing
 
-Chapter 7 turns to contract law — the framework governing voluntary agreements between parties. Tort law and contract law operate as the two main pillars of civil legal exposure; the practitioner who has worked through both has the structural framework for most non-criminal legal risk in business.
+Return to the question you began with: does the tort apparatus do what a well-designed system of liability should do?
+
+Here is what I think the evidence supports. The system does several things reasonably well and one thing structurally less well.
+
+What it does well: it places the cost of harms on parties who were in a position to prevent them. McDonald's was in a better position than Stella Liebeck to know that 185-degree coffee caused third-degree burns within seconds; it had 700 complaints documenting exactly that. Ford was in a better position than the Pinto's passengers to know the fuel-tank placement was dangerous. Strict product liability and the negligence framework both route costs toward the parties who had the information and the capacity to act on it.
+
+The punitive-damages mechanism, when it fires, does something additional: it attempts to make the penalty commensurate with the wrongdoer's capacity to absorb it, rather than just with the specific plaintiff's harm. Two days of McDonald's coffee sales calibrated to the scale of the company, not just to Stella Liebeck's medical bills. This is a different function than compensation; it is deterrence aimed at a defendant large enough that ordinary compensatory damages would be negligible.
+
+What the system does less well: it produces outcomes that are difficult to predict in advance, because jury fact-finding varies and because the line between reasonable breach and gross negligence is drawn differently by different juries in different jurisdictions. A manufacturer trying to make rational safety investments cannot easily calculate the expected litigation cost of a given design choice, because the punitive-damages exposure varies too widely across venues and juries.
+
+This is not a reason to condemn the system. It is a reason to understand that the tort apparatus is a mechanism for ex post accountability — it evaluates conduct after the harm occurs — and that its deterrence effect is real but imprecise. The firms that manage tort exposure best are the ones that design safety into their products and operations proactively, so that the ex post evaluation, if it ever comes, finds a record of genuine effort rather than a documented cost-benefit analysis in which human harm appeared as a line item.
+
+---
+
+## What you can now do
+
+You began this chapter with the Liebeck case framed as a question about the tort apparatus, not just as a news story. You can now answer the question.
+
+You can distinguish intentional torts, negligence, and strict liability — and explain why the category distinction matters for what the plaintiff must prove and what defenses are available.
+
+You can apply the four elements of negligence to a fact pattern with precision. You know what duty means and why foreseeability is its boundary. You know what breach means and why the reasonable-person standard is objective rather than subjective. You know the difference between cause-in-fact and proximate cause. You know why damages must be actual, not speculative.
+
+You can explain the comparative-negligence system and articulate the difference between pure and modified comparative negligence in terms of outcomes, not just definitions.
+
+You can analyze the strict product-liability framework and the three defect categories — manufacturing, design, and warning — and explain the policy logic that justifies strict liability over a fault-based standard.
+
+And you can read the Liebeck case and the Ford Pinto cases as structured illustrations of the framework operating on real facts — which means you can read future cases the same way.
+
+The single idea that matters most is that the tort system is not a sympathy mechanism. It is a structured apparatus for determining who should bear the cost of harms — and the structure, when you see it clearly, is more defensible than the caricature suggests.
+
+---
+
+## LLM Exercises
+
+**Exercise 6-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "Apply the four-element negligence framework — duty, breach, causation, damages — to the following fact pattern: A grocery store receives written notice from a stock clerk that a refrigeration unit is leaking, creating a puddle in aisle 7. The store manager acknowledges the complaint in writing and does not act. Three days later, a customer slips on the puddle and breaks her wrist. Identify each element, explain whether it is established on these facts, and identify the strongest defense available to the store."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify the duty relationship? Did it apply the reasonable-person standard to the breach element? Did it distinguish cause-in-fact from proximate cause? Did it identify the most plausible defenses? Write a 300-word evaluation.
+
+**Exercise 6-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "The Ford Pinto product-liability cases involved design-defect strict liability and punitive damages. A current automotive manufacturer — choose a real, documented case from the past five years — is facing similar allegations: a known safety defect, internal documentation of awareness, and a decision not to act. Apply the design-defect strict-liability framework and the punitive-damages analysis to the current case. What would the plaintiff need to establish? What would the manufacturer's strongest defenses be?"
+
+Compare the two responses. Which response better distinguishes the three product-defect categories? Which response better explains why strict liability applies regardless of the manufacturer's care? Which response engages more accurately with a specific real case? Write a 400-word comparative analysis.
+
+**Exercise 6-LLM-3 (synthesis).** You are general counsel for Highland, the fitness-center chain described in the chapter. The treadmill incident has produced a tort suit. Discovery is about to open. You need to prepare a litigation-risk memo for the board.
+
+Draft a prompt that you would give to a large language model to help you analyze Highland's exposure. The prompt should ask the LLM to: (1) apply the negligence framework to the facts as you know them; (2) identify Highland's strongest defenses given the liability waiver members sign and any contributory negligence argument; (3) assess whether the maintenance record (18 months without inspection, prior member complaints, manufacturer's 6-month recommendation) creates punitive-damages exposure; and (4) recommend three operational changes Highland should make immediately, with an explanation of how each change reduces future tort exposure.
+
+After drafting the prompt, evaluate it: what specific facts would you need to supply for the LLM to produce a useful analysis? Where would you need a human attorney to check or override the LLM's output? What is the most likely way the LLM gets the analysis wrong?
