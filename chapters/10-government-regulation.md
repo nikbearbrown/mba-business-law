@@ -1,74 +1,128 @@
-# Government Regulation
+# Chapter 10 — Government Regulation
+*How Congress handed the details to someone else, and what happened next.*
 
-In June 1887, the U.S. Congress passed the *Interstate Commerce Act* — the first major federal regulatory statute — and created the *Interstate Commerce Commission* (ICC) to administer it. The Act's stated purpose was to prevent railroad rate discrimination, particularly the practice of charging higher rates for short hauls than long hauls when both were on the same line. The ICC operated until 1995, when its remaining functions were transferred to the *Surface Transportation Board* and other agencies.
+In June 1887, Congress passed the Interstate Commerce Act and created the Interstate Commerce Commission to administer it. The immediate problem was railroads. The railroads had developed a practice called *rate discrimination* — charging more for short hauls than long hauls on the same line, because on the short routes the shipper had no alternative carrier and the railroad knew it. A farmer in a small Iowa town, with one railroad and no competition, paid higher rates than a shipper in Chicago who could play three carriers against each other. Congress decided this was unfair and instructed the ICC to stop it.
 
-The ICC's century-plus operation was the prototype for the modern *administrative state* — the apparatus of federal agencies that, since the New Deal, has carried out most of the operational work of federal regulation. Contemporary U.S. business operates inside a regulatory environment shaped by approximately 100 major federal agencies (and many minor ones), most of which have rulemaking authority delegated by Congress.
+The ICC operated for 108 years, until 1995. By the time it was abolished, its original rate-regulation mission had been superseded by deregulation, and its remaining functions were transferred to the Surface Transportation Board. The commission itself is gone. What it left behind is the template for almost everything that came after it: a body of federal law governing a specific industry, administered by a specialized agency with expertise in that industry, empowered by Congress to make rules filling in the details the statute left open.
 
-This chapter is the operating manual for the administrative state.
+That template, replicated and expanded from the 1880s through the New Deal and into the present, is what we now call the administrative state. It is the apparatus through which most federal regulation of business actually operates — not through statutes that specify every requirement in detail, but through agencies that translate broad statutory mandates into operational rules. Understanding how that apparatus works, where its authority comes from, and how courts police its boundaries is the subject of this chapter.
 
-[FIGURE: A diagram showing the structure of administrative law: Congress passes enabling statutes → agencies promulgate regulations under APA notice-and-comment → courts review regulations under APA judicial review.]
+---
 
-## Learning objectives
+## Why Congress delegates
 
-By the end of this chapter, you will be able to:
+Here is a question worth asking before anything else: why doesn't Congress just write the rules itself?
 
-- **Identify** the major federal regulatory agencies (EPA, SEC, FDA, OSHA, FCC, NLRB) and **distinguish** their respective regulatory domains.
-- **Explain** the *Administrative Procedure Act* of 1946 and the rulemaking process it specifies.
-- **Apply** the standard for *judicial review* of agency action, including the *Chevron deference* doctrine and its 2024 partial replacement.
-- **Evaluate** specific regulatory actions under the framework.
+The answer has two parts.
 
-## Concept 1: The administrative state
+The first is expertise. The Federal Aviation Administration sets safety standards for commercial aircraft. The Food and Drug Administration evaluates new drug applications. The Nuclear Regulatory Commission licenses reactor designs. The details of aircraft maintenance schedules, clinical trial protocols, and reactor containment specifications are not things that 535 generalist legislators can specify with any competence. Congress can articulate the policy objective — safe aircraft, effective drugs, contained nuclear material — but it cannot write the technical rule. It needs people who understand aircraft and drugs and reactors.
 
-Federal agencies operate under *enabling statutes* that delegate rulemaking authority. The EPA operates under the Clean Air Act, Clean Water Act, RCRA, Superfund. The SEC operates under the Securities Act of 1933, Securities Exchange Act of 1934, and subsequent statutes. The FDA operates under the Federal Food, Drug, and Cosmetic Act. The pattern is consistent: Congress sets the policy framework; the agency operationalizes through regulation.
+The second is time. Congress is busy with everything simultaneously. If every OSHA workplace-safety standard, every EPA emissions limit, every SEC disclosure requirement had to go through the full legislative process — committee hearings, floor votes in both chambers, conference committee, presidential signature — the regulatory apparatus would freeze. There are thousands of specific technical requirements in the federal regulatory system. Congress cannot move at that pace. The administrative agency is the mechanism that allows regulatory capacity to scale beyond what the legislative process can produce.
 
-The *Administrative Procedure Act* of 1946 establishes the rulemaking process. The standard process: the agency publishes a *Notice of Proposed Rulemaking* in the Federal Register; the public submits comments during a specified period (typically 60-90 days); the agency reviews comments and publishes a *Final Rule* with response to material comments; the rule becomes effective on a specified date. The process is designed to ensure transparency, public participation, and reasoned decision-making.
+The consequence is *delegation*: Congress passes an enabling statute that establishes an agency, defines its jurisdiction, articulates its mission, and grants it authority to promulgate regulations within that mission. The EPA operates under the Clean Air Act, the Clean Water Act, the Resource Conservation and Recovery Act, and several others. The Securities and Exchange Commission operates under the Securities Act of 1933, the Securities Exchange Act of 1934, and subsequent statutes. The pattern is consistent across every major agency: Congress authorizes; the agency operationalizes.
 
-Agencies promulgate hundreds of substantive rules per year. The *Code of Federal Regulations* (CFR), which compiles federal regulations, runs to approximately 200 volumes covering 50 titles.
+The delegation creates an immediate constitutional tension. The Constitution gives lawmaking power to Congress. If Congress hands that power to an agency, is the agency making law? The short answer, developed through a century of constitutional litigation, is: yes, within limits. The limits are the subject of the judicial review doctrine, which this chapter addresses directly. But the delegation itself — the core mechanism of the administrative state — is constitutional and has been since the New Deal.
 
-## Concept 2: Judicial review of agency action
+<!-- → DIAGRAM: The delegation chain as a three-node flow: Congress (passes enabling statute with policy mandate and grant of rulemaking authority) → Agency (promulgates regulations within statutory scope) → Courts (review regulations for statutory and procedural compliance). Arrows in both directions between Agency and Courts to show the review relationship. Caption should note that this chain is the constitutional architecture of the administrative state — authority flows down, accountability flows back up through judicial review. -->
 
-Courts review agency action under the APA. The standard of review:
+---
 
-**Chevron deference** (from *Chevron U.S.A. v. NRDC* (1984)) — agencies receive substantial deference when their statute is ambiguous and they offer a reasonable interpretation. Chevron was the dominant doctrine for forty years.
+## How a regulation gets made
 
-In June 2024, the Supreme Court's decision in *Loper Bright Enterprises v. Raimondo* overruled *Chevron*. Under the post-*Loper Bright* framework, courts independently determine the best reading of ambiguous statutes rather than deferring to agency interpretations. The decision substantially shifted the balance between agency discretion and judicial review.
+The Administrative Procedure Act of 1946 is the procedural constitution of the administrative state. It specifies how agencies must make rules, how parties can challenge those rules, and on what grounds courts can set them aside. Before the APA, agencies operated under widely varying and sometimes arbitrary procedures. The APA imposed uniform standards across the federal bureaucracy.
 
-**Arbitrary-and-capricious review** under APA § 706 — agency action is set aside if it is *arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law*. The standard is more deferential than *de novo* review but less deferential than the pre-*Loper Bright* Chevron framework.
+The standard rulemaking process under the APA begins with a *Notice of Proposed Rulemaking* — an NPRM in the vocabulary every regulatory practitioner learns to use. The agency publishes the proposed rule in the Federal Register, the daily official publication of federal agency actions. The notice explains what the agency proposes to require, why it proposes to require it, and the legal authority on which it relies. The public then has a comment period — typically sixty to ninety days — to submit written comments.
 
-## Concept 3: The major regulatory agencies
+The comment process is not a vote. The agency does not count comments and do whatever the majority requests. What the agency must do is *consider* the significant comments and respond to them in the final rule. If ten thousand commenters argue that the agency's cost estimate is wrong, the final rule must address that argument. If a trade association submits technical data challenging the scientific basis for the rule, the agency must engage with that data. The requirement is reasoned response to material input, not capitulation to it.
 
-**EPA** (Environmental Protection Agency, 1970) — air, water, hazardous waste, pesticides, climate.
+After the comment period, the agency reviews what it received, revises the rule as it judges appropriate, and publishes a *Final Rule* in the Federal Register along with a *preamble* — sometimes hundreds of pages long in complex rulemakings — explaining its reasoning, responding to significant comments, and documenting the factual and legal basis for the rule. The rule then becomes effective on a specified date.
 
-**SEC** (Securities and Exchange Commission, 1934) — securities markets, public-company disclosure, broker-dealer regulation.
+The preamble is not decoration. It is the evidentiary record that courts review when the rule is challenged. A final rule with a thin, conclusory preamble is far more vulnerable to judicial challenge than one with a thorough record demonstrating that the agency considered the relevant factors and reached a reasoned conclusion. Regulatory lawyers spend enormous effort on preambles for exactly this reason.
 
-**FDA** (Food and Drug Administration, 1906/1938) — food safety, drugs, medical devices, tobacco.
+The process described above is *notice-and-comment* rulemaking — the standard APA process for substantive rules. The APA also provides for *formal* rulemaking (a full on-the-record trial-type proceeding, rarely used outside specific statutory contexts) and *informal* guidance documents (not binding rules, but influential in practice). The vast majority of significant federal regulatory requirements come through notice-and-comment.
 
-**OSHA** (Occupational Safety and Health Administration, 1970) — workplace safety.
+<!-- → DIAGRAM: APA notice-and-comment rulemaking as a horizontal timeline with five labeled stages: (1) Agency drafts proposed rule → (2) NPRM published in Federal Register, comment period opens (60–90 days) → (3) Public submits written comments → (4) Agency reviews comments, revises rule, drafts preamble responding to significant objections → (5) Final Rule published with preamble, effective date specified. Annotation at stage 4: "The preamble is the evidentiary record courts review on challenge." Reader should be able to trace any specific rule through this process. -->
 
-**FCC** (Federal Communications Commission, 1934) — broadcast, telecommunications, internet regulation.
+---
 
-**NLRB** (National Labor Relations Board, 1935) — labor relations, collective bargaining.
+## The agencies and their domains
 
-**FTC** (Federal Trade Commission, 1914) — consumer protection, antitrust enforcement (concurrent with DOJ Antitrust Division).
+The federal regulatory apparatus is distributed across approximately 100 agencies with rulemaking authority. The major ones that bear on business operations cluster into a few domains.
 
-**CFPB** (Consumer Financial Protection Bureau, 2010) — consumer financial protection.
+The **Environmental Protection Agency**, established in 1970 by executive reorganization under President Nixon, administers the Clean Air Act, the Clean Water Act, the Resource Conservation and Recovery Act, and the Comprehensive Environmental Response, Compensation, and Liability Act (Superfund), among others. EPA regulations govern air emissions, water discharges, hazardous waste management, chemical risk assessment, and cleanup liability. For any business with a manufacturing facility, a significant chemical inventory, or operations with environmental impact, EPA regulation is the most operationally consequential federal regulatory domain.
 
-Each agency operates within its enabling-statute scope. The boundaries between agencies are sometimes contested; the resolution typically requires either inter-agency coordination or congressional action.
+The **Securities and Exchange Commission**, established in 1934 in the wake of the 1929 market collapse, administers the federal securities laws. The SEC's core mission is investor protection through mandatory disclosure — the requirement that public companies tell investors the truth about their financial condition and material business risks. The Commission regulates the registration and ongoing disclosure requirements for public companies, the conduct of broker-dealers and investment advisers, and the operation of the securities exchanges. Any company with publicly traded securities, or contemplating a public offering, operates under continuous SEC oversight.
+
+The **Food and Drug Administration**, whose origins trace to 1906, administers the Federal Food, Drug, and Cosmetic Act and related statutes. The FDA's approval authority over new drugs and medical devices is the most consequential aspect of its jurisdiction for those industries: a drug cannot be marketed in the United States until the FDA has reviewed the clinical evidence and concluded that the drug is safe and effective for its intended use. The FDA also regulates food safety, dietary supplements, cosmetics, tobacco, and veterinary products. The agency's approval processes are among the most expensive and time-consuming regulatory requirements in any industry.
+
+The **Occupational Safety and Health Administration**, established in 1970, sets and enforces workplace safety and health standards. OSHA's general-duty clause requires employers to provide workplaces free from recognized hazards likely to cause death or serious physical harm — a broad standard that applies even when no specific OSHA standard addresses the hazard. For manufacturing, construction, and many service businesses, OSHA compliance is a significant operational requirement.
+
+The **Federal Communications Commission**, established in 1934, regulates broadcast, telecommunications, and internet service. The FCC licenses broadcast spectrum, regulates telecommunications common carriers, and has asserted — with varying legal success — jurisdiction over broadband internet service. The FCC's regulatory reach matters most for companies in the communications industry, but its rules on telephone marketing and broadcast content affect a broad range of businesses.
+
+The **National Labor Relations Board**, established in 1935 under the Wagner Act, administers the National Labor Relations Act. The NLRB's core functions are conducting union elections, enforcing the prohibition on unfair labor practices, and developing through adjudicated cases the law governing collective bargaining. The NLRB develops law primarily through case decisions rather than rulemaking, but its interpretations of the NLRA govern labor relations across essentially all private-sector employers.
+
+The **Federal Trade Commission**, established in 1914, has concurrent antitrust enforcement authority with the Department of Justice, and consumer-protection jurisdiction under the FTC Act's prohibition on *unfair or deceptive acts or practices in or affecting commerce*. The FTC's consumer-protection authority has been applied to data security, advertising claims, and, in the digital economy, competition and privacy in online markets.
+
+The **Consumer Financial Protection Bureau**, established by the Dodd-Frank Act in 2010, has jurisdiction over consumer financial products — mortgages, credit cards, student loans, payday loans. The CFPB combines rulemaking, examination, and enforcement authority in a single agency and has been legally contested since its creation on structural grounds.
+
+The jurisdictional lines among agencies are not always clean. Environmental regulation involves the EPA, the Army Corps of Engineers, the Fish and Wildlife Service, and OSHA. Financial regulation involves the SEC, the CFTC, the Federal Reserve, the OCC, the FDIC, and the CFPB. In sectors with overlapping jurisdiction, compliance means mapping all the relevant agencies — not just identifying the lead regulator.
+
+<!-- → TABLE: Major federal regulatory agencies reference table — rows: EPA, SEC, FDA, OSHA, FCC, NLRB, FTC, CFPB. Columns: Year established | Primary enabling statute(s) | Core regulatory domain | Primary business sectors affected. Reader should be able to use this as a quick-reference card when identifying which agencies govern a specific business activity. -->
+
+---
+
+## How courts police the boundary
+
+Agency authority is not unlimited. The enabling statute defines the scope of what the agency can regulate; the APA defines the process by which it must regulate; and courts review agency action to ensure both limits are respected.
+
+The standard of APA review on the *substance* of agency rules is the *arbitrary-and-capricious* standard of Section 706: courts set aside agency action that is *arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law*. The standard is deferential but not a rubber stamp. The Court articulated the operative requirement in *Motor Vehicle Manufacturers Association v. State Farm* (1983): the agency must have *considered the relevant factors and articulated a rational connection between the facts found and the choice made*. An agency that ignores significant contrary evidence, that fails to consider a material alternative, or that offers post-hoc rationalizations rather than contemporaneous reasoning will lose.
+
+For forty years after *Chevron U.S.A., Inc. v. Natural Resources Defense Council* (1984), the most important doctrine governing judicial review of agency *statutory interpretation* was *Chevron deference*. The two-step framework: first, if Congress has directly addressed the question at issue, that is the end — the court applies the statute. Second, if the statute is ambiguous, the court asks only whether the agency's interpretation is *reasonable* — if it is, the court defers. The practical effect was to concentrate interpretive authority in agencies. When the Clean Air Act was ambiguous about whether greenhouse gases were *air pollutants*, the EPA's answer received judicial deference as long as it was reasonable.
+
+In June 2024, the Supreme Court's decision in *Loper Bright Enterprises v. Raimondo* overruled *Chevron*. Chief Justice Roberts's majority opinion held that courts must exercise independent judgment in determining the best reading of ambiguous statutes. The Administrative Procedure Act requires courts to *decide all relevant questions of law* — and statutory interpretation is a question of law, properly for courts, not for agencies. Forty years of *Chevron* deference ended with that opinion.
+
+The immediate consequence is that regulations built on aggressive interpretations of ambiguous statutory authority are now more vulnerable to judicial challenge. An agency that stretched its enabling statute to reach a new domain — claiming, say, authority over digital assets under a securities law written in 1934, or authority to restructure the power grid under a Clean Air Act provision designed for facility-level controls — now faces a court that will independently assess whether the statute actually supports that reading. The *Chevron* cushion is gone.
+
+That last example is the *West Virginia v. EPA* (2022) case, decided two years before *Loper Bright*, which applied the related *major questions doctrine*: when an agency claims authority to regulate matters of vast economic and political significance, it needs *clear* congressional authorization, not merely a plausible reading of an ambiguous statute. The EPA had argued that a Clean Air Act provision authorizing the agency to regulate emissions at existing power plants authorized it to shift generation across the entire U.S. power sector toward renewables. The Court held this was a major question, that Congress had not clearly authorized it, and that the rule was invalid. The major questions doctrine and the post-*Loper Bright* framework operate in parallel: the bigger the regulatory claim, the clearer the statutory authorization must be.
+
+The practical implication for business: regulatory stability depends on how clearly Congress authorized the regulation in question. Rules resting on explicit statutory language are stable. Rules resting on agency interpretation of ambiguous authority — which describes a significant portion of the regulatory landscape built up over the *Chevron* era — are more exposed than they were before 2024. The post-*Loper Bright* environment is one in which the legal foundations of parts of the administrative state are being tested, and the outcomes of that testing will reshape the regulatory environment over the coming decade.
+
+<!-- → DIAGRAM: Judicial review framework as a two-track decision tree. Track 1 — Procedural challenge (APA § 706 arbitrary-and-capricious): Did the agency consider relevant factors? Did it articulate a rational connection between facts and rule? If no to either → rule set aside. Track 2 — Statutory authority challenge (post-Loper Bright): What is the court's independent best reading of the statute? Does the statute clearly authorize this rule? If major question: is authorization explicit? Nodes should show the pre-2024 Chevron step 2 as a dotted box marked "OVERRULED." Reader should be able to walk any agency challenge through both tracks. -->
+
+---
+
+## What the apparatus does to business
+
+Every business of meaningful scale operates inside the regulatory perimeters this chapter has described. The practical content varies by industry, but three structural features are constant.
+
+The first is *compliance cost*. Regulatory requirements impose costs: hiring environmental compliance staff, maintaining OSHA safety programs, building the disclosure infrastructure the SEC requires, running the pharmacovigilance programs FDA-regulated drug approvals demand. For heavily regulated industries, these costs are substantial. A pharmaceutical company's regulatory affairs function can be hundreds of employees. A mid-sized bank's compliance organization is similarly large. Regulatory cost is a fixed feature of operating in regulated industries, and it is properly understood as part of the cost structure of doing business, not an externality imposed on an otherwise efficient market.
+
+The second is *regulatory risk*. The regulatory environment is not static. Agencies promulgate new rules, revise existing ones, change enforcement priorities, and — as *Loper Bright* illustrates — find their interpretive authority renegotiated by courts. A business that built its operating model around a specific regulatory interpretation may find that interpretation reversed. Managing regulatory risk means monitoring the environment, participating in rulemakings when proposed rules would affect operations, and building operational flexibility into structures that depend on regulatory assumptions.
+
+The third, less often acknowledged, is *regulatory opportunity*. Regulatory requirements that apply uniformly to all competitors raise compliance costs uniformly — no competitive disadvantage. Regulatory requirements that your firm can meet more cheaply than competitors, because of superior process, technology, or scale, create competitive advantage. Regulatory expertise that allows faster navigation of complex approvals — FDA drug approvals, SEC registration processes, EPA permits — translates into commercial timing advantages. The administrative state is not only a constraint; it is also a competitive landscape, and firms that understand it well enough to operate inside it strategically have advantages over firms that treat it as an obstacle to route around.
+
+The ICC set the template in 1887 because Congress needed a mechanism to translate a policy decision — railroad rate discrimination should stop — into operational rules that could govern thousands of specific transactions. The same logic that produced the ICC produces the EPA and the SEC and the FDA and every other agency on the list. The translation problem — from statutory policy to operational requirement — is not solved by legislation alone. It requires an institution with expertise, continuity, and the procedural discipline to make rules that can survive judicial review. The APA is the framework that imposes that discipline. Understanding it is the minimum competency for operating inside the regulatory environment that the United States has built.
 
 ---
 
 ## Exercises
 
-**Exercise 10.1.** Identify three major federal regulatory agencies and the major statutes each enforces. Difficulty: easy.
+**Warm-up**
 
-**Exercise 10.2.** Apply the post-*Loper Bright* judicial-review framework to a specific agency rulemaking. Difficulty: moderate.
+**Exercise 10.1.** *Tests: delegation and enabling statutes.* Choose any two of the eight agencies described in this chapter. For each, identify: (a) the year it was established, (b) the primary enabling statute it administers, and (c) one specific category of business operations it regulates. Difficulty: easy.
 
----
+**Exercise 10.2.** *Tests: APA rulemaking process.* In your own words, trace the notice-and-comment rulemaking process from the agency's initial decision to regulate through the effective date of the final rule. At which stage is the evidentiary record assembled that courts will later review? Difficulty: easy.
 
-## Chapter summary
+**Application**
 
-You can identify the major federal regulatory agencies, explain the APA rulemaking process, and apply the contemporary judicial-review framework. The administrative state is the apparatus through which most of contemporary federal regulation operates.
+**Exercise 10.3.** *Tests: APA notice-and-comment in practice.* A trade association representing mid-sized food manufacturers receives notice of a proposed FDA rule requiring new front-of-package nutrition labeling. The association believes the rule's cost estimate understates actual compliance costs by a factor of three and that the agency has not considered a less burdensome alternative (updating existing back-of-package labels rather than creating new front-of-package requirements). Using the APA framework from this chapter, describe: (a) how the association should participate in the rulemaking, (b) what the agency must do with the association's comments, and (c) on what grounds the association could challenge the final rule in court if the agency fails to address the cost and alternative arguments. Difficulty: moderate.
 
-## Connections forward
+**Exercise 10.4.** *Tests: Chevron deference and Loper Bright.* The CFPB issues a rule interpreting the Dodd-Frank Act's prohibition on "unfair, deceptive, or abusive acts or practices" to cover a specific category of digital wallet fee. A financial services company challenges the rule, arguing that the Dodd-Frank Act does not clearly authorize the CFPB to reach this conduct. How would a court have analyzed this challenge under the pre-2024 *Chevron* framework? How does the analysis change after *Loper Bright*? What would the company need to show to prevail? Difficulty: moderate.
 
-Chapter 11 turns to *antitrust law* — one of the major substantive regulatory frameworks the FTC and DOJ enforce.
+**Synthesis**
+
+**Exercise 10.5.** *Tests: delegation, rulemaking, and judicial review together.* The FCC proposes a rule asserting authority to require broadband internet service providers to offer subsidized service to low-income households, citing a general provision of the Communications Act directing the FCC to promote "universal service." The rule faces immediate legal challenge on two grounds: (a) Congress never clearly authorized the FCC to mandate subsidized service, and (b) the FCC's cost-benefit analysis in the final rule preamble ignored a substantial body of economic evidence submitted during the comment period. Map the full legal analysis — constitutional delegation, statutory authority, and APA arbitrary-and-capricious review — and predict the likely outcome under the current doctrine. Difficulty: harder.
+
+**Challenge**
+
+**Exercise 10.6.** *Tests: the major questions doctrine and its implications.* The major questions doctrine, as applied in *West Virginia v. EPA* (2022), requires clear congressional authorization for agency claims of authority over matters of vast economic or political significance. Identify a current federal regulatory initiative — in environmental, financial, technology, or healthcare regulation — that you believe could plausibly be challenged under the major questions doctrine. Construct the argument that the initiative is a major question requiring clearer authorization, and construct the government's best counterargument. What evidence would a court look for in deciding whether this is a "major question"? Difficulty: challenge.
