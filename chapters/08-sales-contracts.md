@@ -112,3 +112,46 @@ Contract law, when you look at it carefully, is not primarily about punishment. 
 This has an implication worth taking seriously. The law does not prohibit breach of contract. It prices it. If a party can breach a contract, pay the other party's expectation damages, and still come out ahead — because the value of the performance to them fell below its cost — the law generally allows that. Economists call this *efficient breach*: it is sometimes more valuable for a resource to go somewhere other than where a contract directed it, and the damages system permits that reallocation while compensating the party who had to give up their contractual expectation.
 
 Whether you find this morally satisfying depends on your intuitions about promise-keeping. What it means practically is that contract law is designed to make commercial activity reliable, not to guarantee that every promise is kept. The smoke-ball company had to pay Mrs. Carlill because the machinery said so. If the machinery had produced the opposite result — if advertisements could never be binding, if there were no way to make a credible public commitment — the world would contain fewer such commitments, and commercial life would be harder to navigate. The doctrine's job is to create the conditions under which people can trust each other enough to transact, and the five-element framework, with its genuine-agreement qualifications and its calibrated remedies, is the specific mechanism by which that job gets done.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 8-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A small electronics manufacturer in Texas orders 500 specialized circuit boards from a supplier in California for $42,000. The agreement is documented in a one-page purchase order that specifies the boards must meet IPC-A-610 Class 3 quality standards. The supplier ships 480 boards, of which 60 fail incoming inspection at the buyer's plant. The buyer notifies the supplier within five days, requesting either a full replacement of the failed boards or a price adjustment. The supplier refuses, citing a clause in its standard terms-and-conditions document — sent after the purchase order but before shipment — limiting liability to repair-or-replace at the supplier's option. Apply UCC Article 2 to this fact pattern. Identify whether the supplier's terms became part of the contract under § 2-207 (the 'battle of the forms'). Identify the buyer's rights under the perfect tender rule and the available remedies for non-conforming goods."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify whether both parties are merchants under § 2-104? Did it engage with the § 2-207(2) analysis of additional terms (whether the limitation materially alters the contract)? Did it distinguish the perfect tender rule from substantial-performance rules in service contracts? Did it identify the buyer's options under § 2-601 (accept, reject, or accept some and reject the rest)? Write a 400-word evaluation.
+
+**Exercise 8-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A regional grocery chain enters into a five-year exclusive supply agreement with a fresh-produce distributor. The agreement specifies weekly minimum purchase quantities and a floor price. Eighteen months in, a major drought significantly increases the distributor's costs. The distributor invokes § 2-615 (excuse by failure of presupposed conditions) and seeks to renegotiate the floor price. The grocery chain refuses. Apply the UCC framework to this dispute. Identify the elements of § 2-615 commercial impracticability. Identify the alternative arguments the distributor could raise (force majeure if any clause exists; frustration of purpose; mutual mistake regarding underlying conditions). Assess the likelihood that any of these arguments would succeed under current case law."
+
+Compare the two responses. Which response correctly distinguishes § 2-615 from common-law impracticability? Which response engages with the high bar courts have set for commercial impracticability (the unforeseeability requirement)? Which response distinguishes drought-as-foreseeable-business-risk from drought-as-extraordinary-event? Write a 300-word comparative analysis.
+
+**Exercise 8-LLM-3 (synthesis).** You are a contracts counsel for an industrial manufacturer that sells specialized equipment under master supply agreements. The company is updating its standard terms-and-conditions document. The current version contains broad disclaimers of implied warranties (including merchantability and fitness for particular purpose), liquidated-damages clauses, and a damages cap at the contract price.
+
+Draft a prompt that you would give to a large language model to help you analyze the proposed contract design. The prompt should ask the LLM to: (1) identify the enforceability framework for warranty disclaimers under UCC § 2-316, including the conspicuousness requirement and the limits on disclaiming the implied warranty of merchantability in consumer transactions; (2) assess the enforceability of the liquidated-damages clause under § 2-718 (reasonableness as of contract formation, not in hindsight); (3) identify the limits of damages caps under § 2-719 (whether the cap fails of its essential purpose; whether consequential damages can be excluded for personal injury in consumer goods); and (4) propose three specific drafting changes that would maximize enforceability while preserving the company's risk-management interests.
+
+After drafting the prompt, evaluate it: what specific facts about the company's customer base (commercial vs. consumer; sophisticated vs. unsophisticated) would the LLM need to produce a useful analysis? Where would you need a UCC specialist to override or revise the LLM's recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Soia Mentschikoff** was Karl Llewellyn's co-author and the first woman law professor at both Harvard and Chicago — and the principal drafter of the UCC sales article (Article 2). The sales-contract framework you use today is essentially hers.
+
+**Run this:**
+
+```
+Who was Soia Mentschikoff, and how does her work drafting UCC Article 2 connect to the sales contracts we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Soia Mentschikoff"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one UCC Article 2 provision Mentschikoff drafted (the perfect tender rule, the battle of the forms) — what problem was she solving?
+- Ask it about the institutional barriers Mentschikoff navigated as a woman in mid-20th-century legal academia.
+
+What changes? What gets better? What gets worse?

@@ -183,6 +183,49 @@ The single idea that matters most is that the employment-law framework is not ba
 
 ---
 
+## LLM Exercises
+
+**Exercise 9-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A 56-year-old senior software engineer is informed by her employer that her position is being 'eliminated' due to a department restructuring. She is offered a severance package conditional on signing a release of all claims. After her departure, she discovers that her duties have been reassigned to a 32-year-old recently hired engineer with less experience, and that two other employees over 50 in adjacent departments were also terminated as part of the same restructuring. Apply the federal employment-discrimination framework. Identify which statutes plausibly apply (ADEA, Title VII, ADA if relevant). Apply the *McDonnell Douglas* burden-shifting framework. Identify the elements of a prima facie case, the employer's likely articulated legitimate non-discriminatory reason, and the evidence the plaintiff could use to show pretext."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify the ADEA's age-40 threshold? Did it engage with the *Gross v. FBL Financial Services* (2009) but-for-causation standard for ADEA claims? Did it distinguish the disparate-treatment framework from a disparate-impact analysis based on the multi-employee pattern? Did it consider the enforceability of the release? Write a 400-word evaluation.
+
+**Exercise 9-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A delivery-platform company classifies its drivers as independent contractors. A multi-state class of drivers files suit alleging misclassification under federal Fair Labor Standards Act and state wage-and-hour laws (including California AB-5 and the ABC test). The company defends by citing the contractual designation, the drivers' ability to work for competing platforms, and the drivers' use of their own vehicles. Apply the multi-factor employee-vs-contractor framework. For each factor (control, integration, opportunity for profit/loss, skill requirements, permanence, capital investment), identify how the facts cut for each side. Apply the ABC test specifically and assess how it differs from the IRS 20-factor test and the FLSA economic-realities test."
+
+Compare the two responses. Which response correctly distinguishes federal classification doctrine from California's stricter ABC test? Which response engages with the *Dynamex* (2018) and post-AB-5 case law? Which response identifies the federal-state preemption question raised by the FLSA's potential ceiling on state classification? Write a 400-word comparative analysis.
+
+**Exercise 9-LLM-3 (synthesis).** You are HR director at a regional retailer with 1,200 employees across 14 states. A long-tenured employee has filed an internal complaint alleging that her supervisor retaliated against her after she raised concerns about safety violations to OSHA six months ago. The supervisor, in turn, has documented performance issues that pre-date the OSHA complaint by three months. You must decide whether to (a) terminate the employee for performance, (b) place the employee on a performance-improvement plan, or (c) commission an independent investigation.
+
+Draft a prompt that you would give to a large language model to help you analyze the retaliation exposure. The prompt should ask the LLM to: (1) identify each federal statute under which the employee could plausibly bring a retaliation claim (OSHA whistleblower provisions, NLRA concerted-activity protection if relevant, Title VII or ADEA if she has also raised discrimination concerns); (2) apply the *Burlington Northern v. White* (2006) materially-adverse-action standard to each contemplated action; (3) assess the temporal-proximity inference from the timing of the OSHA complaint; and (4) recommend an action with explicit reasoning about which path minimizes retaliation exposure while preserving the company's performance-management interests.
+
+After drafting the prompt, evaluate it: what specific facts about the supervisor's documented performance concerns would the LLM need to produce a useful analysis? Where would you need an employment-litigation specialist to override or revise the LLM's recommendation?
+
+---
+
 ## Connections forward
 
 Chapter 10 turns to government regulation and the administrative-state apparatus — the agencies, rulemaking procedures, enforcement mechanisms, and judicial-review frameworks through which most contemporary employment regulation actually operates. The EEOC, the NLRB, OSHA, the DOL Wage and Hour Division — each is an administrative agency, and the framework for understanding what agencies can do and how to challenge what they do is Chapter 10's subject.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Frances Perkins** drafted the Social Security Act, the Fair Labor Standards Act (40-hour week, minimum wage), and the architecture of US unemployment insurance — as FDR's Labor Secretary and the first woman to serve in a US cabinet. Modern employment law is built on her foundation.
+
+**Run this:**
+
+```
+Who was Frances Perkins, and how does her work designing US labor and employment law connect to the framework we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Frances Perkins"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace one specific FLSA provision (overtime pay, child labor protection) from Perkins's 1938 design to today.
+- Ask it about Perkins's role in the witnesses-to-the-Triangle-Shirtwaist-Fire generation and how 1911 shaped her policy career.
+
+What changes? What gets better? What gets worse?

@@ -130,3 +130,46 @@ Understanding the framework means knowing which analytical track applies to a gi
 ### Challenge
 
 **Exercise 11.6.** *Tests learning objective: remedies design.* The DOJ has proposed forced divestiture of Chrome or Android as a remedy in the Google search case. Design an alternative remedy — behavioral rather than structural — that would address the default-placement mechanism without breaking up the company. Identify what your remedy would require Google to do, how compliance would be monitored, and what competitive harm, if any, your remedy would fail to address. Difficulty: challenge.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 11-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "Three competing manufacturers of industrial chemicals attend a trade-association meeting. After the formal agenda concludes, executives from the three firms share dinner at a hotel restaurant. Over the next 18 months, the firms' published prices for the relevant chemical move in synchronization, with each firm raising prices within two weeks of the others. There is no documentary evidence of an agreement. The Department of Justice opens a Section 1 Sherman Act investigation. Apply the per se vs. rule of reason framework. Identify whether the alleged conduct (parallel pricing without proven agreement) constitutes a per se violation, requires rule-of-reason analysis, or fails the agreement element entirely. Identify the *plus factors* the government would need to establish to prove an agreement from circumstantial evidence."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly distinguish parallel conduct (legal) from concerted action (potentially illegal)? Did it engage with the *Twombly* (2007) pleading standard and its impact on antitrust litigation? Did it identify the relevant plus factors (motive, opportunity, against-self-interest action, evidence of communication)? Write a 400-word evaluation.
+
+**Exercise 11-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A large platform technology company is acquiring a smaller competitor that operates in an adjacent market. The combined firm would have approximately 40 percent market share in the adjacent market, calculated by revenue. The Federal Trade Commission opens a Section 7 Clayton Act investigation. Apply the merger review framework. Identify the relevant product market and geographic market analysis. Apply the Herfindahl-Hirschman Index (HHI) thresholds from the 2023 DOJ-FTC Merger Guidelines. Identify the substantive theories of harm the FTC could pursue (horizontal effects, vertical foreclosure, elimination of potential competition, nascent-competitor concerns, ecosystem effects). Assess the merging parties' most likely defenses (failing-firm, efficiencies, divestiture remedies)."
+
+Compare the two responses. Which response correctly applies the post-2023 Merger Guidelines' lower HHI thresholds? Which response engages with the platform-specific theories of harm (network effects, data moats)? Which response distinguishes the FTC's administrative adjudication path from federal-court litigation? Write a 400-word comparative analysis.
+
+**Exercise 11-LLM-3 (synthesis).** You are general counsel for a regional supermarket chain considering a price-matching policy. The policy would commit the chain to matching any local competitor's advertised price on identical items, automatically and publicly. The CEO believes the policy would build customer loyalty. You suspect it could create antitrust exposure as a facilitating practice.
+
+Draft a prompt that you would give to a large language model to help you analyze the proposed policy. The prompt should ask the LLM to: (1) identify the antitrust framework applicable to facilitating practices (price-signaling, most-favored-nation clauses, advance price announcements) under Sherman Act § 1 and FTC Act § 5; (2) assess the *Ethyl Corp.* (1984) precedent and subsequent FTC enforcement against facilitating practices; (3) distinguish unilateral price-matching policies (generally legal) from coordinated industry-wide adoption (potentially illegal); (4) identify the design choices that maximize procompetitive justification while minimizing risk (limit to specific competitor categories, retain unilateral discretion, avoid coordinating-with-competitors language); and (5) recommend a final policy design with explicit reasoning.
+
+After drafting the prompt, evaluate it: what specific facts about the local market structure would the LLM need to produce a useful analysis? Where would you need an antitrust specialist to override or revise the LLM's recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Lina Khan** wrote "Amazon's Antitrust Paradox" as a Yale Law student in 2017 — arguing that the consumer-welfare framework that has dominated antitrust since the 1970s misses platform monopoly power entirely. She became FTC Chair at 32 and tried to put the argument into practice.
+
+**Run this:**
+
+```
+Who is Lina Khan, and how does her antitrust framework connect to the antitrust law we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Lina Khan"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through the core argument of "Amazon's Antitrust Paradox" — what specifically does the consumer-welfare standard miss?
+- Ask it to compare Khan's revival of structural antitrust with Robert Bork's consumer-welfare position that dominated for forty years.
+
+What changes? What gets better? What gets worse?

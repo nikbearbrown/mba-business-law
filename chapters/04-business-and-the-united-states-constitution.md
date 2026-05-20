@@ -110,3 +110,46 @@ The states retained their police power, and they exercise it substantially. Cali
 The result is a regulatory environment that is, by design, complex. Every significant federal regulation rests on a contestable constitutional authority. Every state regulation sits inside a framework that includes both the possibility of federal preemption and the possibility of dormant Commerce Clause challenge. The complexity is not an accident. It is the product of a constitutional structure deliberately designed to distribute authority among multiple levels of government, to prevent any single level from accumulating unchecked power, and to force the ongoing negotiation of regulatory boundaries through courts and legislatures rather than settling them once and for all.
 
 Working inside that structure — knowing which regulations rest on which constitutional grounds, knowing when a preemption argument is available and when it isn't, knowing when a state regulation is vulnerable to Commerce Clause challenge and when it will survive — is the practical content of what this chapter is about.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 4-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A state passes a law requiring all milk sold within the state to be processed at facilities physically located within the state. Out-of-state dairy producers challenge the law as a violation of the dormant Commerce Clause. Apply the dormant Commerce Clause framework to this fact pattern. Identify whether the law discriminates against interstate commerce on its face, in purpose, or in effect. Apply the appropriate level of scrutiny. Identify the strongest argument the state could make in defense — including any *Pike v. Bruce Church* balancing argument — and assess whether it would succeed."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify the discrimination as facial rather than effects-based? Did it apply strict scrutiny rather than the *Pike* balancing test? Did it engage with the legitimate-local-interest exception, or default to it as a winning defense? Write a 300-word evaluation.
+
+**Exercise 4-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "Identify three Supreme Court cases since 2010 in which a federal statute was challenged as exceeding Congress's authority under the Commerce Clause. For each case, name the statute, the activity Congress sought to regulate, the constitutional theory the challenger advanced, and the Court's holding. Then assess whether the post-1937 deferential framework articulated in *Wickard v. Filburn* remains the operative standard, or whether the Court has narrowed it in any consequential way."
+
+Compare the two responses. Which response correctly identifies *NFIB v. Sebelius* (2012) and the activity-vs-inactivity distinction? Which response engages with *United States v. Morrison* (2000) accurately? Which response distinguishes the Commerce Clause holding from any spending-power or anti-commandeering holding in the same case? Write a 400-word comparative analysis.
+
+**Exercise 4-LLM-3 (synthesis).** You are general counsel for a state legislature drafting a new consumer-protection statute. The statute would impose disclosure requirements on out-of-state online retailers that sell to in-state consumers. The legislature wants the law to survive constitutional challenge.
+
+Draft a prompt that you would give to a large language model to help you analyze the constitutional design choices. The prompt should ask the LLM to: (1) identify the federal statutes the proposed law could be argued to be preempted by, including any *Wayfair*-style state-tax-authority precedents; (2) draft alternative formulations of the disclosure requirement that would minimize dormant Commerce Clause exposure (facially neutral, applies equally to in-state and out-of-state actors, narrowly tailored); (3) identify the Tenth Amendment and anti-commandeering risks if the law conscripts state officials to enforce against private parties; and (4) recommend three specific drafting choices, with reasoning, that would strengthen the statute against challenge.
+
+After drafting the prompt, evaluate it: what specific facts about the state's commercial environment would the LLM need to produce a useful analysis? Where would you need a constitutional-law specialist to override or revise the LLM's recommendations?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Felix Frankfurter** spent decades on the Supreme Court shaping the commerce clause and economic regulation — and earlier, as a Harvard Law professor and FDR adviser, he helped draft the labor and securities laws that constitute the modern business-Constitution framework.
+
+**Run this:**
+
+```
+Who was Felix Frankfurter, and how does his commerce-clause jurisprudence connect to the relationship between business and the US Constitution we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Felix Frankfurter"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one Frankfurter commerce-clause opinion that's still cited in business-regulation cases today.
+- Ask it about the Frankfurter–Black judicial-philosophy split — what stakes for business law sat on each side?
+
+What changes? What gets better? What gets worse?

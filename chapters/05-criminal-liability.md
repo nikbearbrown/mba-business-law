@@ -130,3 +130,46 @@ The criminal-civil distinction means that whatever the criminal proceeding produ
 What this apparatus gives you is the working diagnosis: the categories the conduct falls into, the statutes that apply, the constitutional rights that can be asserted, the tracks on which proceedings will run. The remedy is operational — retain qualified criminal defense counsel, document the firm's compliance history, evaluate the cooperation question carefully, prepare for both criminal and civil proceedings from the first day. But none of those operational decisions can be made intelligently without the structural framework this chapter has built.
 
 That is what the apparatus is for.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 5-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A regional bank's chief financial officer instructs subordinates to record fictitious revenue on the books to meet quarterly earnings targets. The instructions are conveyed orally, in private meetings, with no written record. Quarterly results are filed with the SEC. Two years later, an internal whistleblower reports the practice. Apply the federal white-collar criminal-law framework to this fact pattern. Identify each plausible federal charge (securities fraud, wire fraud, conspiracy, false statements). For each, identify the elements the government must prove, the strongest evidence available on these facts, and the strongest defense the CFO could raise. Distinguish individual liability from corporate liability."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly distinguish the *mens rea* requirements across the different statutes? Did it identify the *Yates*-memo individual-prosecution emphasis? Did it engage with the *respondeat superior* basis for corporate liability, or treat the corporation and the individual as interchangeable? Write a 400-word evaluation.
+
+**Exercise 5-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "The 2002 Sarbanes-Oxley Act and the 2010 Dodd-Frank Act significantly expanded federal white-collar criminal liability for corporate executives, particularly through certification requirements (SOX § 302/906) and clawback provisions. Identify three specific provisions across these two statutes that imposed criminal liability on corporate officers, and for each: name the conduct criminalized, the maximum penalty, and at least one prosecution under the provision since 2010. Assess whether the prosecution rate matches the deterrent intent of the statute."
+
+Compare the two responses. Which response correctly identifies the SOX § 906 willfulness standard? Which response engages with the underwhelming actual prosecution rate under SOX certification provisions? Which response distinguishes criminal liability from SEC civil enforcement and clawback recovery? Write a 300-word comparative analysis.
+
+**Exercise 5-LLM-3 (synthesis).** You are advising the audit committee of a publicly-traded company. The company's internal investigation has uncovered evidence that a senior executive may have engaged in conduct that could constitute federal wire fraud and securities fraud. The committee must decide within 72 hours whether to (a) self-report to the DOJ and SEC under the corporate self-disclosure framework, (b) terminate the executive without self-reporting and rely on internal remediation, or (c) wait for additional facts before acting.
+
+Draft a prompt that you would give to a large language model to help you advise the committee. The prompt should ask the LLM to: (1) identify the specific benefits and costs of self-reporting under current DOJ corporate-enforcement policy (the Monaco Memo framework, NPAs, DPAs, and declination decisions); (2) assess the reputational, securities-disclosure, and shareholder-derivative-suit consequences of each option; (3) identify the most likely DOJ response to each path based on recent comparable cases; and (4) recommend a path with explicit reasoning about which considerations dominate.
+
+After drafting the prompt, evaluate it: what specific facts about the underlying conduct would the LLM need to produce a useful analysis? Where would you need a former federal prosecutor to override or revise the LLM's strategic recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Edwin Sutherland** coined the term "white-collar crime" in his 1939 American Sociological Association presidential address — challenging the assumption that crime was a working-class problem. He spent the rest of his career documenting corporate criminality.
+
+**Run this:**
+
+```
+Who was Edwin Sutherland, and how does his concept of "white-collar crime" connect to the corporate criminal liability we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Edwin Sutherland"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Sutherland's framework to one specific recent corporate prosecution (Enron, Volkswagen, Theranos).
+- Ask it about Sutherland's differential association theory — and how it explains corporate crime as learned, not pathological.
+
+What changes? What gets better? What gets worse?

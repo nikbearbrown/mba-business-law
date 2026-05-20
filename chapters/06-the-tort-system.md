@@ -184,3 +184,24 @@ Compare the two responses. Which response better distinguishes the three product
 Draft a prompt that you would give to a large language model to help you analyze Highland's exposure. The prompt should ask the LLM to: (1) apply the negligence framework to the facts as you know them; (2) identify Highland's strongest defenses given the liability waiver members sign and any contributory negligence argument; (3) assess whether the maintenance record (18 months without inspection, prior member complaints, manufacturer's 6-month recommendation) creates punitive-damages exposure; and (4) recommend three operational changes Highland should make immediately, with an explanation of how each change reduces future tort exposure.
 
 After drafting the prompt, evaluate it: what specific facts would you need to supply for the LLM to produce a useful analysis? Where would you need a human attorney to check or override the LLM's output? What is the most likely way the LLM gets the analysis wrong?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Guido Calabresi** wrote *The Cost of Accidents* in 1970 — laying the foundation for the law-and-economics approach to tort law. His later judicial career on the Second Circuit applied the framework to real cases.
+
+**Run this:**
+
+```
+Who is Guido Calabresi, and how does his law-and-economics analysis of accident law connect to the tort system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Guido Calabresi"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Calabresi's "cheapest cost avoider" rule on one specific product-liability scenario.
+- Ask it to compare Calabresi's economic view of tort law with the "corrective justice" view of Ernest Weinrib.
+
+What changes? What gets better? What gets worse?

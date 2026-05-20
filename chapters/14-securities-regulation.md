@@ -154,3 +154,46 @@ You have the apparatus. The rest of your working life is where it operates.
 ### Challenge
 
 **Exercise 14.6.** *Tests learning objective: disclosure philosophy.* The SEC's climate-disclosure rules require public companies to disclose material climate risks and greenhouse gas emissions. Critics argue that this exceeds the SEC's statutory mandate, which is investor protection through financial disclosure rather than environmental regulation. Defenders argue that climate risk is a material financial risk that falls squarely within the SEC's authority. Construct the strongest version of each argument. Then state which argument you find more persuasive and why, acknowledging the strongest counterpoint to your position. Difficulty: challenge.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 14-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A founder of a venture-backed startup begins informally discussing a potential acquisition of his company by a publicly-traded acquirer. The discussions are confidential and not yet at a binding stage. The founder mentions the discussions to his wife. The wife mentions the discussions to her sister. The sister buys 5,000 shares of the publicly-traded acquirer's stock. Two months later, the acquisition is announced and the acquirer's stock rises 18 percent. The SEC opens an insider-trading investigation. Apply the Section 10(b) and Rule 10b-5 framework. Identify whether each link in the chain (founder, wife, sister) committed insider trading. Apply the *Dirks v. SEC* (1983) personal-benefit standard for tippee liability. Apply the *Salman v. United States* (2016) refinement that a 'meaningful close personal relationship' suffices to establish the personal benefit. Assess each party's exposure."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly distinguish the misappropriation theory (relevant to outsiders) from classical theory (relevant to insiders)? Did it apply the personal-benefit element to the founder-wife transmission (typically met in family relationships) and the wife-sister transmission? Did it identify the materiality and the timing of the disclosure as elements? Write a 400-word evaluation.
+
+**Exercise 14-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A late-stage startup is preparing for an initial public offering. The company is considering whether to file under the standard IPO process or to merge with a special-purpose acquisition company (SPAC). Apply the Securities Act of 1933 framework to compare the two paths. For the standard IPO: identify the registration requirements (S-1 disclosures, financial-statement requirements, expert-attestation requirements), the prospectus delivery rules, and the underwriter due-diligence framework. For the SPAC: identify the disclosure framework that applies (post-2024 SEC rules treating SPAC business combinations more like traditional IPOs), the projection-disclosure rules, and the recent shift in liability protections for forward-looking statements. Assess the trade-offs between the two paths."
+
+Compare the two responses. Which response correctly identifies the post-2024 SEC SPAC rules and their effect on liability protections? Which response engages with the PSLRA safe harbor for forward-looking statements and its differential application to standard IPOs vs. SPAC business combinations? Which response distinguishes the costs and timeline of each path with reference to current data? Write a 400-word comparative analysis.
+
+**Exercise 14-LLM-3 (synthesis).** You are general counsel for a publicly-traded company. The CEO has informed you that the company will miss its quarterly earnings guidance by approximately 35 percent due to an unexpected supply-chain disruption affecting the company's largest product line. The CEO wants to delay disclosure until after the earnings release in three weeks, arguing that the supply-chain situation may improve. You must advise the CEO on the disclosure obligations and recommend a disclosure strategy.
+
+Draft a prompt that you would give to a large language model to help you analyze the disclosure obligations. The prompt should ask the LLM to: (1) identify the disclosure framework applicable to material adverse events between scheduled disclosures (Form 8-K Item 2.02 results-of-operations triggers; Item 8.01 other events; Regulation FD selective-disclosure rules); (2) apply the materiality standard from *TSC Industries v. Northway* (1976) and *Basic v. Levinson* (1988) to a 35-percent guidance miss; (3) assess the insider-trading liability exposure for any executives or directors who become aware of the situation before disclosure; (4) identify the SOX § 302 certification implications if the next quarterly filing is impending; and (5) recommend a disclosure strategy with explicit reasoning about timing, channel, and content.
+
+After drafting the prompt, evaluate it: what specific facts about the company's prior guidance and the supply-chain situation would the LLM need to produce a useful analysis? Where would you need a securities-defense specialist to override or revise the LLM's recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Mary Schapiro** chaired the SEC during the 2008 financial crisis — and earlier ran FINRA and the CFTC, making her the first person to head every major US financial regulator. The post-Dodd-Frank securities framework you study was implemented under her watch.
+
+**Run this:**
+
+```
+Who is Mary Schapiro, and how does her work as SEC chair during the financial crisis connect to the securities regulation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Mary Schapiro"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one specific Dodd-Frank rule the SEC implemented under Schapiro and trace it from statute to final rule.
+- Ask it about the SEC's pre-2008 regulatory failures — and what Schapiro identified as the institutional causes.
+
+What changes? What gets better? What gets worse?

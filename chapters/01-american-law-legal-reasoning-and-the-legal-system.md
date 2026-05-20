@@ -114,3 +114,24 @@ One observation worth making before moving on: the legal system the chapter has 
 **Exercise 1.B.** Choose a federal regulatory agency (the FDA, the FCC, OSHA, or the SEC). Using a language model, trace the four-source structure for one specific regulation that agency has promulgated: the constitutional authority, the enabling statute, the specific regulation, and at least one significant court decision interpreting the regulation. Ask the model to identify any current litigation challenging that regulation and explain the legal basis of the challenge.
 
 **Exercise 1.C.** The doctrine of federal preemption has been applied inconsistently across different regulatory domains. Using a language model, research a specific preemption dispute — a case in which a state law was challenged as preempted by federal law — and map the argument on both sides. Which party prevailed, and what does the outcome tell you about how courts distinguish express, implied, and conflict preemption?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Oliver Wendell Holmes Jr.** wrote *The Common Law* in 1881 — opening with "the life of the law has not been logic; it has been experience." His pragmatic theory of legal reasoning shaped every major American law-school course of the 20th century.
+
+**Run this:**
+
+```
+Who was Oliver Wendell Holmes Jr., and how does his legal pragmatism connect to American legal reasoning as we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Oliver Wendell Holmes Jr."** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Holmes's "bad man" theory of law to one specific business-law case — what does it predict the bad man wants to know?
+- Ask it to confront Holmes's dark side — his vote in *Buck v. Bell* upholding forced sterilization — and how it sits with his celebrated reputation.
+
+What changes? What gets better? What gets worse?

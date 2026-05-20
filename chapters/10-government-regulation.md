@@ -126,3 +126,46 @@ The ICC set the template in 1887 because Congress needed a mechanism to translat
 **Challenge**
 
 **Exercise 10.6.** *Tests: the major questions doctrine and its implications.* The major questions doctrine, as applied in *West Virginia v. EPA* (2022), requires clear congressional authorization for agency claims of authority over matters of vast economic or political significance. Identify a current federal regulatory initiative — in environmental, financial, technology, or healthcare regulation — that you believe could plausibly be challenged under the major questions doctrine. Construct the argument that the initiative is a major question requiring clearer authorization, and construct the government's best counterargument. What evidence would a court look for in deciding whether this is a "major question"? Difficulty: challenge.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 10-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "The Environmental Protection Agency promulgates a new regulation requiring industrial facilities emitting more than 25,000 tons of CO2 annually to implement specific control technologies. The regulation is challenged by an industry trade group, which argues that (a) the enabling statute (the Clean Air Act) does not authorize EPA to regulate greenhouse gases at this scale, and (b) the agency failed to adequately consider compliance costs in its rulemaking record. Apply the post-*Loper Bright* (2024) judicial review framework. Identify how the analysis differs from the prior *Chevron* deference framework. Apply the arbitrary-and-capricious standard from *State Farm* (1983) to the cost-consideration argument. Assess the likely outcome on each ground."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify that *Loper Bright* eliminated *Chevron* deference for statutory interpretation? Did it engage with the major-questions doctrine from *West Virginia v. EPA* (2022) as a separate ground? Did it distinguish judicial review of statutory authority from judicial review of the rulemaking record? Write a 400-word evaluation.
+
+**Exercise 10-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "Identify three federal regulations finalized between 2020 and 2025 that were subsequently invalidated by federal courts. For each: name the regulation, the issuing agency, the enabling statute, the legal theory under which the regulation was challenged, and the court's reasoning. Then assess whether the pattern of invalidation reflects a substantive shift in the courts' approach to administrative law (post-*West Virginia* major-questions doctrine; post-*Loper Bright* end of *Chevron*) or merely the natural rate of regulatory turnover."
+
+Compare the two responses. Which response correctly identifies *West Virginia v. EPA* and the major-questions doctrine as a substantive doctrinal shift? Which response engages with the FTC non-compete rule litigation as an example of the new framework in operation? Which response distinguishes vacated rules from rules that survived but were narrowed? Write a 400-word comparative analysis.
+
+**Exercise 10-LLM-3 (synthesis).** You are general counsel for a mid-sized pharmaceutical company. The FDA has signaled that it intends to issue a new regulation on accelerated-approval drug labeling within six months. The proposed regulation would require additional post-market surveillance commitments and could materially affect your company's flagship product. The CEO asks you to develop a strategy for the company's engagement with the rulemaking process.
+
+Draft a prompt that you would give to a large language model to help you develop the engagement strategy. The prompt should ask the LLM to: (1) identify each formal mechanism for influencing the rulemaking (notice-and-comment submissions, ex parte communications, congressional engagement, coalition-building with other affected manufacturers); (2) assess the substantive arguments that would have the strongest legal foundation for narrowing the rule (statutory authority limits, cost-benefit deficiencies, scientific evidence challenges); (3) develop a litigation backup plan if the final rule is unfavorable, including the venue choice (D.C. Circuit vs. circuit-of-residence) and the legal theories most likely to succeed under the post-*Loper Bright* framework; and (4) recommend a phased approach with explicit reasoning about which channel produces the highest expected return at each stage.
+
+After drafting the prompt, evaluate it: what specific facts about the company's product portfolio and regulatory history would the LLM need to produce a useful analysis? Where would you need a former agency official to override or revise the LLM's strategic recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **James Landis** designed the modern administrative state in the 1930s — drafting the Securities Act of 1933 and chairing the SEC. His 1938 book *The Administrative Process* defended expert agencies as the answer to industrial-era regulation.
+
+**Run this:**
+
+```
+Who was James Landis, and how does his work designing the administrative state connect to the government regulation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"James M. Landis"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Landis's defense of the SEC's structure — expert commissioners with rulemaking, enforcement, and adjudicative powers.
+- Ask it about Landis's later disgrace and conviction for tax evasion — and how the personal tragedy fits with the institutional architecture he built.
+
+What changes? What gets better? What gets worse?

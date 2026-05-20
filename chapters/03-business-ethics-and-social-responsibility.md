@@ -184,3 +184,24 @@ After drafting the prompt, evaluate it: what information would you need to provi
 ## Connections forward
 
 Chapter 4 develops the Constitutional layer — the Commerce Clause, the Takings Clause, the First Amendment as it applies to commercial speech, and due-process and equal-protection principles in the business context. The Constitution is the highest of the four sources of law Chapter 1 introduced; it is also the layer that creates the most conceptually interesting constraints on what the legislature can require and what the firm can resist. The ethics framework this chapter built sits inside that Constitutional structure, and Chapter 4 explains the outer walls.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Archie Carroll** published the "pyramid of corporate social responsibility" in 1991 — economic, legal, ethical, and philanthropic responsibilities stacked in a hierarchy. The pyramid is still the most-taught framework for CSR three decades on.
+
+**Run this:**
+
+```
+Who is Archie Carroll, and how does his CSR pyramid connect to the business ethics and social responsibility framework we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Archie B. Carroll"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Carroll's pyramid to one current corporate scandal — which level did the company fail at?
+- Ask it to compare Carroll's pyramid with the newer "shared value" framework from Porter and Kramer.
+
+What changes? What gets better? What gets worse?

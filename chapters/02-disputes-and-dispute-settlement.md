@@ -186,3 +186,24 @@ The sequence is the point. Most disputes resolve in negotiation. Most that escal
 **Exercise 2.2.** Ask an LLM to construct the strongest possible argument *for* and the strongest possible argument *against* the enforceability of class-action waivers in consumer arbitration agreements, citing the *Concepcion* and *Epic Systems* precedents. Evaluate whether the LLM presents both sides with equal rigor or shows a lean. If it leans, in which direction, and what does that reveal about its training data?
 
 **Exercise 2.3.** Draft a brief for an LLM: *You are mediating a warranty dispute between a technology company and a national consumer-protection regulator. The company's position is forcing. The regulator's position is forcing. The company has more financial resources; the regulator has more public authority. Design a mediation strategy.* Evaluate the LLM's response for adherence to the Model Standards of Conduct — specifically, whether it recommends pressure tactics that would violate those standards, and whether it correctly identifies the collaborative move available to both parties.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Frank Sander** delivered the 1976 Pound Conference speech proposing the "multi-door courthouse" — different doors for litigation, mediation, arbitration, and other dispute resolution methods. Modern alternative dispute resolution (ADR) is essentially his framework, scaled up.
+
+**Run this:**
+
+```
+Who was Frank Sander, and how does his "multi-door courthouse" idea connect to the dispute-settlement systems we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Frank Sander"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to map a specific dispute (employment, contract breach, product liability) onto the appropriate "door" in Sander's framework.
+- Ask it to compare Sander's vision with how ADR actually evolved in the US since 1976.
+
+What changes? What gets better? What gets worse?

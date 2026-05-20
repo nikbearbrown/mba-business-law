@@ -168,6 +168,49 @@ You should now be able to teach the five elements of a contract and the remedies
 
 ---
 
+## LLM Exercises
+
+**Exercise 7-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "Two parties exchange the following emails. On Monday, the seller writes: 'I will sell you my used commercial espresso machine for $3,500 if you confirm by Friday.' On Wednesday, the buyer replies: 'I accept — but for $3,200, given the age of the machine.' On Thursday, the seller writes: 'No. The price is $3,500.' On Friday, the buyer writes: 'Fine, $3,500. Send the invoice.' On Saturday, the seller refuses to sell, claiming there is no contract. Apply the five-element framework for contract formation to this exchange. At each step, identify whether an offer, counteroffer, rejection, or acceptance occurred. State whether a contract exists, and if so, on what terms."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify the Wednesday email as a counteroffer that terminated the original offer? Did it correctly identify that the Thursday email was a new offer? Did it engage with the mailbox rule on the Friday acceptance? Did it consider whether the Statute of Frauds applies to a sale of goods at this price ($500 threshold under UCC Article 2)? Write a 400-word evaluation.
+
+**Exercise 7-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A business owner signs a five-year commercial lease at significantly above-market rent. Six months in, the owner discovers that (a) the landlord misrepresented the building's prior rental rates, (b) the property suffers from a known mold problem the landlord did not disclose, and (c) the lease contains a 'no oral modification' clause and a one-sided indemnity provision. Identify each ground on which the lessee could seek to void or modify the contract: misrepresentation (innocent vs. fraudulent), unilateral mistake, mutual mistake, fraud in the inducement, unconscionability (procedural and substantive), and breach of any implied covenant. For each ground, identify the elements the lessee must prove and the most likely remedy."
+
+Compare the two responses. Which response correctly distinguishes void from voidable contracts? Which response engages with the procedural-vs-substantive unconscionability distinction (sliding-scale doctrine)? Which response identifies the implied covenant of good faith and fair dealing as a separate cause of action? Write a 400-word comparative analysis.
+
+**Exercise 7-LLM-3 (synthesis).** You are general counsel for a SaaS company that sells subscription software through standardized online click-wrap agreements. The company is considering adding a mandatory arbitration clause with a class-action waiver, a one-year limitations period, and a forum-selection clause designating Delaware. The CEO wants to understand the enforceability and reputational risks before approving.
+
+Draft a prompt that you would give to a large language model to help you analyze the proposed contract design. The prompt should ask the LLM to: (1) identify the enforceability framework for each of the three clauses under current law, including the *Concepcion* and *Epic Systems* arbitration precedents and any state-law unconscionability doctrines that have constrained click-wrap enforcement; (2) assess the reputational and consumer-trust costs of including each clause based on recent comparable companies' experiences; (3) propose alternative formulations that would preserve the company's litigation-management interests while reducing enforceability and reputational risks; and (4) recommend a final contract design with explicit reasoning.
+
+After drafting the prompt, evaluate it: what specific facts about the company's customer base would the LLM need to produce a useful analysis? Where would you need a class-action defense specialist to override or revise the LLM's recommendation?
+
+---
+
 ## Connections forward
 
 Chapter 8 turns to *sales contracts* — the specific UCC Article 2 framework that governs sales of goods between merchants and between merchants and consumers. The framework modifies the common-law rules in commercially important ways.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Karl Llewellyn** led the drafting of the Uniform Commercial Code in the 1940s and 50s — modernizing US commercial law into a single framework adopted (with variations) by every state. The contract sections you study today are largely his.
+
+**Run this:**
+
+```
+Who was Karl Llewellyn, and how does his work drafting the Uniform Commercial Code connect to the contract law we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Karl Llewellyn"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Llewellyn's "realist" approach to one specific contract dispute — what would he look at that a formalist wouldn't?
+- Ask it about Llewellyn's earlier work on Cheyenne tribal law — and how it shaped his views on legal systems.
+
+What changes? What gets better? What gets worse?

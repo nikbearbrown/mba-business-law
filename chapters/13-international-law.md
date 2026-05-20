@@ -126,3 +126,46 @@ International law is the operating context for cross-border business. It is not 
 **Challenge**
 
 **Exercise 13.6.** *Tests: WTO dysfunction and strategic response.* The WTO Appellate Body has been non-functional since 2019. A U.S. electronics company sources components from a country that has begun imposing export restrictions on rare-earth materials used in its products, in apparent violation of WTO rules. The company cannot wait years for a first-level WTO panel ruling that cannot be appealed to a functional body. Identify all the legal and strategic options available to the company and its government. Which are most likely to produce a result, and on what timeline? What contract provisions, if any, could the company have included in its supply agreements to protect against this situation? Difficulty: challenge.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 13-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A U.S. manufacturer of medical devices faces a $40 million lawsuit in a French court brought by a French distributor alleging breach of an exclusive distribution agreement. The agreement contains a forum-selection clause designating the U.S. District Court for the District of Massachusetts and a choice-of-law clause designating Massachusetts law. The manufacturer wants to argue in the French court that the suit should be dismissed in favor of the U.S. forum. Apply the international forum-selection framework. Identify the legal sources governing the enforceability of the clause (the 2005 Hague Convention on Choice of Court Agreements; EU Brussels Recast Regulation; French national rules). Assess the likelihood the French court will enforce the U.S.-forum clause and dismiss the action."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly identify the Hague Convention on Choice of Court Agreements (in force for the EU since 2015)? Did it engage with the EU Brussels Recast Regulation (1215/2012)? Did it distinguish exclusive forum-selection clauses (more readily enforced) from non-exclusive ones? Did it identify the public-policy escape valves that French courts have applied? Write a 400-word evaluation.
+
+**Exercise 13-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "A U.S. pharmaceutical company's foreign subsidiary in Country X makes payments to local government officials to expedite approval of a clinical trial. The payments are documented as 'consulting fees' in the subsidiary's books. U.S. parent-company executives were not directly involved but knew that 'expediting payments' were standard practice in the country. Apply the Foreign Corrupt Practices Act framework. Identify the anti-bribery provision (15 U.S.C. § 78dd-1 et seq.) elements as applied to this fact pattern. Identify the books-and-records and internal-controls provisions. Assess the parent-company exposure under the *respondeat superior* and willful-blindness theories. Identify the differences between the FCPA and the UK Bribery Act 2010 if the company also has UK operations."
+
+Compare the two responses. Which response correctly distinguishes the FCPA's facilitating-payments exception from the UK Bribery Act's stricter framework (no facilitating-payments exception)? Which response engages with the recent DOJ corporate self-disclosure framework and the Telia 2017 settlement as a benchmark? Which response identifies the books-and-records provision as a separate basis of liability not requiring proof of bribery intent? Write a 400-word comparative analysis.
+
+**Exercise 13-LLM-3 (synthesis).** You are general counsel for a U.S. technology company expanding operations into three new countries (one in the EU, one in East Asia, one in the Middle East). The CEO asks you to develop an international-compliance program addressing the major cross-border legal exposures: anti-bribery, export controls, sanctions, data protection (GDPR, equivalent laws), and intellectual-property protection.
+
+Draft a prompt that you would give to a large language model to help you develop the compliance program. The prompt should ask the LLM to: (1) identify the most consequential international-law exposures for the company in each of the three jurisdictions; (2) propose a tiered compliance program with country-specific risk assessments, training requirements, and monitoring controls; (3) identify the choice-of-forum and choice-of-law provisions that should be in the company's standard international contracts to maximize enforceability while minimizing litigation exposure abroad; (4) develop a data-transfer compliance framework addressing GDPR Standard Contractual Clauses, the EU-U.S. Data Privacy Framework, and emerging restrictions in the East Asia jurisdiction; and (5) recommend three highest-priority operational changes the company should make before launch.
+
+After drafting the prompt, evaluate it: what specific facts about the company's products and customer base in each jurisdiction would the LLM need to produce a useful analysis? Where would you need country-specific local counsel to override or revise the LLM's recommendation?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Hersch Lauterpacht** drafted the language of "crimes against humanity" used at Nuremberg and helped build the modern international human-rights legal framework. He was a Polish-Jewish scholar who lost most of his family in the Holocaust.
+
+**Run this:**
+
+```
+Who was Hersch Lauterpacht, and how does his work on international human rights law connect to the international law we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Hersch Lauterpacht"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Lauterpacht's individual-rights framing and contrast it with Raphael Lemkin's group-protection framing of "genocide."
+- Ask it about Lauterpacht's prewar work at the LSE on international law and the rise of human-rights doctrine.
+
+What changes? What gets better? What gets worse?

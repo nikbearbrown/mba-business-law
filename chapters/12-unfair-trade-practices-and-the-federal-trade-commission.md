@@ -163,6 +163,49 @@ The single idea that matters most is the structural insight embedded in the FTC'
 
 ---
 
+## LLM Exercises
+
+**Exercise 12-LLM-1.** Paste the following prompt into a large language model of your choice:
+
+> "A direct-to-consumer mattress company runs digital advertisements claiming its mattress is 'clinically proven to reduce back pain by 80 percent within 30 days.' The clinical study supporting the claim was funded by the company, used a 22-participant single-arm design, and showed an average pain reduction of 80 percent on a self-reported scale — but with no control group. The FTC opens a Section 5 deception investigation. Apply the FTC's deception framework. Identify the three elements of a deception case (representation, materiality, likelihood-to-mislead-reasonable-consumer). Identify the specific substantiation standard the FTC requires for health-benefit claims (competent and reliable scientific evidence, typically meaning two adequate and well-controlled human clinical trials for established disease claims). Assess the company's exposure and the likely remedy."
+
+Evaluate the LLM's response against the chapter's framework. Did it correctly distinguish deception from unfairness as separate Section 5 prongs? Did it engage with the FTC's policy statement on deception (1983) and policy statement on unfairness (1980)? Did it identify the consent-order remedy mechanism rather than only litigation? Write a 400-word evaluation.
+
+**Exercise 12-LLM-2.** Paste the following prompt into two different large language models and compare their outputs:
+
+> "Identify three FTC enforcement actions since 2020 in major categories of unfair-trade-practice enforcement: (a) deception in digital advertising, (b) endorsement and influencer-disclosure violations under the Endorsement Guides, and (c) data-privacy or data-security failures under Section 5 unfairness. For each: name the company, the specific conduct, the FTC's theory under Section 5, and the consent-order terms imposed. Then assess whether the FTC's enforcement priorities have shifted under the post-2021 Commission majority, particularly regarding the use of unfairness theory in privacy and platform contexts."
+
+Compare the two responses. Which response correctly identifies the FTC's Section 5 unfairness expansion under the post-2021 framework? Which response engages with the *AMG Capital Management* (2021) Supreme Court decision limiting FTC monetary remedies under Section 13(b)? Which response distinguishes the FTC's administrative process from federal-court litigation? Write a 400-word comparative analysis.
+
+**Exercise 12-LLM-3 (synthesis).** You are general counsel for a startup that operates a popular social media platform. The platform allows third-party developers to access user data through an API, subject to privacy controls users can configure. A recent academic study has identified that approximately 12 percent of third-party apps appear to be exfiltrating data beyond what users have authorized. The CEO must decide whether to (a) implement stricter API restrictions immediately, (b) maintain current controls and rely on developer agreements, or (c) self-report to the FTC under the corporate cooperation framework.
+
+Draft a prompt that you would give to a large language model to help you analyze the FTC exposure. The prompt should ask the LLM to: (1) identify the FTC's legal theories most likely to apply (Section 5 unfairness for failure to maintain reasonable security; Section 5 deception if the platform's representations to users overstated the privacy controls; COPPA if minors are affected); (2) apply the FTC's pattern of consent-order terms in comparable cases (Cambridge Analytica/Facebook 2019; Twitter 2022; recent platform settlements) and identify the likely remedies; (3) assess the costs and benefits of self-reporting under the FTC's cooperation framework; and (4) recommend an action with explicit reasoning about which considerations dominate.
+
+After drafting the prompt, evaluate it: what specific facts about the platform's user representations and current controls would the LLM need to produce a useful analysis? Where would you need an FTC defense specialist to override or revise the LLM's recommendation?
+
+---
+
 ## Connections forward
 
 Chapter 13 turns to international law as it applies to U.S. business operations across borders — the framework of treaties, conventions, and bilateral agreements that governs what happens when U.S. firms operate in foreign markets, when foreign firms operate in the United States, and when commercial disputes cross jurisdictions. The consumer-protection frameworks this chapter described are U.S. domestic law; Chapter 13 is where the jurisdictional boundaries of that law begin to matter.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Louis Brandeis** argued the case for the original FTC in 1914 — and as a Supreme Court Justice, championed the regulation of "the curse of bigness." His framework that economic concentration is itself a political problem still shapes modern unfair-trade-practices law.
+
+**Run this:**
+
+```
+Who was Louis Brandeis, and how does his work on antitrust and unfair trade practices connect to the FTC framework we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Louis Brandeis"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Brandeis's "curse of bigness" framing to one current corporate concentration debate — what does it suggest?
+- Ask it about the contested confirmation of Brandeis as the first Jewish Supreme Court Justice in 1916.
+
+What changes? What gets better? What gets worse?
