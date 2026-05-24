@@ -41,7 +41,8 @@ The U.S. tort system organizes wrongs into three primary categories. The categor
 
 Most of what this chapter is actually about is negligence. But the strict-liability framework is where product-liability cases live, and those are the cases that generate the largest dollar amounts in contemporary U.S. commercial litigation, so we will get there.
 
-<!-- → [INFOGRAPHIC: Three-column taxonomy of tort categories — Intentional Torts | Negligence | Strict Liability. Each column shows: what the plaintiff must prove, representative examples, and available defenses. Student should immediately see that the intent requirement disappears as you move right across the columns, and that the commercial relevance peaks in the middle.] -->
+![Three-column taxonomy of tort categories ](images/06-the-tort-system-fig-01.png)
+*Figure 6.1 — Three-column taxonomy of tort categories *
 
 ---
 
@@ -55,7 +56,8 @@ The foreseeability requirement matters. In the 1928 case *Palsgraf v. Long Islan
 
 The doctrine also contains an important exception. Standard negligence doctrine generally imposes no duty to act affirmatively to prevent harm to strangers — a bystander who watches someone drown has no legal obligation to attempt a rescue. The exception is *special relationships*: relationships that, by their nature, give rise to affirmative duties to act. Doctors owe affirmative duties to patients. Lifeguards owe affirmative duties to swimmers in their guarded area. Common carriers owe heightened duties to passengers. The special-relationship doctrine is why the pool owner's liability for a drowning is a different legal analysis than the bystander's.
 
-<!-- → [DIAGRAM: Duty-foreseeability boundary illustrated using the Palsgraf fact pattern — visual timeline of the event chain (employee assists passenger → fireworks drop → explosion → scale falls → Palsgraf injured) with a dotted line marking where Cardozo draws the foreseeability boundary and why the harm on the far side of that line is outside the duty. A second panel shows a special-relationship example (lifeguard → swimmer) where affirmative duty runs in the opposite direction. Student should see foreseeability as a spatial concept: duty reaches as far as the foreseeable harm, no further.] -->
+![Duty-foreseeability boundary illustrated using the Palsgraf fact pattern](images/06-the-tort-system-fig-02.png)
+*Figure 6.2 — Duty-foreseeability boundary illustrated using the Palsgraf fact pattern*
 
 **Breach.** The defendant must have failed to exercise the care a reasonable person would have exercised under the circumstances. The standard is the *reasonable person* — a hypothetical individual who exercises ordinary care, skill, and judgment, tailored to the situation. The standard is objective: the defendant's genuine belief that he was being careful does not establish the absence of breach. If the reasonable person in the same situation would have taken precautions the defendant did not take, the defendant breached the duty.
 
@@ -83,7 +85,9 @@ The $2.7 million punitive damage award was not random. Punitive damages in the U
 
 The public caricature misses all of this. The caricature is not wrong that the plaintiff spilled coffee on herself and collected damages. It is wrong about what the case means: it was not a sympathy verdict for clumsiness. It was a structured application of the negligence framework to a company that knew its product was dangerous, documented the danger internally, and chose not to fix it.
 
-<!-- → [TABLE: Liebeck v. McDonald's mapped to the four-element negligence framework — rows: Duty, Breach, Causation, Damages. Columns: Element | What it requires | How Liebeck established it | Key evidence. Student uses this as a template for applying the framework to any new fact pattern.] -->
+| Element | What it requires | How Liebeck established it | Key evidence |
+| --- |
+| Duty, Breach, Causation, Damages. Columns: Element / What it requires / How Liebeck established it / Key evidence. Student uses this as a template for applying the framework to any new fact pattern. |
 
 ---
 
@@ -97,7 +101,8 @@ Under comparative negligence, the plaintiff's recovery is reduced by her share o
 
 There are two versions of comparative negligence. *Pure comparative* states reduce recovery by the plaintiff's percentage of fault regardless of how high it is — a plaintiff who is 90 percent at fault recovers 10 percent of her damages. *Modified comparative* states bar recovery entirely if the plaintiff's fault exceeds a threshold, typically 50 percent. The distinction matters in cases where both parties contributed substantially to the harm.
 
-<!-- → [CHART: Bar chart or decision-tree showing how a $100,000 damages claim resolves across three fault-allocation doctrines — contributory negligence, pure comparative negligence, modified comparative negligence (50% bar) — at plaintiff fault levels of 10%, 30%, 50%, and 70%. Student should immediately see how the doctrines diverge only at high plaintiff-fault scenarios, and why the contributory negligence rule produces the most dramatic discontinuity.] -->
+![Bar chart or decision-tree showing how a $100,000](images/06-the-tort-system-fig-03.png)
+*Figure 6.3 — Bar chart or decision-tree showing how a $100,000*
 
 The second defense is **assumption of risk**: a plaintiff who voluntarily and knowingly assumed a particular risk cannot recover for harm that risk produced. The defense applies most cleanly in recreational settings — the spectator hit by a foul ball at a baseball game is held to have assumed the foreseeable risk of attending a baseball game — and in cases involving an express written release. The skier who signs a liability waiver before using the ski lift has expressly assumed certain risks.
 
@@ -115,7 +120,9 @@ The second and more commercially significant category is **product liability**: 
 
 The policy logic of strict product liability is worth understanding because it is not immediately obvious. Why should a manufacturer who exercised all reasonable care still be liable for harm its product causes? The answer has two parts. First, the manufacturer is in the best position — better than any individual consumer — to know the risks its product creates and to invest in reducing them. Placing liability on the manufacturer creates the right incentives. Second, the cost of product-related injuries can be spread across all consumers through product pricing; the manufacturer is, in effect, an insurer of product safety, and the cost of that insurance is embedded in the price. This is an economic argument for strict liability, not a moral one: it places the cost of product injuries on the party best positioned to reduce them and to distribute the residual risk.
 
-<!-- → [TABLE: Three product-defect categories — columns: Defect Type | Definition | What plaintiff must show | Representative example. Rows: Manufacturing defect, Design defect, Warning defect. The Pinto case (design defect) and a hypothetical warning-defect case should appear as examples. Student should be able to classify any product-liability fact pattern into one of these three columns on sight.] -->
+| Defect Type | Definition | What plaintiff must show | Representative example |
+| --- |
+| Manufacturing defect, Design defect, Warning defect. The Pinto case (design defect) and a hypothetical warning-defect case should appear as examples. Student should be able to classify any product-liability fact pattern into one of these three columns on sight. |
 
 ### The Ford Pinto as worked illustration
 
@@ -127,7 +134,12 @@ The Pinto's fuel tank was placed behind the rear axle with insufficient crash pr
 
 The Pinto case and the Liebeck case share a structural feature that is worth noticing. In both cases, the defendant had documented internal awareness of a known risk. In both cases, the defendant chose not to act on that awareness. In both cases, the jury was permitted to see the documentation. And in both cases, the jury's punitive damages award was calibrated to communicate something beyond compensation — that this was not an accident, in the sense of something unforeseeable, but a choice, and that the choice had consequences.
 
-<!-- → [TABLE: Side-by-side case comparison — columns: Case element | Liebeck v. McDonald's | Grimshaw v. Ford (Pinto). Rows: Known risk (what was documented internally), Decision not to act (the internal rationale), Damages awarded (compensatory and punitive), Judicial reduction, Final outcome. Student should see the structural parallel immediately: documented awareness + documented decision = punitive exposure.] -->
+| Case element | Liebeck v |
+| --- |
+| Known risk (what was documented internally |
+| Decision not to act (the internal rationale |
+| Damages awarded (compensatory and punitive |
+| Judicial reduction, Final outcome. Student should see the structural parallel immediately: documented awareness + documented decision = punitive exposure. |
 
 ---
 
@@ -205,3 +217,37 @@ Who is Guido Calabresi, and how does his law-and-economics analysis of accident 
 - Ask it to compare Calabresi's economic view of tort law with the "corrective justice" view of Ernest Weinrib.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 6.1 — Three-column taxonomy of tort categories 
+
+Create a standalone D3 v7 HTML file for Figure Three-column taxonomy of tort categories . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-column taxonomy of tort categories — Intentional Torts | Negligence | Strict Liability. Each column shows: what the plaintiff must prove, representative examples, and available defenses. Student should immediately see that the intent requirement disappears as you move right across the columns, and that the commercial relevance peaks in the middle.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/06-the-tort-system-fig-01.html`
+
+---
+
+### Figure 6.2 — Duty-foreseeability boundary illustrated using the Palsgraf fact pattern
+
+Create a standalone D3 v7 HTML file for Figure Duty-foreseeability boundary illustrated using the Palsgraf fact pattern. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Duty-foreseeability boundary illustrated using the Palsgraf fact pattern — visual timeline of the event chain (employee assists passenger → fireworks drop → explosion → scale falls → Palsgraf injured) with a dotted line marking where Cardozo draws the foreseeability boundary and why the harm on the far side of that line is outside the duty. A second panel shows a special-relationship example (lifeguard → swimmer) where affirmative duty runs in the opposite direction. Student should see foreseeability as a spatial concept: duty reaches as far as the foreseeable harm, no further.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color varia
+
+> Reference implementation: `d3/06-the-tort-system-fig-02.html`
+
+---
+
+### Figure 6.3 — Bar chart or decision-tree showing how a $100,000
+
+Create a standalone D3 v7 HTML file for Figure Bar chart or decision-tree showing how a $100,000. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Bar chart or decision-tree showing how a $100,000 damages claim resolves across three fault-allocation doctrines — contributory negligence, pure comparative negligence, modified comparative negligence (50% bar) — at plaintiff fault levels of 10%, 30%, 50%, and 70%. Student should immediately see how the doctrines diverge only at high plaintiff-fault scenarios, and why the contributory negligence rule produces the most dramatic discontinuity.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/06-the-tort-system-fig-03.html`

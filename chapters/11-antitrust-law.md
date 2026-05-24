@@ -17,7 +17,8 @@ In 1879, John D. Rockefeller created the Standard Oil Trust. The mechanism was e
 
 What Standard Oil did with that control is the textbook of anticompetitive behavior. It negotiated secret rebates from railroads that its competitors couldn't obtain. It priced below cost in specific markets to drive out local competitors, subsidizing the losses with profits from markets where it faced no competition. It acquired pipelines and storage facilities and then refused to give competitors access on reasonable terms. The result was not just market dominance — it was a system that made new entry nearly impossible and that extracted profits from the entire downstream industry that depended on petroleum.
 
-<!-- → [INFOGRAPHIC: Standard Oil's competitive playbook — three-panel illustration showing the three anticompetitive mechanisms: (1) secret railroad rebates [Standard Oil pays less per barrel shipped than competitors, illustrated as a cost-per-barrel comparison]; (2) predatory pricing [price map showing below-cost pricing in contested markets funded by above-cost profits in captive markets]; (3) infrastructure foreclosure [pipeline and storage network with access denied to competitors]. Reader should see these as a coordinated system, not isolated practices.] -->
+![Standard Oil's competitive playbook ](images/11-antitrust-law-fig-01.png)
+*Figure 11.1 — Standard Oil's competitive playbook *
 
 Congress responded with the *Sherman Antitrust Act of 1890*, the first major federal antitrust statute. Section 1 prohibits *contracts, combinations, or conspiracies in restraint of trade*. Section 2 prohibits *monopolization, attempted monopolization, or conspiracy to monopolize*. The text is spare — the statute takes up less than a page — because Congress recognized that specifying every anticompetitive practice in advance was impossible. The industries of 1950 would look nothing like the industries of 1890; the industries of 2025 would look nothing like either. The statute needed to be a principle, not a list.
 
@@ -25,7 +26,11 @@ In 1911, the Supreme Court applied that principle to Standard Oil itself, orderi
 
 Congress followed with two more statutes in 1914. The *Clayton Act* targets specific practices the Sherman Act addresses only generally — exclusive-dealing arrangements, tying arrangements, mergers — and provides the primary statutory framework for merger review. The *Federal Trade Commission Act* creates the FTC and prohibits *unfair methods of competition*, giving the FTC concurrent civil-enforcement authority with the DOJ Antitrust Division. The three statutes together constitute the core federal antitrust framework, and they have operated in parallel — sometimes in coordination, sometimes in competition — ever since.
 
-<!-- → [TABLE: The three antitrust statutes compared — columns: Statute, Year, Key Provisions, Enforcement Agency, Primary Remedy. Rows: Sherman Act (1890), Clayton Act (1914), FTC Act (1914). Reader should see the three statutes as a layered system — Sherman Act as the broad principle, Clayton Act as the specific-practice supplement, FTC Act as the institutional enforcement mechanism.] -->
+| Statute | Year | Key Provisions | Enforcement Agency | Primary Remedy |
+| --- | --- | --- | --- | --- |
+| Sherman Act (1890 | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Clayton Act (1914 | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| FTC Act (1914). Reader should see the three statutes as a layered system | Sherman Act as the broad principle, Clayton Act as the specific-practice supplement, FTC Act as the institutional enforcement mechanism. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -41,7 +46,10 @@ The logic behind per-se treatment is that these practices are so reliably harmfu
 
 The second is *rule of reason* analysis. Most antitrust conduct — exclusive dealing arrangements, vertical price restrictions, tie-in sales, a wide range of distribution practices — is not automatically illegal. It is evaluated based on its actual effects in the specific market context. What is the defendant's market power? Does the practice actually harm competition, or does it reflect a legitimate business arrangement? Are there pro-competitive justifications that outweigh the competitive harm? The rule of reason is a balancing test, and it produces less predictable outcomes than per-se analysis precisely because it is responsive to the specific facts of each case.
 
-<!-- → [TABLE: Per se vs. rule of reason compared — rows: Standard of analysis, Defenses available, Evidence required, Predictability for defendants, Examples of conduct. Two columns: Per Se / Rule of Reason. The per-se column should emphasize the absence of defenses; the rule-of-reason column should emphasize the multi-factor balancing nature of the inquiry.] -->
+| Per Se | Rule of Reason |
+| --- | --- |
+| Standard of analysis, Defenses available, Evidence required, Predictability for defendants, Examples of conduct. Two columns: Per Se | Rule of Reason. The per-se column should emphasize the absence of defenses |
+| the rule-of-reason column should emphasize the multi-factor balancing nature of the inquiry. | It makes the underlying reasoning visible instead of implied. |
 
 The boundary between the two categories has shifted substantially over the past five decades. In the 1960s and 1970s, the per-se categories were broad. The Supreme Court treated many vertical restraints — restrictions a manufacturer imposed on its distributors — as per-se illegal even when the economic effects were ambiguous. The shift began with *Continental T.V. v. GTE Sylvania* in 1977, which moved vertical non-price restraints (territorial restrictions on distributors, for example) from per-se to rule-of-reason. *Leegin Creative Leather Products v. PSKS* in 2007 completed the movement by overruling nearly a century of precedent to hold that vertical price-fixing — a manufacturer's agreement with its retailers on minimum resale prices — was no longer per se illegal either.
 
@@ -59,13 +67,15 @@ The Clayton Act § 7 prohibits mergers that may substantially lessen competition
 
 Most reviewed mergers clear without incident. The agencies identify no competitive concerns, or the concerns are resolved through *consent decrees* — agreements in which the merging parties divest specified assets or accept behavioral restrictions as a condition of approval. A small fraction of reviewed mergers are challenged; the agencies file suit to block the transaction, and a court determines whether the merger violates the Clayton Act.
 
-<!-- → [INFOGRAPHIC: HSR merger review process — horizontal flowchart: Transaction Announced → HSR Filing (if above $119M threshold) → Initial Review Period (30 days) → [branch] Cleared / Second Request Issued → Second Request Response → Extended Review → [branch] Cleared / Consent Decree Negotiated / Challenge Filed in Court. Each stage annotated with typical duration and approximate share of transactions that reach it. Reader should see that most transactions clear early and that litigation is the rare endpoint.] -->
+![HSR merger review process ](images/11-antitrust-law-fig-02.png)
+*Figure 11.2 — HSR merger review process *
 
 The analytical centerpiece of merger review is the *Herfindahl-Hirschman Index* (HHI) — a measure of market concentration calculated by squaring each firm's market share and summing the results. A market with one firm at 100% share has an HHI of 10,000 (monopoly). A market with ten firms each at 10% share has an HHI of 1,000 (relatively unconcentrated). The agencies' current merger guidelines treat post-merger HHIs above 1,800 with increases above 100 as raising significant competitive concerns.
 
 The HHI is a starting point, not an answer. The harder question is always market definition: which products and geographies are in the relevant market? A merger between two firms that each have 10% of a broadly defined market looks different from the same merger if the relevant market is defined more narrowly and each firm has 40%. Parties and agencies fight most intensely over market definition precisely because the concentration numbers, and therefore the legal analysis, follow from it.
 
-<!-- → [CHART: HHI illustration — two side-by-side market diagrams. Left: six-firm market with shares 25/20/20/15/10/10 (HHI = 1,650, unconcentrated). Right: same market after top two firms merge, resulting in 45/20/15/10/10 (HHI = 2,850, highly concentrated, delta = 1,200). Reader should see how a merger can move a market from the "unconcentrated" to "highly concentrated" zone and why the post-merger HHI and the delta both matter to the agencies.] -->
+![HHI illustration ](images/11-antitrust-law-fig-03.png)
+*Figure 11.3 — HHI illustration *
 
 The contemporary intensification of merger enforcement began around 2021 and has substantially changed the practical landscape. The DOJ and FTC have challenged transactions that would have cleared in prior administrations — including transactions in technology, healthcare, and defense markets — and have lost a number of those challenges in court, suggesting that the agencies have pushed enforcement beyond what current doctrine clearly supports. Whether the courts will eventually update their doctrine to reflect the agencies' updated theories, or whether the agencies will moderate their enforcement posture, is the live operational question in merger review.
 
@@ -87,7 +97,11 @@ The DOJ brought a case against Apple in 2024 focused on the App Store's restrict
 
 All three cases reflect the same underlying tension: the antitrust doctrine developed in the industrial-era and early-commercial-era is being applied to markets with structural features — network effects, zero-price products, data as a competitive input, platform control over complementary products — that the doctrine's architects did not anticipate. Whether the doctrine can be extended to address those features, or whether it requires fundamental revision, is a genuine open question that will be resolved primarily through the outcome of these cases.
 
-<!-- → [TABLE: Platform antitrust cases compared — columns: Case, Defendant, Filed, Theory of Harm, Market Defined As, Key Factual Dispute, Status (as of 2025). Rows: DOJ v. Google (search distribution), FTC v. Meta (Instagram/WhatsApp acquisitions), DOJ v. Apple (App Store). Reader should see the three cases as parallel applications of Sherman Act Section 2 to different platform structures, and should notice how the market definition dispute differs across all three.] -->
+| Case | Defendant | Filed | Theory of Harm | Market Defined As |
+| --- | --- | --- | --- | --- |
+| DOJ v. Google (search distribution | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| FTC v. Meta (Instagram | WhatsApp acquisitions | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| DOJ v. Apple (App Store). Reader should see the three cases as parallel applications of Sherman Act Section 2 to different platform structures, and should notice how the market definition dispute differs across all three. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -99,7 +113,8 @@ The practices that built Standard Oil's dominance — predatory pricing in speci
 
 What has changed is not the statute but the markets. Standard Oil competed in a commodity market with relatively easy entry at the production level, where the monopoly was built primarily through control of distribution infrastructure. Technology platform monopolies are built on network effects that make the dominant platform more valuable to each user the more users it has — which means the monopoly is self-reinforcing in a way that Standard Oil's was not. Breaking up Standard Oil into competing refiners worked because petroleum refining doesn't exhibit network effects; two refinery companies in the same market actually compete. Breaking up a search engine into two competing search engines might not work for the same reason, because the value of a search engine depends on the volume of query data it can use to train its algorithms, and half the data is much less than half the value.
 
-<!-- → [INFOGRAPHIC: Standard Oil vs. Google structural comparison — two parallel columns. Left: Standard Oil's monopoly mechanics [control of distribution infrastructure → exclusion of competitors → price extraction]. Right: Google's monopoly mechanics [control of default placement → exclusion of search competitors through habit formation and data advantages → advertising revenue extraction]. Bottom row: Why the same remedy (structural breakup) worked then but may not work now [petroleum refining has no network effects / search has strong data-driven network effects]. Reader should see the structural parallel and the structural difference simultaneously.] -->
+![Standard Oil vs](images/11-antitrust-law-fig-04.png)
+*Figure 11.4 — Standard Oil vs*
 
 This is the frontier question of contemporary antitrust: whether the tools developed to address industrial-era monopoly are adequate for the structural features of digital markets, and if not, what would replace them. It is not a question that has been answered. The cases are still being decided. The doctrine is still being written.
 
@@ -173,3 +188,45 @@ Who is Lina Khan, and how does her antitrust framework connect to the antitrust 
 - Ask it to compare Khan's revival of structural antitrust with Robert Bork's consumer-welfare position that dominated for forty years.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 11.1 — Standard Oil's competitive playbook 
+
+Create a standalone D3 v7 HTML file for Figure Standard Oil's competitive playbook . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Standard Oil's competitive playbook — three-panel illustration showing the three anticompetitive mechanisms: (1) secret railroad rebates [Standard Oil pays less per barrel shipped than competitors, illustrated as a cost-per-barrel comparison]; (2) predatory pricing [price map showing below-cost pricing in contested markets funded by above-cost profits in captive markets]; (3) infrastructure foreclosure [pipeline and storage network with access denied to competitors]. Reader should see these as a coordinated system, not isolated practices.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-antitrust-law-fig-01.html`
+
+---
+
+### Figure 11.2 — HSR merger review process 
+
+Create a standalone D3 v7 HTML file for Figure HSR merger review process . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: HSR merger review process — horizontal flowchart: Transaction Announced → HSR Filing (if above $119M threshold) → Initial Review Period (30 days) → [branch] Cleared / Second Request Issued → Second Request Response → Extended Review → [branch] Cleared / Consent Decree Negotiated / Challenge Filed in Court. Each stage annotated with typical duration and approximate share of transactions that reach it. Reader should see that most transactions clear early and that litigation is the rare endpoint.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-antitrust-law-fig-02.html`
+
+---
+
+### Figure 11.3 — HHI illustration 
+
+Create a standalone D3 v7 HTML file for Figure HHI illustration . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: HHI illustration — two side-by-side market diagrams. Left: six-firm market with shares 25/20/20/15/10/10 (HHI = 1,650, unconcentrated). Right: same market after top two firms merge, resulting in 45/20/15/10/10 (HHI = 2,850, highly concentrated, delta = 1,200). Reader should see how a merger can move a market from the "unconcentrated" to "highly concentrated" zone and why the post-merger HHI and the delta both matter to the agencies.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-antitrust-law-fig-03.html`
+
+---
+
+### Figure 11.4 — Standard Oil vs
+
+Create a standalone D3 v7 HTML file for Figure Standard Oil vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Standard Oil vs. Google structural comparison — two parallel columns. Left: Standard Oil's monopoly mechanics [control of distribution infrastructure → exclusion of competitors → price extraction]. Right: Google's monopoly mechanics [control of default placement → exclusion of search competitors through habit formation and data advantages → advertising revenue extraction]. Bottom row: Why the same remedy (structural breakup) worked then but may not work now [petroleum refining has no network effects / search has strong data-driven network effects]. Reader should see the structural parallel and the structural difference simultaneously.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color vari
+
+> Reference implementation: `d3/11-antitrust-law-fig-04.html`

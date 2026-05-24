@@ -21,7 +21,8 @@ Picture the full population of commercial disputes in a given year. Every disagr
 
 The research is not perfectly clean, but the broad shape is consistent: the overwhelming majority of commercial disputes resolve through direct negotiation between the parties. A smaller number — those that negotiation doesn't resolve — go to a structured process involving a neutral third party. Of those, most settle before an adjudicator issues a decision. Court litigation, with its judges and juries and published opinions, handles the remainder.
 
-<!-- → [INFOGRAPHIC: Funnel diagram — top layer labeled "Negotiation" (widest, ~70–80% of disputes), narrowing to "Mediation," then "Arbitration," then "Court Litigation" (narrowest). Each layer annotated with relative cost index and typical time-to-resolution. Reader should see at a glance that court is the exception, not the norm, and that cost rises sharply at each level.] -->
+![Funnel diagram ](images/02-disputes-and-dispute-settlement-fig-01.png)
+*Figure 2.1 — Funnel diagram *
 
 This is the funnel. Wide at the top (negotiation), narrowing through mediation and arbitration, narrow at the bottom (court). The funnel matters because every level has different costs, different speeds, and different outcomes. The practitioner who understands the funnel makes better decisions at every stage. The practitioner who skips straight to the bottom of the funnel is spending twenty dollars to solve a five-dollar problem — and usually making the relationship worse in the process.
 
@@ -45,7 +46,8 @@ The first kind is *distributive*. The resource is fixed. One party's gain is the
 
 The second kind is *integrative*. The resource is not fixed. Creative arrangements can produce more total value than either party initially saw. Think: a vendor and a customer who disagree on delivery timeline but haven't yet explored whether adjusting the payment schedule or the scope of the first delivery might make the timeline problem disappear. In an integrative negotiation, the goal is to expand the pool before dividing it.
 
-<!-- → [IMAGE: Two-panel illustration — left panel shows a fixed pie being divided (distributive), right panel shows a pie being enlarged before division (integrative). Caption: "Distributive negotiation assumes the pie is fixed. Integrative negotiation asks whether the pie can grow first."] -->
+![Distributive negotiation assumes the pie is fixed. Integrative negotiation asks whether the pie can grow first.](images/02-disputes-and-dispute-settlement-fig-02.png)
+*Figure 2.2 — Illustration *
 
 Most commercial disputes have both dimensions, in proportions that aren't obvious at the start. The practitioner who treats everything as distributive misses the integrative possibilities. The practitioner who treats everything as integrative fails to capture value when the situation is genuinely zero-sum.
 
@@ -53,7 +55,8 @@ Most commercial disputes have both dimensions, in proportions that aren't obviou
 
 Kenneth Thomas and Ralph Kilmann developed, in 1977, a framework for understanding negotiation styles that has held up well. They identified five distinct modes, organized along two dimensions: *assertiveness* (how much you push for your own outcomes) and *cooperativeness* (how much you accommodate the other party's outcomes).
 
-<!-- → [INFOGRAPHIC: 2×2 grid with Assertiveness on the vertical axis (Low → High) and Cooperativeness on the horizontal axis (Low → High). Five modes plotted: Forcing (top-left), Collaborating (top-right), Compromising (center), Avoiding (bottom-left), Yielding (bottom-right). Each quadrant annotated with "works when / fails when" conditions.] -->
+![2×2 grid with Assertiveness on the vertical axis](images/02-disputes-and-dispute-settlement-fig-03.png)
+*Figure 2.3 — 2×2 grid with Assertiveness on the vertical axis*
 
 **Forcing** is high assertiveness, low cooperativeness. You pursue your outcome regardless of the impact on the other party. This works when you have substantially more leverage than the other party, when the relationship doesn't need to continue, and when the outcome matters more than the relationship. It fails when the other party also has leverage, when the relationship matters, or when you're wrong and too committed to your position to notice.
 
@@ -75,7 +78,12 @@ Cook's apology — which committed Apple to align its warranty terms with Chines
 
 Map this to the Thomas-Kilmann framework. Apple's initial position — applying its global one-year warranty despite the local two-year requirement — was forcing. The Chinese regulatory and media response converted that forcing posture from sustainable to unsustainable. Cook's apology was a shift to yielding: accommodating the Chinese requirement at the cost of global policy uniformity. That shift was not weakness. It was the recognition that the Chinese market relationship was worth more than the policy uniformity Apple had been defending. The framework predicts that outcome. A party in a forcing posture, facing escalating costs and with a weaker underlying position than it initially assessed, eventually yields or loses more than it would have by yielding earlier.
 
-<!-- → [TABLE: Apple-China warranty dispute mapped to TKI framework — columns: Stage, Party, Mode, Assertiveness, Cooperativeness, Outcome. Rows: Apple initial position (Forcing), Chinese regulatory response (Forcing), Cook apology (Yielding), Final resolution. Reader should see the mode shift and why it was rational given leverage asymmetry.] -->
+| Stage | Party | Mode | Assertiveness | Cooperativeness |
+| --- | --- | --- | --- | --- |
+| Apple initial position (Forcing | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Chinese regulatory response (Forcing | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Cook apology (Yielding | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Final resolution. Reader should see the mode shift and why it was rational given leverage asymmetry. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -91,7 +99,8 @@ The mediator is not a judge. The mediator does not decide who is right. The medi
 
 Most professional mediations follow a recognizable structure. The mediator opens by introducing herself and explaining the process. Each party then states its position and what it hopes the mediation will achieve. The parties discuss the issues jointly, with the mediator's facilitation, identifying points of agreement and disagreement. The mediator then meets separately with each party — the *private caucus* — to explore positions, interests, and possible movements the party may not be willing to surface in the joint setting. The parties return to a joint negotiation with the information the private caucus surfaced. If agreement is reached, it is documented and signed. If not, the mediation closes without prejudice to subsequent proceedings.
 
-<!-- → [INFOGRAPHIC: Horizontal flowchart of the six mediation steps — (1) Mediator Opening → (2) Party Openings → (3) Joint Discussion → (4) Private Caucus [branching off to show separate mediator meetings with each party] → (5) Joint Negotiation → (6) Closure [two branches: Agreement Reached / No Agreement, Without Prejudice]. The private caucus branch should visually emphasize that this is where real movement happens.] -->
+![Horizontal flowchart of the six mediation steps ](images/02-disputes-and-dispute-settlement-fig-04.png)
+*Figure 2.4 — Horizontal flowchart of the six mediation steps *
 
 The private caucus is where much of the real work happens. In the joint setting, parties perform for each other. In the private caucus, they can be honest with the mediator about what they actually need and what they might actually accept. The mediator uses that information to find the zone of possible agreement — the range in which a deal might be possible — and to help the parties move toward it.
 
@@ -99,7 +108,8 @@ The private caucus is where much of the real work happens. In the joint setting,
 
 A widely-cited case study from Chevron Corporation compared three resolution paths for a comparable commercial dispute: mediation, outside legal counsel without mediation, and full litigation to judgment. The costs were approximately $25,000, $700,000, and $2.5 million, respectively. The ratios — roughly 1:28:100 — are typical for cases of comparable scale. They do not mean mediation is always right; they mean that the cost of proceeding to later stages is substantial enough that the decision to proceed should be a deliberate one, not a default.
 
-<!-- → [CHART: Bar chart — three bars labeled "Mediation" ($25K), "Outside Counsel / No Mediation" ($700K), "Full Litigation" ($2.5M). Log scale on y-axis to make the ratios visible without the mediation bar disappearing. Source: Chevron Corporation case study. Reader should see the order-of-magnitude jumps, not just the absolute numbers.] -->
+![Bar chart ](images/02-disputes-and-dispute-settlement-fig-05.png)
+*Figure 2.5 — Bar chart *
 
 ### What the mediator is actually for
 
@@ -127,7 +137,9 @@ The terminology in arbitration is not always used consistently, so it's worth be
 
 *Baseball arbitration* — named for its use in Major League Baseball salary disputes — requires the arbitrator to choose between the two parties' submitted figures without modification. The arbitrator cannot split the difference. This structure changes the incentives: each party knows that if its figure is unreasonable, the arbitrator will choose the other party's figure. Both parties therefore have an incentive to submit reasonable figures, and the zone of possible outcomes narrows before the arbitrator even begins.
 
-<!-- → [TABLE: Arbitration types compared — columns: Type, Who initiates?, Arbitrator power, Award binding?, Common context. Rows: Voluntary, Involuntary/Forced, Interest, Grievance, Baseball. Helps reader distinguish terms that are often conflated.] -->
+| Type | Who initiates? | Arbitrator power | Award binding? | Common context |
+| --- | --- | --- | --- | --- |
+| Voluntary, Involuntary | Forced, Interest, Grievance, Baseball. Helps reader distinguish terms that are often conflated. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
 
 ### The enforcement problem
 
@@ -141,7 +153,8 @@ Once confirmed, the enforcement mechanisms include three primary tools.
 
 *Liens* attach to real property and certain vehicles, encumbering the title and preventing transfer until the underlying debt is satisfied. A lien on a piece of real estate means the property can't be sold without first paying the judgment creditor. Most states set a minimum vehicle value — approximately $7,500 — below which the lien mechanism doesn't apply.
 
-<!-- → [INFOGRAPHIC: Enforcement pathway diagram — starts at "Arbitration Award" → "Petition to Confirm" → "Court Judgment" → three branches: (1) Writ of Execution [tangible property], (2) Garnishment [wages / bank accounts, with exemption thresholds noted], (3) Lien [real property / vehicles over $7,500]. Each branch shows what it reaches and what it can't touch.] -->
+![Enforcement pathway diagram ](images/02-disputes-and-dispute-settlement-fig-06.png)
+*Figure 2.6 — Enforcement pathway diagram *
 
 ### The class-action waiver question
 
@@ -157,7 +170,9 @@ The case for class-action waivers: they produce faster, cheaper resolution of le
 
 Both arguments have genuine empirical support. The chapter asks you to hold both.
 
-<!-- → [TABLE: Class-action waiver debate — two columns: "Case Against" and "Case For." Rows map the parallel arguments: deterrence effect / abuse potential; individual harm aggregation / attorneys' fees vs. member recovery; *Concepcion* and *Epic Systems* as settled law / ongoing legislative and regulatory challenges. Reader should be able to see that this is a genuine empirical dispute, not a settled question.] -->
+| Case Against | Case For |
+| --- | --- |
+| Class-action waiver debate | two |
 
 ---
 
@@ -173,7 +188,8 @@ How does this resolve?
 
 *Arbitration if mediation fails.* The contract's clause governs. An arbitrator is selected from AAA's commercial panel. Evidence is submitted — the components, the testing protocols, the contract terms, any expert testimony either party presents. The arbitrator issues an award. If Northridge loses and doesn't pay, Westbrook petitions the court to confirm the award, and then pursues the enforcement mechanisms: bank account garnishment, liens on Northridge's real property, writs of execution against its equipment and inventory.
 
-<!-- → [INFOGRAPHIC: The Westbrook/Northridge dispute traced through the funnel — three horizontal bands labeled Negotiation, Mediation, Arbitration. Within each band: what each party's position is, what the TKI mode is, what the resolution looks like if it settles here, and what triggers escalation to the next band. The visual shows the same dispute at three levels of the apparatus simultaneously.] -->
+![The Westbrook/Northridge dispute traced through the funnel ](images/02-disputes-and-dispute-settlement-fig-07.png)
+*Figure 2.7 — The Westbrook/Northridge dispute traced through the funnel *
 
 The sequence is the point. Most disputes resolve in negotiation. Most that escalate resolve in mediation. Most that escalate further resolve in arbitration. Court litigation handles what's left. The practitioner who understands the sequence — who knows what each level costs, how long it takes, and what it's optimized for — makes better decisions at every stage than the practitioner who treats every dispute as a potential lawsuit.
 
@@ -207,3 +223,69 @@ Who was Frank Sander, and how does his "multi-door courthouse" idea connect to t
 - Ask it to compare Sander's vision with how ADR actually evolved in the US since 1976.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 2.1 — Funnel diagram 
+
+Create a standalone D3 v7 HTML file for Figure Funnel diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Funnel diagram — top layer labeled "Negotiation" (widest, ~70–80% of disputes), narrowing to "Mediation," then "Arbitration," then "Court Litigation" (narrowest). Each layer annotated with relative cost index and typical time-to-resolution. Reader should see at a glance that court is the exception, not the norm, and that cost rises sharply at each level.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-01.html`
+
+---
+
+### Figure 2.2 — Illustration 
+
+Create a standalone D3 v7 HTML file for Figure Illustration . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-panel illustration — left panel shows a fixed pie being divided (distributive), right panel shows a pie being enlarged before division (integrative). Caption: "Distributive negotiation assumes the pie is fixed. Integrative negotiation asks whether the pie can grow first.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-02.html`
+
+---
+
+### Figure 2.3 — 2×2 grid with Assertiveness on the vertical axis
+
+Create a standalone D3 v7 HTML file for Figure 2×2 grid with Assertiveness on the vertical axis. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: 2×2 grid with Assertiveness on the vertical axis (Low → High) and Cooperativeness on the horizontal axis (Low → High). Five modes plotted: Forcing (top-left), Collaborating (top-right), Compromising (center), Avoiding (bottom-left), Yielding (bottom-right). Each quadrant annotated with "works when / fails when" conditions.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-03.html`
+
+---
+
+### Figure 2.4 — Horizontal flowchart of the six mediation steps 
+
+Create a standalone D3 v7 HTML file for Figure Horizontal flowchart of the six mediation steps . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Horizontal flowchart of the six mediation steps — (1) Mediator Opening → (2) Party Openings → (3) Joint Discussion → (4) Private Caucus [branching off to show separate mediator meetings with each party] → (5) Joint Negotiation → (6) Closure [two branches: Agreement Reached / No Agreement, Without Prejudice]. The private caucus branch should visually emphasize that this is where real movement happens.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-04.html`
+
+---
+
+### Figure 2.5 — Bar chart 
+
+Create a standalone D3 v7 HTML file for Figure Bar chart . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Bar chart — three bars labeled "Mediation" ($25K), "Outside Counsel / No Mediation" ($700K), "Full Litigation" ($2.5M). Log scale on y-axis to make the ratios visible without the mediation bar disappearing. Source: Chevron Corporation case study. Reader should see the order-of-magnitude jumps, not just the absolute numbers.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-05.html`
+
+---
+
+### Figure 2.6 — Enforcement pathway diagram 
+
+Create a standalone D3 v7 HTML file for Figure Enforcement pathway diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Enforcement pathway diagram — starts at "Arbitration Award" → "Petition to Confirm" → "Court Judgment" → three branches: (1) Writ of Execution [tangible property], (2) Garnishment [wages / bank accounts, with exemption thresholds noted], (3) Lien [real property / vehicles over $7,500]. Each branch shows what it reaches and what it can't touch.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-06.html`
+
+---
+
+### Figure 2.7 — The Westbrook/Northridge dispute traced through the funnel 
+
+Create a standalone D3 v7 HTML file for Figure The Westbrook/Northridge dispute traced through the funnel . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The Westbrook/Northridge dispute traced through the funnel — three horizontal bands labeled Negotiation, Mediation, Arbitration. Within each band: what each party's position is, what the TKI mode is, what the resolution looks like if it settles here, and what triggers escalation to the next band. The visual shows the same dispute at three levels of the apparatus simultaneously.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-disputes-and-dispute-settlement-fig-07.html`

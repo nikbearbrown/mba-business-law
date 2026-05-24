@@ -25,7 +25,8 @@ That is the frame I want you to carry through this chapter.
 
 The federal employment-law framework is not a single coherent system designed from scratch. It is a stack of statutes, each aimed at a specific failure mode, enacted decades apart, administered by different agencies, and enforced through overlapping mechanisms. Understanding it requires knowing what each piece does and why it exists.
 
-<!-- → [INFOGRAPHIC: Horizontal timeline of major federal employment-law statutes from 1935 to 2020 — each statute labeled with name, year, the failure mode it addressed, and the enforcing agency. Key entries: NLRA 1935, FLSA 1938, Equal Pay Act 1963, Title VII 1964, ADEA 1967, OSHA 1970, ERISA 1974, Pregnancy Discrimination Act 1978, ADA 1990, FMLA 1993, Lilly Ledbetter Fair Pay Act 2009, Bostock decision 2020. Student should see immediately that the framework is reactive — each statute follows a documented failure, not a design plan.] -->
+![Horizontal timeline of major federal employment-law statutes from](images/09-employment-and-labor-law-fig-01.png)
+*Figure 9.1 — Horizontal timeline of major federal employment-law statutes from*
 
 **The Fair Labor Standards Act of 1938** is the wage-and-hours statute. It sets the federal minimum wage (currently $7.25 per hour, where it has been since July 2009; many states and cities operate significantly higher minimums), establishes the 40-hour workweek as the threshold beyond which *non-exempt* employees must be paid overtime at time-and-a-half, and prohibits certain child-labor practices. The Act was a direct response to the conditions of the Depression-era labor market, in which employers with significant bargaining leverage could set wages at whatever the market — desperate workers with few alternatives — would bear.
 
@@ -45,7 +46,9 @@ The Supreme Court's 2020 decision in *Bostock v. Clayton County* extended Title 
 
 **The National Labor Relations Act of 1935** is different in kind from the others. It does not prohibit a specific harmful practice. It establishes a structure: the right of employees to organize, to bargain collectively with their employer, and to engage in *protected concerted activity*. Section 7 of the Act protects employees who act together "for mutual aid or protection" — which includes union organizing, collective bargaining, and collective complaints about working conditions, whether or not a formal union is involved. The Act created the National Labor Relations Board (NLRB) to administer the framework. The tension built into the Act — between employer prerogatives and employee organizing rights — has been contested in every decade since the Act's passage.
 
-<!-- → [TABLE: Federal statute reference card — columns: Statute | Year | What it prohibits or requires | Minimum employer size | Enforcing agency | Key case or amendment. Rows: FLSA, Title VII, ADA, ADEA, OSHA, FMLA, NLRA. Student uses this as a quick-lookup reference when analyzing which statute applies to a given fact pattern.] -->
+| Statute | Year | What it prohibits or requires | Minimum employer size | Enforcing agency | Key case or amendment |
+| --- |
+| FLSA, Title VII, ADA, ADEA, OSHA, FMLA, NLRA. Student uses this as a quick-lookup reference when analyzing which statute applies to a given fact pattern. |
 
 ---
 
@@ -67,7 +70,10 @@ Three major exceptions chip away at the doctrine's scope.
 
 These three exceptions operate alongside the federal anti-discrimination statutes. A termination that falls within the at-will doctrine — no implied contract, no public-policy violation, no bad faith — can still be an illegal termination under Title VII if the employer's actual reason was the employee's race, sex, religion, national origin, or any other protected characteristic. The at-will doctrine does not permit discriminatory termination; it just does not, on its own, prohibit non-discriminatory termination.
 
-<!-- → [TABLE: At-will doctrine and exceptions reference — columns: Rule/Exception | What it permits or prohibits | States recognizing it | How it can be triggered. Rows: Employment-at-will (default), Public-policy exception, Implied-contract exception, Covenant-of-good-faith exception, Federal anti-discrimination overlay. Student should be able to walk down the table when analyzing any termination scenario.] -->
+| Rule | Exception | What it permits or prohibits | States recognizing it | How it can be triggered |
+| --- | --- |
+| Employment-at-will (default | A concrete checkpoint for applying the chapter concept. |
+| Public-policy exception, Implied-contract exception, Covenant-of-good-faith exception, Federal anti-discrimination overlay. Student should be able to walk down the table when analyzing any termination scenario. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -91,7 +97,9 @@ California's 2019 AB 5 codified the ABC test for most workers and produced exact
 
 The leading historical precedent is worth knowing. In 2000, Microsoft settled a class action for $97 million brought by long-tenured contractors — workers classified as independent contractors who had worked alongside Microsoft employees doing identical work for years — who had been denied participation in the company's stock option plan. The structural condition the settlement exposed — firms using contractor status to exclude workers from benefit programs while integrating those workers fully into the business — is precisely what the multi-factor tests are designed to identify.
 
-<!-- → [TABLE: Worker-classification test comparison — columns: Test | Administered by | Key question | Primary factors | How a platform-economy driver likely fares. Rows: IRS three-category test, DOL economic-realities test, ABC test (California). Student should be able to apply all three tests to a single fact pattern and identify where they converge and diverge.] -->
+| Test | Administered by | Key question | Primary factors | How a platform-economy driver likely fares |
+| --- |
+| IRS three-category test, DOL economic-realities test, ABC test (California). Student should be able to apply all three tests to a single fact pattern and identify where they converge and diverge. |
 
 ---
 
@@ -107,7 +115,8 @@ The retaliation claim is analytically independent of the underlying discriminati
 
 Consider what the termination pattern looks like in practice: a 52-year-old employee files a harassment complaint. Two weeks later, she is terminated. She has eleven years of consistent positive performance reviews and no documented performance issues. The combination — protected characteristic (age), protected activity (harassment complaint), adverse action (termination), no independent legitimate reason on the record — is the fact pattern that employment-discrimination cases are made of. The at-will doctrine is irrelevant to that analysis. The employer's right to terminate at will does not include the right to terminate in retaliation for invoking a federal statutory protection.
 
-<!-- → [DIAGRAM: Retaliation claim anatomy — a three-node flow showing: Protected activity (filing a charge / internal complaint) → Employer knowledge → Adverse action, with a fourth node showing temporal proximity as circumstantial evidence linking nodes 2 and 3. A second parallel path shows the independent discrimination claim and how the retaliation claim survives even when the underlying claim fails. Student should see that the retaliation framework is structurally independent of the underlying discrimination question.] -->
+![Retaliation claim anatomy ](images/09-employment-and-labor-law-fig-02.png)
+*Figure 9.2 — Retaliation claim anatomy *
 
 ---
 
@@ -123,7 +132,8 @@ The NLRA also prohibits specific unfair labor practices by employers: interferin
 
 The Taft-Hartley Act of 1947 added unfair labor practices by unions to the framework and is the source of the *right-to-work* laws that 27 states have enacted — laws that prohibit requiring union membership or dues payment as a condition of employment. The practical effect of right-to-work laws on union strength and organizing is substantial; they are among the most contested provisions in contemporary labor law.
 
-<!-- → [INFOGRAPHIC: Section 7 concerted activity scope — a two-ring diagram. Inner ring: formal union organizing and collective bargaining (what most people think Section 7 covers). Outer ring: all protected concerted activity — two employees discussing wages, group complaints to HR, social media posts about working conditions, collective refusals to perform unsafe work. The visual makes the breadth of protection visible at a glance; the outer ring should be noticeably larger than the inner ring.] -->
+![Section 7 concerted activity scope ](images/09-employment-and-labor-law-fig-03.png)
+*Figure 9.3 — Section 7 concerted activity scope *
 
 ---
 
@@ -229,3 +239,37 @@ Who was Frances Perkins, and how does her work designing US labor and employment
 - Ask it about Perkins's role in the witnesses-to-the-Triangle-Shirtwaist-Fire generation and how 1911 shaped her policy career.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 9.1 — Horizontal timeline of major federal employment-law statutes from
+
+Create a standalone D3 v7 HTML file for Figure Horizontal timeline of major federal employment-law statutes from. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Horizontal timeline of major federal employment-law statutes from 1935 to 2020 — each statute labeled with name, year, the failure mode it addressed, and the enforcing agency. Key entries: NLRA 1935, FLSA 1938, Equal Pay Act 1963, Title VII 1964, ADEA 1967, OSHA 1970, ERISA 1974, Pregnancy Discrimination Act 1978, ADA 1990, FMLA 1993, Lilly Ledbetter Fair Pay Act 2009, Bostock decision 2020. Student should see immediately that the framework is reactive — each statute follows a documented failure, not a design plan.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/09-employment-and-labor-law-fig-01.html`
+
+---
+
+### Figure 9.2 — Retaliation claim anatomy 
+
+Create a standalone D3 v7 HTML file for Figure Retaliation claim anatomy . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Retaliation claim anatomy — a three-node flow showing: Protected activity (filing a charge / internal complaint) → Employer knowledge → Adverse action, with a fourth node showing temporal proximity as circumstantial evidence linking nodes 2 and 3. A second parallel path shows the independent discrimination claim and how the retaliation claim survives even when the underlying claim fails. Student should see that the retaliation framework is structurally independent of the underlying discrimination question.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/09-employment-and-labor-law-fig-02.html`
+
+---
+
+### Figure 9.3 — Section 7 concerted activity scope 
+
+Create a standalone D3 v7 HTML file for Figure Section 7 concerted activity scope . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Section 7 concerted activity scope — a two-ring diagram. Inner ring: formal union organizing and collective bargaining (what most people think Section 7 covers). Outer ring: all protected concerted activity — two employees discussing wages, group complaints to HR, social media posts about working conditions, collective refusals to perform unsafe work. The visual makes the breadth of protection visible at a glance; the outer ring should be noticeably larger than the inner ring.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/09-employment-and-labor-law-fig-03.html`

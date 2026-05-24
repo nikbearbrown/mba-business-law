@@ -25,7 +25,8 @@ Three structural features in that definition are worth pulling apart, because th
 
 *Violation of trust.* The offender typically occupies a position of authority or fiduciary responsibility within a legitimate organization. The crime is the weaponization of that trust. The bookkeeper is trusted with access to corporate funds; the investment manager is trusted with client assets; the executive is trusted with investor capital. The white-collar offense is the conversion of that trust into a private extraction mechanism.
 
-<!-- → [INFOGRAPHIC: Three-column visual showing the structural features of white-collar crime — Deceit / Concealment / Violation of Trust. Each column: definition in plain language, how it manifests in practice, why it makes detection difficult. Reader should see these as a system that works together, not three independent checkboxes.] -->
+![Three-column visual showing the structural features of white-collar](images/05-criminal-liability-fig-01.png)
+*Figure 5.1 — Three-column visual showing the structural features of white-collar*
 
 These features produce a distinctive profile. The offenders tend to be older, more educated, and more established than street-crime offenders. The offenses tend to run for extended periods before detection — months, years, sometimes decades. Detection typically occurs through external review (a bank raising concerns, an auditor asking questions, a whistleblower), not through direct observation of the crime in progress. And the consequences, when they arrive, can be severe.
 
@@ -37,7 +38,8 @@ In December 2008, an investor in a private fund operated by a 70-year-old New Yo
 
 Madoff confessed to his sons in mid-December 2008. His sons reported him to federal authorities. He was arrested December 11, 2008. He pleaded guilty in March 2009 to eleven federal felonies: securities fraud, wire fraud, mail fraud, money laundering, perjury, theft from an employee benefit plan, and several others. He was sentenced to 150 years in federal prison. He died in custody in April 2021, having served twelve years.
 
-<!-- → [INFOGRAPHIC: Madoff timeline — key events from firm founding (1960) through scheme collapse (2008) through conviction (2009) through death in custody (2021). Annotated to show estimated scheme start date (early 1990s), first redemption pressure (2008), and total investor loss ($65B). Reader should see how long concealment ran before detection forced the collapse.] -->
+![Madoff timeline ](images/05-criminal-liability-fig-02.png)
+*Figure 5.2 — Madoff timeline *
 
 The Madoff case is the largest single instance of white-collar crime in U.S. history. It is also structurally unremarkable. The elements — a position of trust, an intentional misrepresentation sustained over years, concealment within normal business activity, eventual discovery through external pressure — are identical to thousands of smaller cases prosecuted every year at the federal and state level. What distinguishes Madoff is the scale, not the mechanism. The mechanism is the template.
 
@@ -51,7 +53,9 @@ The broadest instruments are the *mail fraud* and *wire fraud* statutes — 18 U
 
 Layered on top of the general statutes are category-specific fraud statutes: securities fraud (18 U.S.C. § 1348, and civil enforcement under Rule 10b-5 of the Securities Exchange Act), bank fraud (18 U.S.C. § 1344), healthcare fraud (18 U.S.C. § 1347), tax fraud. Each has its own enforcement regime and its own sentencing framework. The securities-fraud regime is particularly well-developed, because the volume of securities transactions and the scale of potential harm create both large incentives to commit securities fraud and substantial regulatory infrastructure to prosecute it.
 
-<!-- → [TABLE: Federal fraud statute reference — columns: Statute, U.S.C. Citation, Conduct Prohibited, Maximum Sentence, Enforcement Agency. Rows: Mail Fraud, Wire Fraud, Securities Fraud, Bank Fraud, Healthcare Fraud. Reader should see the statutes as a layered system — general instruments at top, category-specific below.] -->
+| Statute | U |
+| --- | --- |
+| Mail Fraud, Wire Fraud, Securities Fraud, Bank Fraud, Healthcare Fraud. Reader should see the statutes as a layered system | general instruments at top, category-specific below. |
 
 One mechanism worth understanding in some detail is *embezzlement* — the unauthorized taking of property by someone who has lawful possession of it. The distinction from theft is precise: the thief takes what was never his; the embezzler takes what was temporarily, legitimately in his custody. The bookkeeper with check-writing authority who diverts funds to personal use is the classical case.
 
@@ -59,7 +63,9 @@ The Koss Corporation case is a useful illustration of how this actually works in
 
 The mechanism in Sachdeva's case is the same as in Madoff's: a position of trust, a sustained intentional misrepresentation, concealment within normal business records, detection through an external review that the internal controls missed. The scale is different — $34 million versus $65 billion — but the structure is identical.
 
-<!-- → [TABLE: Madoff and Sachdeva compared across the white-collar crime template — rows: Position of Trust, Mechanism of Extraction, Concealment Method, Duration Before Detection, How Detected, Criminal Outcome, Civil Consequence. Columns: Madoff / Sachdeva. Reader should see that the structural template is identical despite the 1,900x difference in scale.] -->
+| Madoff | Sachdeva |
+| --- | --- |
+| Position of Trust, Mechanism of Extraction, Concealment Method, Duration Before Detection, How Detected, Criminal Outcome, Civil Consequence. Columns: Madoff | Sachdeva. Reader should see that the structural template is identical despite the 1,900x difference in scale. |
 
 ---
 
@@ -77,7 +83,9 @@ The interesting design question about RICO is why the statute permits charges ba
 
 *Money laundering.* 18 U.S.C. §§ 1956 and 1957 criminalize the process of disguising the proceeds of criminal activity as legitimate funds. Penalties: up to twenty years per count, plus forfeiture. The Bank Secrecy Act of 1970 imposes transaction-reporting requirements on financial institutions; failure to file required Suspicious Activity Reports (SARs) or Currency Transaction Reports is itself a federal crime. The Wells Fargo unauthorized-accounts matter (2016) — which began as a regulatory enforcement action producing a $185 million settlement — eventually produced criminal investigations and prosecutions of individual bank employees. The path from regulatory enforcement to criminal prosecution, in cases involving systematic misconduct, is a standard one.
 
-<!-- → [TABLE: Federal enforcement infrastructure overview — columns: Category, Primary Statute(s), Criminal Penalties (individual / corporate), Enforcement Agency, Notable Recent Case. Rows: Antitrust, RICO, FCPA, Money Laundering / BSA. Reader should use this as a reference map alongside the prose — not a substitute for reading the section, but a navigational anchor.] -->
+| Category | Primary Statute(s) | Criminal Penalties (individual | corporate) | Enforcement Agency |
+| --- | --- | --- | --- | --- |
+| Antitrust, RICO, FCPA, Money Laundering | BSA. Reader should use this as a reference map alongside the prose | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -91,7 +99,11 @@ The *Fifth Amendment* provides that no person shall be compelled in any criminal
 
 The *Sixth Amendment* provides for the right to counsel in criminal prosecutions and the right to jury trial. The right to counsel was extended to indigent defendants in *Gideon v. Wainwright* (1963). The right attaches at the initiation of formal proceedings. The Fifth Amendment's *Miranda* right to counsel attaches earlier — at the moment of custodial interrogation — but *Miranda* rights are, in the ordinary white-collar investigation, somewhat less consequential than in street-crime prosecutions, because the typical white-collar defendant is not arrested and questioned in custody. The typical white-collar defendant is called before a grand jury or interviewed voluntarily; in both cases, the interaction is governed more by Fifth Amendment privilege than by *Miranda* doctrine.
 
-<!-- → [TABLE: Constitutional protections in white-collar prosecutions — columns: Amendment, Core Protection, How It Applies in White-Collar Context, Key Limitation or Complication. Rows: Fourth (search and seizure / third-party records), Fifth (self-incrimination / individual vs. corporate), Sixth (right to counsel / when it attaches). Reader should see how each amendment operates differently in the boardroom than on the street.] -->
+| Amendment | Core Protection | How It Applies in White-Collar Context | Key Limitation or Complication |
+| --- | --- | --- | --- |
+| Fourth (search and seizure | third-party records | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. |
+| Fifth (self-incrimination | individual vs. corporate | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. |
+| Sixth (right to counsel | when it attaches). Reader should see how each amendment operates differently in the boardroom than on the street. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -103,7 +115,9 @@ The same underlying conduct can produce both criminal and civil consequences. Th
 
 *Civil cases* are brought by private parties or by the government in regulatory enforcement actions. The standard of proof is *preponderance of the evidence* — more likely than not — or, for certain claims, *clear and convincing evidence*. The remedies are monetary damages paid to the plaintiff, injunctions, and specific performance. The constitutional protections that apply specifically to criminal proceedings do not apply with the same force.
 
-<!-- → [TABLE: Criminal vs. civil proceedings compared — rows: Who brings the case, Standard of proof, Primary remedies, Constitutional protections that apply, Typical timeline relative to the other track. Two columns: Criminal / Civil. Reader should be able to use this as a checklist when analyzing a fact pattern that might produce both.] -->
+| Criminal | Civil |
+| --- | --- |
+| Who brings the case, Standard of proof, Primary remedies, Constitutional protections that apply, Typical timeline relative to the other track. Two columns: Criminal | Civil. Reader should be able to use this as a checklist when analyzing a fact pattern that might produce both. |
 
 The Madoff case is the canonical illustration. The criminal prosecution produced a 150-year sentence. The civil recovery effort — run through a court-appointed trustee — had, through 2024, recovered approximately $14 billion of the estimated $20 billion in actual cash losses (the $65 billion figure includes fictitious paper gains that were never real money). The Volkswagen diesel-emissions matter produced civil settlements totaling more than $30 billion, criminal pleas by the corporation and individual executives, and regulatory enforcement actions across multiple jurisdictions. The Wells Fargo unauthorized-accounts matter followed the same multi-track pattern.
 
@@ -123,7 +137,8 @@ The enforcement infrastructure is multi-pronged. DOJ leads the criminal investig
 
 The constitutional analysis separates the firm from the individual. Hartley-the-firm has limited constitutional protection; it can generally be compelled to produce its records. The executive has substantially more protection: a Fifth Amendment right against compelled self-incriminating testimony, a Sixth Amendment right to counsel in any formal proceeding, and a critical interest in making sure his personal exposure is assessed and defended separately from the firm's. The firm's cooperation with prosecutors — potentially beneficial to the firm's own negotiating position — may produce evidence that the individual executive's counsel needs to contest. Those interests can diverge sharply.
 
-<!-- → [INFOGRAPHIC: Hartley fact pattern mapped across the chapter's three concepts — three horizontal bands: (1) White-Collar Crime Category [money laundering, BSA violations, aiding and abetting — each annotated with the knowledge requirement that determines exposure], (2) Federal Enforcement Infrastructure [DOJ criminal / FinCEN regulatory / civil-RICO — three parallel tracks shown running simultaneously], (3) Constitutional Analysis [Hartley-the-firm vs. the individual executive — diverging interests shown as a fork, with Fifth and Sixth Amendment protections annotated on the individual branch]. Reader should see how the same fact pattern simultaneously implicates all three concepts.] -->
+![Hartley fact pattern mapped across the chapter's three](images/05-criminal-liability-fig-03.png)
+*Figure 5.3 — Hartley fact pattern mapped across the chapter's three*
 
 The criminal-civil distinction means that whatever the criminal proceeding produces, it does not end the matter. A deferred prosecution agreement for the firm, individual guilty pleas from relevant executives, and a multi-million-dollar fine do not preclude subsequent civil litigation by private parties. The full resolution of a matter this complex typically runs for years across multiple proceedings.
 
@@ -173,3 +188,37 @@ Who was Edwin Sutherland, and how does his concept of "white-collar crime" conne
 - Ask it about Sutherland's differential association theory — and how it explains corporate crime as learned, not pathological.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 5.1 — Three-column visual showing the structural features of white-collar
+
+Create a standalone D3 v7 HTML file for Figure Three-column visual showing the structural features of white-collar. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-column visual showing the structural features of white-collar crime — Deceit / Concealment / Violation of Trust. Each column: definition in plain language, how it manifests in practice, why it makes detection difficult. Reader should see these as a system that works together, not three independent checkboxes.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-criminal-liability-fig-01.html`
+
+---
+
+### Figure 5.2 — Madoff timeline 
+
+Create a standalone D3 v7 HTML file for Figure Madoff timeline . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Madoff timeline — key events from firm founding (1960) through scheme collapse (2008) through conviction (2009) through death in custody (2021). Annotated to show estimated scheme start date (early 1990s), first redemption pressure (2008), and total investor loss ($65B). Reader should see how long concealment ran before detection forced the collapse.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-criminal-liability-fig-02.html`
+
+---
+
+### Figure 5.3 — Hartley fact pattern mapped across the chapter's three
+
+Create a standalone D3 v7 HTML file for Figure Hartley fact pattern mapped across the chapter's three. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Hartley fact pattern mapped across the chapter's three concepts — three horizontal bands: (1) White-Collar Crime Category [money laundering, BSA violations, aiding and abetting — each annotated with the knowledge requirement that determines exposure], (2) Federal Enforcement Infrastructure [DOJ criminal / FinCEN regulatory / civil-RICO — three parallel tracks shown running simultaneously], (3) Constitutional Analysis [Hartley-the-firm vs. the individual executive — diverging interests shown as a fork, with Fifth and Sixth Amendment protections annotated on the individual branch]. Reader should see how the same fact pattern simultaneously implicates all three concepts.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where po
+
+> Reference implementation: `d3/05-criminal-liability-fig-03.html`

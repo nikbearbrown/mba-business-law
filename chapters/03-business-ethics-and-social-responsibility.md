@@ -33,7 +33,8 @@ Other people think ethics is charity. Paying your employees well, treating the e
 
 The Gravity Payments case is a standing rebuke to both views. Dan Price's decision to raise the minimum wage was not legally required. And it was not charity. It was a commercial bet, and it paid off. The mechanism — which is the interesting part — runs through what the companion *Business Ethics* textbook calls the *operative culture.*
 
-<!-- → [INFOGRAPHIC: Two-layer diagram of the compliance/ethics building metaphor — bottom layer labeled "Legal Floor" with representative statutes (Title VII, SOX Section 906) annotated on its surface; upper layer labeled "Operative Culture" showing the gap between floor and ceiling as the space where ethical choices live. The reader should see immediately that the floor is a constraint, not a destination.] -->
+![Two-layer diagram of the compliance/ethics building metaphor ](images/03-business-ethics-and-social-responsibility-fig-01.png)
+*Figure 3.1 — Two-layer diagram of the compliance/ethics building metaphor *
 
 ---
 
@@ -49,7 +50,8 @@ This is called *tone at the top*, and it has a mechanism you can trace. Employee
 
 The mechanism is not mysterious. It is the same process by which children learn the actual norms of their households, as distinct from the rules posted on the refrigerator. The posted rules describe the floor. The behavior of the adults in the room describes the operative culture.
 
-<!-- → [DIAGRAM: Downward cascade showing tone-at-the-top propagation — Board → C-suite → Senior Management → Middle Management → Frontline Employees, with arrows labeled "observed behavior, not stated policy" at each level. Two parallel versions side by side: left column (Gravity Payments) showing values-aligned signals flowing down; right column (Wells Fargo) showing volume-incentive signals flowing down. Student should see that the mechanism is identical — only the signal differs.] -->
+![Downward cascade showing tone-at-the-top propagation ](images/03-business-ethics-and-social-responsibility-fig-02.png)
+*Figure 3.2 — Downward cascade showing tone-at-the-top propagation *
 
 The practical implication is important. When a firm experiences a major ethics failure, the investigation almost always traces backward to a senior leadership decision — not to a rogue employee who somehow circumvented all the controls, but to a structure of incentives, tolerances, and modeled behaviors that senior leadership established and maintained.
 
@@ -77,7 +79,9 @@ The effectiveness of whistleblower protections depends, again, on the operative 
 
 These three tools — codes of conduct, whistleblower policies, third-party investigation — form the standard architecture of the modern corporate compliance regime. They are the institutional expression of the firm's commitment to operating above the legal floor. Whether they function is determined by the operative culture they are embedded in.
 
-<!-- → [TABLE: Three-column reference table for the compliance toolkit — columns: Tool | What it specifies | Why it can fail | What makes it functional. Rows: Code of Conduct, Whistleblower Policy, Third-Party Investigation. Student should be able to use this table as a quick diagnostic checklist when analyzing a real case.] -->
+| Tool | What it specifies | Why it can fail | What makes it functional |
+| --- |
+| Code of Conduct, Whistleblower Policy, Third-Party Investigation. Student should be able to use this table as a quick diagnostic checklist when analyzing a real case. |
 
 ---
 
@@ -91,7 +95,8 @@ The model was important not because General Dynamics invented ethics but because
 
 Over the following decade, the ethics-office model diffused beyond defense contracting into other industries. The Federal Sentencing Guidelines of 1991 gave firms a concrete financial incentive to adopt formal compliance programs: firms with documented compliance programs received reduced criminal fines and organizational probations compared to firms without them. Ethics compliance became — explicitly and measurably — a factor in criminal sentencing calculations.
 
-<!-- → [INFOGRAPHIC: Timeline of the corporate compliance apparatus — key events on a horizontal axis: 1977 (FCPA enacted), 1985 (General Dynamics first ethics office), 1986 (DII established), 1991 (Federal Sentencing Guidelines), 2001 (Enron bankruptcy), 2002 (SOX signed), 2010 (Dodd-Frank signed), 2012 (JOBS Act SOX relief). Each event annotated with one-line description of what it changed. Student should see the compliance apparatus as a series of responses to visible failures, not a coherent plan.] -->
+![Timeline of the corporate compliance apparatus ](images/03-business-ethics-and-social-responsibility-fig-03.png)
+*Figure 3.3 — Timeline of the corporate compliance apparatus *
 
 Then Enron happened.
 
@@ -107,7 +112,9 @@ The Congressional response was the Sarbanes-Oxley Act of 2002, signed into law b
 
 **Section 906** establishes criminal penalties for executives who knowingly certify false financial reports: up to ten years imprisonment for violations, up to twenty years for willful violations.
 
-<!-- → [TABLE: Four-row reference card for SOX — columns: Section | Requirement | Who is liable | Maximum criminal penalty. Rows: 302, 404, 806, 906. Student should be able to reproduce the four-section structure from memory after seeing this table once.] -->
+| Section | Requirement | Who is liable | Maximum criminal penalty |
+| --- |
+| 302, 404, 806, 906. Student should be able to reproduce the four-section structure from memory after seeing this table once. |
 
 The post-SOX compliance regime substantially reduced the incidence of the specific accounting-fraud patterns that Enron and WorldCom exemplified. It did not eliminate corporate-ethics failures in other categories. The decade following Sarbanes-Oxley produced its own portfolio of major failures: the subprime mortgage crisis, the Wells Fargo account-creation scandal, the Volkswagen diesel emissions fraud, the Boeing 737 MAX certification failures. Each failure represented a different category, exploiting structural gaps that SOX was not designed to address.
 
@@ -133,7 +140,10 @@ The recurring categories of business-ethics failure are recognizable enough that
 
 Across these categories, several structural conditions consistently make failure more likely. Misaligned compensation incentives — particularly incentives that reward short-term financial metrics without corresponding safeguards against the behaviors that produce them. Weak independent oversight — boards insufficiently independent of management, audit committees without adequate technical expertise, internal audit functions that report to management rather than to the board. And the founder-culture-bureaucracy paradox that fast-scaling firms with strong founding cultures often produce: the informal, authority-concentrated governance style that works at twenty employees becomes a structural ethics risk at two thousand.
 
-<!-- → [TABLE: Failure-mode taxonomy reference — columns: Category | Governing law / statute | Representative case | Financial consequence | Primary structural condition that enabled it. Rows: Conflicts of interest, Insider trading, Foreign bribery (FCPA), Accounting fraud, Discrimination/harassment, Environmental/product-safety, Data privacy/cybersecurity. This is the chapter's working taxonomy in portable form — student uses it as a diagnostic checklist when reading new cases.] -->
+| Category | Governing law | statute | Representative case | Financial consequence | Primary structural condition that enabled it |
+| --- | --- |
+| Conflicts of interest, Insider trading, Foreign bribery (FCPA | A concrete checkpoint for applying the chapter concept. |
+| Accounting fraud, Discrimination | harassment, Environmental |
 
 ---
 
@@ -205,3 +215,37 @@ Who is Archie Carroll, and how does his CSR pyramid connect to the business ethi
 - Ask it to compare Carroll's pyramid with the newer "shared value" framework from Porter and Kramer.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 3.1 — Two-layer diagram of the compliance/ethics building metaphor 
+
+Create a standalone D3 v7 HTML file for Figure Two-layer diagram of the compliance/ethics building metaphor . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-layer diagram of the compliance/ethics building metaphor — bottom layer labeled "Legal Floor" with representative statutes (Title VII, SOX Section 906) annotated on its surface; upper layer labeled "Operative Culture" showing the gap between floor and ceiling as the space where ethical choices live. The reader should see immediately that the floor is a constraint, not a destination.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-business-ethics-and-social-responsibility-fig-01.html`
+
+---
+
+### Figure 3.2 — Downward cascade showing tone-at-the-top propagation 
+
+Create a standalone D3 v7 HTML file for Figure Downward cascade showing tone-at-the-top propagation . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Downward cascade showing tone-at-the-top propagation — Board → C-suite → Senior Management → Middle Management → Frontline Employees, with arrows labeled "observed behavior, not stated policy" at each level. Two parallel versions side by side: left column (Gravity Payments) showing values-aligned signals flowing down; right column (Wells Fargo) showing volume-incentive signals flowing down. Student should see that the mechanism is identical — only the signal differs.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-business-ethics-and-social-responsibility-fig-02.html`
+
+---
+
+### Figure 3.3 — Timeline of the corporate compliance apparatus 
+
+Create a standalone D3 v7 HTML file for Figure Timeline of the corporate compliance apparatus . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Timeline of the corporate compliance apparatus — key events on a horizontal axis: 1977 (FCPA enacted), 1985 (General Dynamics first ethics office), 1986 (DII established), 1991 (Federal Sentencing Guidelines), 2001 (Enron bankruptcy), 2002 (SOX signed), 2010 (Dodd-Frank signed), 2012 (JOBS Act SOX relief). Each event annotated with one-line description of what it changed. Student should see the compliance apparatus as a series of responses to visible failures, not a coherent plan.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-business-ethics-and-social-responsibility-fig-03.html`

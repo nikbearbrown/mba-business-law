@@ -21,7 +21,9 @@ The Federal Trade Commission Act's operative provision is Section 5, which prohi
 
 The distinction matters practically. A practice can be deceptive without being unfair. It can be unfair without being deceptive. And the evidentiary showing required, the defenses available, and the remedies appropriate differ across the two categories. The FTC has separate analytical frameworks for each.
 
-<!-- → [TABLE: Side-by-side comparison of deception and unfairness standards — columns: Dimension | Deception (1983 Policy Statement) | Unfairness (codified 1994). Rows: What triggers liability, Three required elements, The operative limiting element, Can reach truthful statements?, Typical enforcement context, Example. Student should be able to classify any Section 5 fact pattern into the correct column, or identify why it falls into both.] -->
+| Dimension | Deception (1983 Policy Statement) | Unfairness (codified 1994) |
+| --- |
+| What triggers liability, Three required elements, The operative limiting element, Can reach truthful statements?, Typical enforcement context, Example. Student should be able to classify any Section 5 fact pattern into the correct column, or identify why it falls into both. |
 
 ### The deception standard
 
@@ -37,7 +39,8 @@ The FTC's enforcement of the deception standard covers the range of ways a selle
 
 The substantiation requirement — the FTC's rule that advertising claims must be supported by a reasonable basis before being made — is a structural extension of the deception framework. A company that advertises that its product "clinically proven to reduce wrinkles by 47 percent" is making a factual claim. The FTC's position is that making such a claim without adequate substantiation for it is itself deceptive, even if the company has no evidence one way or the other about whether the claim is true. You cannot assert a fact you have not established.
 
-<!-- → [INFOGRAPHIC: The deception standard as a three-gate filter — Gate 1: Likely to mislead (probabilistic, no specific victim required). Gate 2: Reasonable consumer interpretation (the limiting gate — hyperbole and obvious puffery don't pass). Gate 3: Material to purchasing decision (the narrowing gate — only falsehoods about things consumers care about). A claim must pass all three gates to be actionable. Show examples of claims that fail at each gate, and one that passes all three (the POM Wonderful health-benefit claim). Student sees the standard as a sequential filter, not a single test.] -->
+![The deception standard as a three-gate filter ](images/12-unfair-trade-practices-and-the-federal-trade-commission-fig-01.png)
+*Figure 12.1 — The deception standard as a three-gate filter *
 
 ### The unfairness standard
 
@@ -49,7 +52,8 @@ The unfairness standard catches practices that the deception standard cannot. A 
 
 The key practical difference between the two standards is the consumer-avoidance element. The deception standard focuses on what the seller said and whether a reasonable consumer would be misled by it. The unfairness standard focuses on whether the harm could have been avoided — which places more weight on the structure of the market and the information available to consumers, rather than just on the specific content of the seller's communication.
 
-<!-- → [DIAGRAM: Decision tree for Section 5 analysis — starting node: "Did the practice involve a false or misleading representation, omission, or implied claim?" Yes branch leads to the three deception-standard gates. No branch leads to "Did the practice cause substantial harm?" which leads to the three unfairness-standard elements. The tree shows that a practice can trigger both analyses simultaneously, and that practices reaching the unfairness branch without passing through the deception branch are the hardest Section 5 cases. Student uses this tree as an analytical scaffold for any fact pattern.] -->
+![Decision tree for Section 5 analysis ](images/12-unfair-trade-practices-and-the-federal-trade-commission-fig-02.png)
+*Figure 12.2 — Decision tree for Section 5 analysis *
 
 ---
 
@@ -67,7 +71,12 @@ The *endorsement and testimonial guidelines* require that material connections b
 
 The *deceptive pricing* framework — "was $99.99, now $49.99" — requires that the "original" price be a genuine price at which the product was actually offered for sale, not a fictitious reference price set high to make the discount look larger. The FTC has brought enforcement actions against retailers whose "sale" prices were actually the regular prices and whose "original" prices were never genuinely available.
 
-<!-- → [TABLE: FTC advertising enforcement categories — columns: Practice type | What the FTC requires | What triggers liability | Representative case. Rows: Health/safety claims (substantiation), Endorsements and influencer posts (material connection disclosure), Deceptive pricing (genuine reference price), Implied claims (totality of impression). Student uses this table as a compliance checklist when reviewing advertising copy.] -->
+| Practice type | What the FTC requires | What triggers liability | Representative case |
+| --- |
+| Health |
+| Endorsements and influencer posts (material connection disclosure |
+| Deceptive pricing (genuine reference price |
+| Implied claims (totality of impression). Student uses this table as a compliance checklist when reviewing advertising copy. |
 
 ### Privacy and data security: the FTC as de facto regulator
 
@@ -77,7 +86,8 @@ The FTC's authority in privacy derives from Section 5's deception and unfairness
 
 The consequence is that the FTC has become the primary federal enforcement agency for data privacy and data security, not because Congress designed it that way, but because no other agency has clear jurisdiction and the FTC's broad statutory authority reaches the conduct.
 
-<!-- → [INFOGRAPHIC: U.S. privacy regulatory patchwork — a coverage map showing which federal agency governs which category of data. Sectors: Health data (HIPAA → HHS), Children's online data (COPPA → FTC), Financial data (Gramm-Leach-Bliley → FTC + banking regulators), Consumer financial data (FCRA → FTC + CFPB), Everything else → FTC via Section 5. The visual should make the fragmentation immediately legible: unlike the EU's GDPR, which covers all personal data under one framework, the U.S. system is a patchwork with the FTC filling the residual category.] -->
+![U](images/12-unfair-trade-practices-and-the-federal-trade-commission-fig-03.png)
+*Figure 12.3 — U*
 
 The two largest FTC privacy settlements illustrate the scope of this authority. In 2019, Facebook agreed to pay $5 billion to settle FTC charges arising from the Cambridge Analytica matter — in which user data was shared with a political consulting firm without adequate user consent, in violation of a 2012 FTC consent order Facebook had already entered into. The $5 billion settlement was at the time the largest FTC consumer-protection settlement in the agency's history. In 2022, Twitter agreed to pay $150 million to settle FTC charges that it had used phone numbers and email addresses collected for security purposes — two-factor authentication — to serve targeted advertising, again in violation of a prior FTC consent order.
 
@@ -99,7 +109,8 @@ The typical FTC enforcement trajectory is: investigation → complaint → negot
 
 Consent orders typically run for twenty years. They often require the firm to establish and maintain specific compliance programs, to report regularly to the FTC on its compliance, and to notify the FTC of certain changes in its business structure. Violating a consent order is not merely a breach of contract; it is the basis for civil penalties, which can be substantial — up to tens of thousands of dollars per violation per day.
 
-<!-- → [DIAGRAM: FTC enforcement lifecycle — a horizontal flow showing Investigation → Complaint → Negotiation → Consent Order (20-year obligation), with a separate branch below showing what happens on violation: Violation detected → Civil penalty proceeding → Per-violation-per-day penalties → Escalated compliance requirements. The Facebook timeline (2012 consent order → 2019 $5B violation settlement) should appear as an annotated example on the violation branch. Student should see the consent-order mechanism as a ratchet: each violation increases the stakes of the next.] -->
+![FTC enforcement lifecycle ](images/12-unfair-trade-practices-and-the-federal-trade-commission-fig-04.png)
+*Figure 12.4 — FTC enforcement lifecycle *
 
 The consent-order structure has both advantages and limits. The advantage is efficiency: an enforcement action that would take years to litigate to a final judgment can be resolved in months through a consent order, and the result is a binding, ongoing obligation rather than a one-time penalty. The limit is that the firm does not admit wrongdoing, which reduces the deterrent effect on other firms that did not receive the order and can argue that their conduct is distinguishable.
 
@@ -209,3 +220,45 @@ Who was Louis Brandeis, and how does his work on antitrust and unfair trade prac
 - Ask it about the contested confirmation of Brandeis as the first Jewish Supreme Court Justice in 1916.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 12.1 — The deception standard as a three-gate filter 
+
+Create a standalone D3 v7 HTML file for Figure The deception standard as a three-gate filter . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The deception standard as a three-gate filter — Gate 1: Likely to mislead (probabilistic, no specific victim required). Gate 2: Reasonable consumer interpretation (the limiting gate — hyperbole and obvious puffery don't pass). Gate 3: Material to purchasing decision (the narrowing gate — only falsehoods about things consumers care about). A claim must pass all three gates to be actionable. Show examples of claims that fail at each gate, and one that passes all three (the POM Wonderful health-benefit claim). Student sees the standard as a sequential filter, not a single test.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/m
+
+> Reference implementation: `d3/12-unfair-trade-practices-and-the-federal-trade-commission-fig-01.html`
+
+---
+
+### Figure 12.2 — Decision tree for Section 5 analysis 
+
+Create a standalone D3 v7 HTML file for Figure Decision tree for Section 5 analysis . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Decision tree for Section 5 analysis — starting node: "Did the practice involve a false or misleading representation, omission, or implied claim?" Yes branch leads to the three deception-standard gates. No branch leads to "Did the practice cause substantial harm?" which leads to the three unfairness-standard elements. The tree shows that a practice can trigger both analyses simultaneously, and that practices reaching the unfairness branch without passing through the deception branch are the hardest Section 5 cases. Student uses this tree as an analytical scaffold for any fact pattern.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/
+
+> Reference implementation: `d3/12-unfair-trade-practices-and-the-federal-trade-commission-fig-02.html`
+
+---
+
+### Figure 12.3 — U
+
+Create a standalone D3 v7 HTML file for Figure U. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: U.S. privacy regulatory patchwork — a coverage map showing which federal agency governs which category of data. Sectors: Health data (HIPAA → HHS), Children's online data (COPPA → FTC), Financial data (Gramm-Leach-Bliley → FTC + banking regulators), Consumer financial data (FCRA → FTC + CFPB), Everything else → FTC via Section 5. The visual should make the fragmentation immediately legible: unlike the EU's GDPR, which covers all personal data under one framework, the U.S. system is a patchwork with the FTC filling the residual category.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-unfair-trade-practices-and-the-federal-trade-commission-fig-03.html`
+
+---
+
+### Figure 12.4 — FTC enforcement lifecycle 
+
+Create a standalone D3 v7 HTML file for Figure FTC enforcement lifecycle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: FTC enforcement lifecycle — a horizontal flow showing Investigation → Complaint → Negotiation → Consent Order (20-year obligation), with a separate branch below showing what happens on violation: Violation detected → Civil penalty proceeding → Per-violation-per-day penalties → Escalated compliance requirements. The Facebook timeline (2012 consent order → 2019 $5B violation settlement) should appear as an annotated example on the violation branch. Student should see the consent-order mechanism as a ratchet: each violation increases the stakes of the next.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-unfair-trade-practices-and-the-federal-trade-commission-fig-04.html`

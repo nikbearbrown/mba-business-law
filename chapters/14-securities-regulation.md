@@ -23,7 +23,8 @@ The result was a market in which manipulation, fraud, and disclosure failures we
 
 In October 1929, the market crashed. Over the following three years, prices declined approximately 89 percent from peak to trough. The United States entered the Great Depression. Among the structural causes the crash exposed were the information failures the unregulated market had produced — not as isolated incidents but as endemic features of the market's operation.
 
-<!-- → [CHART: U.S. stock market index 1920–1935 — line chart showing the rise through the 1920s, the 1929 crash, and the 89% decline to trough in 1932. Annotated with key events: peak (September 1929), crash (October 1929), trough (July 1932), Securities Act enacted (1933), Exchange Act enacted (1934). Reader should see the scale of the collapse and the timing of the legislative response.] -->
+![U](images/14-securities-regulation-fig-01.png)
+*Figure 14.1 — U*
 
 Congress responded with two foundational statutes. The *Securities Act of 1933* governs the issuance of new securities — what happens when a company first sells securities to the public. The *Securities Exchange Act of 1934* governs trading in already-issued securities — what happens in the secondary markets where investors buy from and sell to each other — and creates the *Securities and Exchange Commission* to administer both statutes. The two statutes, together with subsequent amendments and the body of SEC rulemaking built on top of them, constitute the operating framework of U.S. securities regulation.
 
@@ -37,7 +38,8 @@ The 1933 Act's core principle is registration. Securities offered or sold to the
 
 The registration process is not fast. The SEC reviews the registration statement, issues comments, and requires amendments until the disclosure meets the staff's standards. A typical initial public offering takes several months from filing to effectiveness, during which the issuer cannot sell the securities. The *Securities Act of 1933* creates three temporal zones around the offering: the *pre-filing period* (no offers or sales permitted), the *waiting period* between filing and effectiveness (oral offers and certain written communications permitted, but no sales), and the *post-effective period* (sales permitted, prospectus delivery required).
 
-<!-- → [INFOGRAPHIC: The three IPO temporal zones on a horizontal timeline — Pre-Filing Period (no offers, no sales) → Registration Statement Filed → Waiting Period (oral offers permitted, no sales) → SEC Declares Effective → Post-Effective Period (sales permitted, prospectus required). Each zone annotated with what the issuer can and cannot do. Reader should see the registration process as a sequence of gates, not a single event.] -->
+![The three IPO temporal zones on a horizontal](images/14-securities-regulation-fig-02.png)
+*Figure 14.2 — The three IPO temporal zones on a horizontal*
 
 The liability framework that accompanies registration is the statute's enforcement mechanism. Section 11 imposes civil liability on the issuer — and on underwriters, directors, and certain experts who sign the registration statement — for material misstatements or omissions in the registration statement. The issuer's liability is strict: no scienter required, no due-diligence defense available. Underwriters and others can avoid liability by establishing that they conducted reasonable due diligence and had no reason to believe the registration statement contained material misstatements. Section 12 provides parallel liability for fraudulent prospectuses.
 
@@ -59,7 +61,11 @@ The major exemptions operate as a toolkit, with different instruments suited to 
 
 *Section 4(a)(2)* is the statutory exemption for private placements — transactions not involving any public offering. The exemption predates Regulation D and remains available, though Regulation D's safe-harbor provisions make Rule 506 the preferred vehicle for most private placements because it provides clearer legal certainty.
 
-<!-- → [TABLE: Exemption toolkit reference — columns: Exemption, Maximum Raise, Who Can Invest, General Solicitation Permitted?, Ongoing Reporting Required?, Typical Use Case. Rows: Rule 506(b), Rule 506(c), Regulation A, Regulation Crowdfunding, Section 4(a)(2). Reader should be able to match a capital-raising scenario to the appropriate exemption by scanning the table.] -->
+| Exemption | Maximum Raise | Who Can Invest | General Solicitation Permitted? | Ongoing Reporting Required? |
+| --- | --- | --- | --- | --- |
+| Rule 506(b | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Rule 506(c | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Regulation A, Regulation Crowdfunding, Section 4(a)(2). Reader should be able to match a capital-raising scenario to the appropriate exemption by scanning the table. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -69,7 +75,11 @@ The 1933 Act governs the moment of issuance. Once a company is public — once i
 
 The centerpiece of the 1934 Act's ongoing obligations is the *periodic disclosure* system. Public companies must file annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K for material events that occur between quarterly filings. The 10-K is the most comprehensive: it includes audited financial statements, management's discussion and analysis of financial condition and results, disclosures about the company's business, risk factors, and governance. The 10-Q provides unaudited quarterly updates. The 8-K requires prompt disclosure of specified major events — earnings releases, acquisitions, departures of key executives, material agreements.
 
-<!-- → [TABLE: Public company disclosure forms reference — columns: Form, Frequency, Key Contents, Filing Deadline. Rows: 10-K (annual), 10-Q (quarterly), 8-K (current/event-driven). Each row should note the standard that distinguishes what triggers a required filing — for 8-K especially, what counts as a "material event." Reader uses this as a compliance checklist.] -->
+| Form | Frequency | Key Contents | Filing Deadline |
+| --- | --- | --- | --- |
+| 10-K (annual | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| 10-Q (quarterly | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| 8-K (current | event-driven). Each row should note the standard that distinguishes what triggers a required filing | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The disclosure system is the operating context for U.S. public-company governance. Shareholders, analysts, journalists, and regulators read 10-Ks and 8-Ks; the documents are the primary mechanism by which public companies communicate with the market. A public company that fails to disclose material information, or that discloses it inaccurately, faces liability under Section 10(b) and Rule 10b-5, the statute's primary anti-fraud provisions.
 
@@ -95,7 +105,8 @@ The misappropriation theory substantially expanded the scope of insider-trading 
 
 *Tippee liability* — the liability of persons who receive inside information from someone who breached a fiduciary duty — operates under standards articulated in *Dirks v. SEC* (1983) and refined in *Salman v. United States* (2016). A tippee is liable when the tipper breached a fiduciary duty by disclosing the information, the tipper received a personal benefit from the disclosure, and the tippee knew or should have known of the breach. *Salman* clarified that a personal benefit can be established when the tipper gives the information to a trading relative or friend — the benefit of the gift to the recipient is itself sufficient.
 
-<!-- → [INFOGRAPHIC: Insider trading liability chain — three-level diagram. Level 1: Corporate insider (Gupta / Goldman board) holds material non-public information. Arrow down labeled "tip + personal benefit (breach of fiduciary duty)" → Level 2: Tippee (Rajaratnam / Galleon) receives information, knows it came from a breach. Arrow down labeled "trades on information" → Level 3: Market counterparties who sold at pre-announcement price (harmed parties). Liability annotations: Gupta = classical theory; Rajaratnam = tippee liability under Dirks/Salman. Reader should see the breach-of-trust origin at the top and how liability flows downward through the chain.] -->
+![Insider trading liability chain ](images/14-securities-regulation-fig-03.png)
+*Figure 14.3 — Insider trading liability chain *
 
 The Rajat Gupta case is the canonical recent illustration of how these theories operate in practice. Gupta was a board member of Goldman Sachs and Procter & Gamble who, in 2008 and 2009, tipped Raj Rajaratnam — the hedge fund manager who ran Galleon Group — with material non-public information about Goldman board discussions, including information about Warren Buffett's impending $5 billion investment in Goldman during the financial crisis. Rajaratnam traded on the tips; Galleon made millions. Gupta was convicted in 2012 under the classical theory — he was a corporate insider who breached his fiduciary duty to Goldman's shareholders by tipping information he had no right to disclose — and sentenced to two years in federal prison. Rajaratnam was convicted separately and sentenced to eleven years.
 
@@ -115,7 +126,11 @@ The *JOBS Act of 2012* moved in the opposite direction — liberalizing the offe
 
 The current frontier includes SEC rulemaking on climate-related disclosure (requiring public companies to disclose material climate risks and greenhouse gas emissions), cybersecurity-incident disclosure (requiring prompt 8-K reporting of material cybersecurity incidents), and the regulatory framework for crypto-asset securities — a category the existing statutory framework was not designed to address and that has generated substantial litigation over which assets constitute *securities* subject to the 1933 and 1934 Act frameworks.
 
-<!-- → [TABLE: Major legislative amendments to the securities framework — columns: Statute, Year, Triggering Event, Key Provisions, Direction of Change (tighten/liberalize). Rows: Sarbanes-Oxley (2002 / Enron-WorldCom), Dodd-Frank (2010 / financial crisis), JOBS Act (2012 / capital formation concerns). Reader should see the framework as a living system that responds to market failures and policy shifts, not a static code.] -->
+| Statute | Year | Triggering Event | Key Provisions | Direction of Change (tighten |
+| --- | --- | --- | --- | --- |
+| Sarbanes-Oxley (2002 | Enron-WorldCom | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Dodd-Frank (2010 | financial crisis | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| JOBS Act (2012 | capital formation concerns). Reader should see the framework as a living system that responds to market failures and policy shifts, not a static code. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -197,3 +212,37 @@ Who is Mary Schapiro, and how does her work as SEC chair during the financial cr
 - Ask it about the SEC's pre-2008 regulatory failures — and what Schapiro identified as the institutional causes.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 14.1 — U
+
+Create a standalone D3 v7 HTML file for Figure U. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: U.S. stock market index 1920–1935 — line chart showing the rise through the 1920s, the 1929 crash, and the 89% decline to trough in 1932. Annotated with key events: peak (September 1929), crash (October 1929), trough (July 1932), Securities Act enacted (1933), Exchange Act enacted (1934). Reader should see the scale of the collapse and the timing of the legislative response.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/14-securities-regulation-fig-01.html`
+
+---
+
+### Figure 14.2 — The three IPO temporal zones on a horizontal
+
+Create a standalone D3 v7 HTML file for Figure The three IPO temporal zones on a horizontal. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The three IPO temporal zones on a horizontal timeline — Pre-Filing Period (no offers, no sales) → Registration Statement Filed → Waiting Period (oral offers permitted, no sales) → SEC Declares Effective → Post-Effective Period (sales permitted, prospectus required). Each zone annotated with what the issuer can and cannot do. Reader should see the registration process as a sequence of gates, not a single event.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/14-securities-regulation-fig-02.html`
+
+---
+
+### Figure 14.3 — Insider trading liability chain 
+
+Create a standalone D3 v7 HTML file for Figure Insider trading liability chain . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Insider trading liability chain — three-level diagram. Level 1: Corporate insider (Gupta / Goldman board) holds material non-public information. Arrow down labeled "tip + personal benefit (breach of fiduciary duty)" → Level 2: Tippee (Rajaratnam / Galleon) receives information, knows it came from a breach. Arrow down labeled "trades on information" → Level 3: Market counterparties who sold at pre-announcement price (harmed parties). Liability annotations: Gupta = classical theory; Rajaratnam = tippee liability under Dirks/Salman. Reader should see the breach-of-trust origin at the top and how liability flows downward through the chain.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DE
+
+> Reference implementation: `d3/14-securities-regulation-fig-03.html`
