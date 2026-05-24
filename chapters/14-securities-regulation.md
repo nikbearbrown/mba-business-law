@@ -170,7 +170,6 @@ You have the apparatus. The rest of your working life is where it operates.
 
 **Exercise 14.6.** *Tests learning objective: disclosure philosophy.* The SEC's climate-disclosure rules require public companies to disclose material climate risks and greenhouse gas emissions. Critics argue that this exceeds the SEC's statutory mandate, which is investor protection through financial disclosure rather than environmental regulation. Defenders argue that climate risk is a material financial risk that falls squarely within the SEC's authority. Construct the strongest version of each argument. Then state which argument you find more persuasive and why, acknowledging the strongest counterpoint to your position. Difficulty: challenge.
 
-
 ---
 
 ## LLM Exercises
@@ -212,37 +211,3 @@ Who is Mary Schapiro, and how does her work as SEC chair during the financial cr
 - Ask it about the SEC's pre-2008 regulatory failures — and what Schapiro identified as the institutional causes.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 14.1 — U
-
-Create a standalone D3 v7 HTML file for Figure U. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: U.S. stock market index 1920–1935 — line chart showing the rise through the 1920s, the 1929 crash, and the 89% decline to trough in 1932. Annotated with key events: peak (September 1929), crash (October 1929), trough (July 1932), Securities Act enacted (1933), Exchange Act enacted (1934). Reader should see the scale of the collapse and the timing of the legislative response.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/14-securities-regulation-fig-01.html`
-
----
-
-### Figure 14.2 — The three IPO temporal zones on a horizontal
-
-Create a standalone D3 v7 HTML file for Figure The three IPO temporal zones on a horizontal. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The three IPO temporal zones on a horizontal timeline — Pre-Filing Period (no offers, no sales) → Registration Statement Filed → Waiting Period (oral offers permitted, no sales) → SEC Declares Effective → Post-Effective Period (sales permitted, prospectus required). Each zone annotated with what the issuer can and cannot do. Reader should see the registration process as a sequence of gates, not a single event.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/14-securities-regulation-fig-02.html`
-
----
-
-### Figure 14.3 — Insider trading liability chain 
-
-Create a standalone D3 v7 HTML file for Figure Insider trading liability chain . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Insider trading liability chain — three-level diagram. Level 1: Corporate insider (Gupta / Goldman board) holds material non-public information. Arrow down labeled "tip + personal benefit (breach of fiduciary duty)" → Level 2: Tippee (Rajaratnam / Galleon) receives information, knows it came from a breach. Arrow down labeled "trades on information" → Level 3: Market counterparties who sold at pre-announcement price (harmed parties). Liability annotations: Gupta = classical theory; Rajaratnam = tippee liability under Dirks/Salman. Reader should see the breach-of-trust origin at the top and how liability flows downward through the chain.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DE
-
-> Reference implementation: `d3/14-securities-regulation-fig-03.html`

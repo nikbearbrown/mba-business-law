@@ -146,7 +146,6 @@ What this apparatus gives you is the working diagnosis: the categories the condu
 
 That is what the apparatus is for.
 
-
 ---
 
 ## LLM Exercises
@@ -188,37 +187,3 @@ Who was Edwin Sutherland, and how does his concept of "white-collar crime" conne
 - Ask it about Sutherland's differential association theory — and how it explains corporate crime as learned, not pathological.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 5.1 — Three-column visual showing the structural features of white-collar
-
-Create a standalone D3 v7 HTML file for Figure Three-column visual showing the structural features of white-collar. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-column visual showing the structural features of white-collar crime — Deceit / Concealment / Violation of Trust. Each column: definition in plain language, how it manifests in practice, why it makes detection difficult. Reader should see these as a system that works together, not three independent checkboxes.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/05-criminal-liability-fig-01.html`
-
----
-
-### Figure 5.2 — Madoff timeline 
-
-Create a standalone D3 v7 HTML file for Figure Madoff timeline . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Madoff timeline — key events from firm founding (1960) through scheme collapse (2008) through conviction (2009) through death in custody (2021). Annotated to show estimated scheme start date (early 1990s), first redemption pressure (2008), and total investor loss ($65B). Reader should see how long concealment ran before detection forced the collapse.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/05-criminal-liability-fig-02.html`
-
----
-
-### Figure 5.3 — Hartley fact pattern mapped across the chapter's three
-
-Create a standalone D3 v7 HTML file for Figure Hartley fact pattern mapped across the chapter's three. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Hartley fact pattern mapped across the chapter's three concepts — three horizontal bands: (1) White-Collar Crime Category [money laundering, BSA violations, aiding and abetting — each annotated with the knowledge requirement that determines exposure], (2) Federal Enforcement Infrastructure [DOJ criminal / FinCEN regulatory / civil-RICO — three parallel tracks shown running simultaneously], (3) Constitutional Analysis [Hartley-the-firm vs. the individual executive — diverging interests shown as a fork, with Fifth and Sixth Amendment protections annotated on the individual branch]. Reader should see how the same fact pattern simultaneously implicates all three concepts.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where po
-
-> Reference implementation: `d3/05-criminal-liability-fig-03.html`

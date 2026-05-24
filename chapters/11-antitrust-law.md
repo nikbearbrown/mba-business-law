@@ -146,7 +146,6 @@ Understanding the framework means knowing which analytical track applies to a gi
 
 **Exercise 11.6.** *Tests learning objective: remedies design.* The DOJ has proposed forced divestiture of Chrome or Android as a remedy in the Google search case. Design an alternative remedy — behavioral rather than structural — that would address the default-placement mechanism without breaking up the company. Identify what your remedy would require Google to do, how compliance would be monitored, and what competitive harm, if any, your remedy would fail to address. Difficulty: challenge.
 
-
 ---
 
 ## LLM Exercises
@@ -188,45 +187,3 @@ Who is Lina Khan, and how does her antitrust framework connect to the antitrust 
 - Ask it to compare Khan's revival of structural antitrust with Robert Bork's consumer-welfare position that dominated for forty years.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 11.1 — Standard Oil's competitive playbook 
-
-Create a standalone D3 v7 HTML file for Figure Standard Oil's competitive playbook . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Standard Oil's competitive playbook — three-panel illustration showing the three anticompetitive mechanisms: (1) secret railroad rebates [Standard Oil pays less per barrel shipped than competitors, illustrated as a cost-per-barrel comparison]; (2) predatory pricing [price map showing below-cost pricing in contested markets funded by above-cost profits in captive markets]; (3) infrastructure foreclosure [pipeline and storage network with access denied to competitors]. Reader should see these as a coordinated system, not isolated practices.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/11-antitrust-law-fig-01.html`
-
----
-
-### Figure 11.2 — HSR merger review process 
-
-Create a standalone D3 v7 HTML file for Figure HSR merger review process . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: HSR merger review process — horizontal flowchart: Transaction Announced → HSR Filing (if above $119M threshold) → Initial Review Period (30 days) → [branch] Cleared / Second Request Issued → Second Request Response → Extended Review → [branch] Cleared / Consent Decree Negotiated / Challenge Filed in Court. Each stage annotated with typical duration and approximate share of transactions that reach it. Reader should see that most transactions clear early and that litigation is the rare endpoint.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/11-antitrust-law-fig-02.html`
-
----
-
-### Figure 11.3 — HHI illustration 
-
-Create a standalone D3 v7 HTML file for Figure HHI illustration . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: HHI illustration — two side-by-side market diagrams. Left: six-firm market with shares 25/20/20/15/10/10 (HHI = 1,650, unconcentrated). Right: same market after top two firms merge, resulting in 45/20/15/10/10 (HHI = 2,850, highly concentrated, delta = 1,200). Reader should see how a merger can move a market from the "unconcentrated" to "highly concentrated" zone and why the post-merger HHI and the delta both matter to the agencies.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/11-antitrust-law-fig-03.html`
-
----
-
-### Figure 11.4 — Standard Oil vs
-
-Create a standalone D3 v7 HTML file for Figure Standard Oil vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Standard Oil vs. Google structural comparison — two parallel columns. Left: Standard Oil's monopoly mechanics [control of distribution infrastructure → exclusion of competitors → price extraction]. Right: Google's monopoly mechanics [control of default placement → exclusion of search competitors through habit formation and data advantages → advertising revenue extraction]. Bottom row: Why the same remedy (structural breakup) worked then but may not work now [petroleum refining has no network effects / search has strong data-driven network effects]. Reader should see the structural parallel and the structural difference simultaneously.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color vari
-
-> Reference implementation: `d3/11-antitrust-law-fig-04.html`
