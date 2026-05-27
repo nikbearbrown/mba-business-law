@@ -3,195 +3,147 @@
 
 ---
 
-Here is a strange thing about courts: almost nobody uses them.
+Here is something that should bother you: almost nobody uses courts.
 
-You would not guess this from the way law is usually taught. The cases in a business law textbook are almost entirely court cases — appeals court opinions, Supreme Court decisions, landmark rulings. You spend a semester reading the outputs of the litigation system, which gives you the impression that the litigation system is how disputes get resolved. It isn't. It's how a small fraction of disputes get resolved, after everything else has failed.
+I mean that seriously. Think about it. You spend a semester in a business law course reading court cases — appeals court opinions, Supreme Court decisions, landmark rulings. Every chapter is a case. Every case was decided by a judge or a jury. You start to build a mental model of how commercial disputes resolve, and that model has a courthouse right at the center of it. Then you go out into the world and discover that the courthouse is almost never where disputes end up. The overwhelming majority of commercial disagreements — over money, contracts, warranties, services not delivered — resolve before anyone files a petition. Most of them resolve in a conversation. A tense one, maybe. Maybe with letters involved, or lawyers in the background, or a third party brought in to help. But a conversation.
 
-Think about the last time you had a disagreement with someone over money, or a contract, or a service that wasn't delivered the way you expected. What happened? Did you file a lawsuit? Almost certainly not. You probably had a conversation. Maybe a tense one. Maybe you wrote a letter. Maybe you brought in someone else to help. Maybe you gave up part of what you thought you were owed and the other party gave up something too, and you shook hands and went on with your lives.
-
-That's the actual apparatus. It has a name. It has structure. It has tools that work better in some situations than others. And it operates in layers — each layer catching disputes that the layer above it couldn't resolve, with litigation at the very bottom, handling the cases that fell through everything else.
-
-I want to explain how that apparatus actually works.
+Why, then, do we teach law by studying court opinions? Partly because court opinions are written down, and things that are written down are easy to assign. Partly because the questions courts wrestle with — what does this contract mean? was this conduct reasonable? — are genuinely interesting questions worth understanding. But you should know, from the beginning, that what you're studying when you study court cases is the exception. The rule is something else entirely, and the rule has a shape.
 
 ---
 
-## The funnel
+That shape is a funnel.
 
-Picture the full population of commercial disputes in a given year. Every disagreement between businesses, between businesses and consumers, between employers and employees, about money or contract performance or warranty terms or any of the other things people disagree about when they are doing business together. That population is enormous. What fraction reaches a courtroom?
+Imagine all the commercial disputes in a given year spread out across the top — every disagreement between businesses, between businesses and their customers, between employers and employees. That population is enormous. Now trace what happens to those disputes as they work their way through the system. The great majority never leave the first stage. The parties talk, they adjust, one of them makes a concession, they come to a number they can both live with and get back to work. The disputes that don't resolve there — the ones where talking directly doesn't produce agreement — move to the next stage, which involves a neutral third party who helps. Most of those resolve too. The ones that don't move to a stage where a neutral third party decides, rather than helps. Most of those resolve before anyone issues a formal decision. Court litigation catches what's left.
 
-The research is not perfectly clean, but the broad shape is consistent: the overwhelming majority of commercial disputes resolve through direct negotiation between the parties. A smaller number — those that negotiation doesn't resolve — go to a structured process involving a neutral third party. Of those, most settle before an adjudicator issues a decision. Court litigation, with its judges and juries and published opinions, handles the remainder.
+<!-- → [FIGURE: Funnel diagram — wide at top (negotiation), narrowing through mediation and arbitration, narrow at bottom (litigation). Label each band with approximate cost and time. Source: Chapter 2 Fig 2.1] -->
 
-![Funnel diagram ](images/02-disputes-and-dispute-settlement-fig-01.png)
-*Figure 2.1 — Funnel diagram *
+Wide at the top. Narrow at the bottom. And crucially: the cost, the time, and the damage to any ongoing relationship all increase as you move down. The practitioner who understands the funnel — who knows which level of the apparatus they're dealing with and why — makes better decisions at every stage. The practitioner who treats every dispute as a potential lawsuit is solving a five-dollar problem with a twenty-dollar tool, and usually making the underlying relationship worse in the process.
 
-This is the funnel. Wide at the top (negotiation), narrowing through mediation and arbitration, narrow at the bottom (court). The funnel matters because every level has different costs, different speeds, and different outcomes. The practitioner who understands the funnel makes better decisions at every stage. The practitioner who skips straight to the bottom of the funnel is spending twenty dollars to solve a five-dollar problem — and usually making the relationship worse in the process.
-
----
-
-## The first move: negotiation
-
-Every dispute begins as a disagreement. Two parties wanted different things from the same transaction, or one party did something the other didn't expect, or a contract term that seemed clear when it was signed turns out to be ambiguous when the situation it was supposed to govern actually arrives.
-
-The first question isn't "who's right?" The first question is: "can we work this out?"
-
-The academic definition of negotiation, from Pinkley, Neale, and Bennett's 1994 paper in *Organizational Behavior and Human Decision Processes*, is precise enough to be useful: *the process by which parties with non-identical preferences allocate resources through interpersonal activity and joint decision making*. Four elements. Non-identical preferences — you want different things. Resource allocation — something is being divided. Interpersonal activity — humans talking to humans. Joint decision making — neither party can impose an outcome; both must agree.
-
-That last element is what distinguishes negotiation from everything that comes later. In mediation, a third party helps. In arbitration, a third party decides. In litigation, a judge or jury decides. In negotiation, there is no third party. If the parties can't agree, nothing happens. The dispute sits there.
-
-### What you're trying to do and how you're trying to do it
-
-There are two fundamentally different kinds of negotiation, and confusing them causes most negotiation failures.
-
-The first kind is *distributive*. The resource is fixed. One party's gain is the other's loss. Think: splitting a check, dividing a disputed commission, resolving a pricing disagreement where both parties need to move to the same number. In a distributive negotiation, the goal is to capture as much of the fixed pool as you can.
-
-The second kind is *integrative*. The resource is not fixed. Creative arrangements can produce more total value than either party initially saw. Think: a vendor and a customer who disagree on delivery timeline but haven't yet explored whether adjusting the payment schedule or the scope of the first delivery might make the timeline problem disappear. In an integrative negotiation, the goal is to expand the pool before dividing it.
-
-![Distributive negotiation assumes the pie is fixed. Integrative negotiation asks whether the pie can grow first.](images/02-disputes-and-dispute-settlement-fig-02.png)
-*Figure 2.2 — Illustration *
-
-Most commercial disputes have both dimensions, in proportions that aren't obvious at the start. The practitioner who treats everything as distributive misses the integrative possibilities. The practitioner who treats everything as integrative fails to capture value when the situation is genuinely zero-sum.
-
-### The Thomas-Kilmann modes
-
-Kenneth Thomas and Ralph Kilmann developed, in 1977, a framework for understanding negotiation styles that has held up well. They identified five distinct modes, organized along two dimensions: *assertiveness* (how much you push for your own outcomes) and *cooperativeness* (how much you accommodate the other party's outcomes).
-
-![2×2 grid with Assertiveness on the vertical axis](images/02-disputes-and-dispute-settlement-fig-03.png)
-*Figure 2.3 — 2×2 grid with Assertiveness on the vertical axis*
-
-**Forcing** is high assertiveness, low cooperativeness. You pursue your outcome regardless of the impact on the other party. This works when you have substantially more leverage than the other party, when the relationship doesn't need to continue, and when the outcome matters more than the relationship. It fails when the other party also has leverage, when the relationship matters, or when you're wrong and too committed to your position to notice.
-
-**Collaborating** is high on both. You genuinely try to find solutions that advance both parties' interests. This is the integrative mode. It works when creative solutions are available and the relationship is valuable. It fails when the resource genuinely is fixed, when the other party isn't collaborating in return, and when it takes more time than the problem is worth.
-
-**Compromising** is moderate on both. You split the difference. This is the default when neither extreme is available, when speed matters more than optimization, and when both parties are roughly equally right.
-
-**Avoiding** is low on both. You decline to engage. This is appropriate when the dispute isn't worth the cost of engagement — when the amount in question is small, when the relationship is about to end anyway, when the timing is wrong. It is not a long-term strategy for substantial disputes; avoiding a real problem doesn't make it go away.
-
-**Yielding** is low assertiveness, high cooperativeness. You accommodate the other party. This is appropriate when you are wrong (a condition many negotiators resist recognizing), when the other party's claim is genuinely stronger, or when the relationship is substantially more valuable than the disputed resource.
-
-No mode is correct in all situations. The practitioner who is always forcing loses relationships. The practitioner who is always yielding loses money. The skill is reading which mode fits which situation — and being honest enough with yourself to shift modes when the situation calls for it.
-
-### The Apple illustration
-
-In 2013, Tim Cook issued a public apology on Apple's Chinese website. The dispute was over warranty terms. Chinese law required electronics manufacturers to provide two-year warranties on certain product categories. Apple's standard warranty was one year. Chinese consumer-protection regulators had begun pressing the company. State media had run a series of critical pieces. The situation had escalated to the point where Apple's ability to operate profitably in its most important growth market was at risk.
-
-Cook's apology — which committed Apple to align its warranty terms with Chinese legal requirements and to improve its complaint-handling processes — resolved the dispute. No lawsuit was filed. No arbitration was conducted. No court issued an opinion. A negotiation, conducted partly in public and partly through regulatory back-channels, produced a settlement both parties could accept.
-
-Map this to the Thomas-Kilmann framework. Apple's initial position — applying its global one-year warranty despite the local two-year requirement — was forcing. The Chinese regulatory and media response converted that forcing posture from sustainable to unsustainable. Cook's apology was a shift to yielding: accommodating the Chinese requirement at the cost of global policy uniformity. That shift was not weakness. It was the recognition that the Chinese market relationship was worth more than the policy uniformity Apple had been defending. The framework predicts that outcome. A party in a forcing posture, facing escalating costs and with a weaker underlying position than it initially assessed, eventually yields or loses more than it would have by yielding earlier.
-
-| Stage | Party | Mode | Assertiveness | Cooperativeness |
-| --- | --- | --- | --- | --- |
-| Apple initial position (Forcing | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
-| Chinese regulatory response (Forcing | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
-| Cook apology (Yielding | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
-| Final resolution. Reader should see the mode shift and why it was rational given leverage asymmetry. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+I want to explain how each level actually works.
 
 ---
 
-## When negotiation fails: mediation
+The first stage is negotiation, and it's worth being precise about what negotiation is. There's a definition from a 1994 paper by Pinkley, Neale, and Bennett that I find useful: *the process by which parties with non-identical preferences allocate resources through interpersonal activity and joint decision making.* Four elements. Non-identical preferences — you want different things. Resource allocation — something is being divided or distributed. Interpersonal activity — humans talking to humans. Joint decision making — neither party can impose an outcome unilaterally. Both must agree, or nothing happens.
 
-Direct negotiation fails for many reasons. Sometimes the parties are too far apart on the facts. Sometimes the emotional temperature is too high for productive conversation. Sometimes neither party is willing to make the first concession because doing so feels like weakness. Sometimes the dispute involves a legal or technical question that neither party can evaluate confidently without outside expertise.
+That last part is what makes negotiation different from everything below it in the funnel. In mediation, a third party assists. In arbitration, a third party decides. In litigation, a judge or jury decides. In negotiation, if the parties can't reach agreement, the dispute simply stays where it is. Nobody forces resolution. Which means that negotiation, for all its apparent simplicity, is doing something quite sophisticated: it is relying entirely on the parties' joint interest in resolving the dispute to produce an outcome. When that joint interest is strong enough, negotiation works beautifully. When it isn't — when the emotional temperature is too high, or the gap between positions is too large, or neither party will make the first concession — it fails.
 
-When direct negotiation fails, the standard next step is mediation — the intervention of a neutral third party trained in conflict resolution, retained by both parties, who facilitates the negotiation without imposing an outcome.
+Now here's something interesting about how negotiation fails, because it usually fails in one of two specific ways that correspond to two fundamentally different kinds of negotiation.
 
-The mediator is not a judge. The mediator does not decide who is right. The mediator's job is to help the parties find an agreement they can both accept — by clarifying what's actually in dispute, by helping each party understand the other's position and interests, and by providing a structured process that keeps the conversation moving when it would otherwise stall.
+The first kind is what theorists call *distributive*. The resource is fixed. One party's gain is the other's loss. You are splitting a check. You are resolving a pricing disagreement where the only question is whose number prevails. You are dividing a disputed commission down the middle. In a distributive negotiation, there is a fixed pool and the question is how it gets divided. The goal is to capture as much as you can.
 
-### The six-step structure
+The second kind is *integrative*. Here, the resource is not fixed — or at least, it doesn't have to be. Creative arrangements can produce more total value than either party initially perceived. A vendor and a customer are fighting about delivery timeline. But nobody has asked yet whether adjusting the payment schedule, or breaking the first delivery into phases, might make the timeline disagreement disappear entirely. The pie, it turns out, could be larger than either party assumed. In an integrative negotiation, you look for that possibility before you start dividing.
 
-Most professional mediations follow a recognizable structure. The mediator opens by introducing herself and explaining the process. Each party then states its position and what it hopes the mediation will achieve. The parties discuss the issues jointly, with the mediator's facilitation, identifying points of agreement and disagreement. The mediator then meets separately with each party — the *private caucus* — to explore positions, interests, and possible movements the party may not be willing to surface in the joint setting. The parties return to a joint negotiation with the information the private caucus surfaced. If agreement is reached, it is documented and signed. If not, the mediation closes without prejudice to subsequent proceedings.
+<!-- → [FIGURE: Two pie diagrams side by side. Left: fixed pie, distributive. Right: larger pie, integrative. Source: Chapter 2 Fig 2.2] -->
 
-![Horizontal flowchart of the six mediation steps ](images/02-disputes-and-dispute-settlement-fig-04.png)
-*Figure 2.4 — Horizontal flowchart of the six mediation steps *
-
-The private caucus is where much of the real work happens. In the joint setting, parties perform for each other. In the private caucus, they can be honest with the mediator about what they actually need and what they might actually accept. The mediator uses that information to find the zone of possible agreement — the range in which a deal might be possible — and to help the parties move toward it.
-
-### The cost argument
-
-A widely-cited case study from Chevron Corporation compared three resolution paths for a comparable commercial dispute: mediation, outside legal counsel without mediation, and full litigation to judgment. The costs were approximately $25,000, $700,000, and $2.5 million, respectively. The ratios — roughly 1:28:100 — are typical for cases of comparable scale. They do not mean mediation is always right; they mean that the cost of proceeding to later stages is substantial enough that the decision to proceed should be a deliberate one, not a default.
-
-![Bar chart ](images/02-disputes-and-dispute-settlement-fig-05.png)
-*Figure 2.5 — Bar chart *
-
-### What the mediator is actually for
-
-The professional standards of practice — the *Model Standards of Conduct for Mediators*, jointly adopted by the American Bar Association, the American Arbitration Association, and the Association for Conflict Resolution — draw a clear distinction between a mediator who facilitates and a mediator who pressures. A mediator who pressures parties toward settlement violates the standards. The mediator's job is to preserve the parties' autonomy and to produce only settlements that the parties have genuinely chosen.
-
-This is the deontological reading of the mediator's role: treat each party as an end, not as a means to the mediator's settlement-rate metrics. The consequentialist reading — produce a settlement, by any means consistent with professional standards — is tempting for mediators who are measured on resolution rates. The standards reject it, and for good reason. A settlement produced through pressure is less durable than a settlement produced through genuine agreement; it is more likely to be relitigated, more likely to be breached, and less likely to preserve the underlying relationship.
+Most commercial disputes have both dimensions mixed together, in proportions that aren't obvious at the outset. The mistake most practitioners make — the one that causes negotiations to fail unnecessarily — is treating every dispute as distributive when it might be integrative. If your only question is "who gets more of the fixed amount?" you will miss every opportunity to expand the amount before dividing it.
 
 ---
 
-## When mediation fails: arbitration
+Let me give you a framework for thinking about how people approach negotiation, because it has direct practical value.
 
-If mediation doesn't produce settlement, the parties face a choice: go to court, or go to arbitration.
+In 1977, Kenneth Thomas and Ralph Kilmann described five distinct modes of negotiating behavior. They organized them along two dimensions: how assertively you pursue your own outcomes, and how cooperatively you attend to the other party's outcomes. Think of it as a grid: assertiveness on one axis, cooperativeness on the other.
 
-Arbitration is private adjudication. A neutral third party — the arbitrator — hears evidence, receives arguments, and issues a binding decision. Unlike a mediator, an arbitrator decides. The American Bar Association's definition: *a private process where disputing parties agree that one or several individuals can make a decision about the dispute after receiving evidence and hearing arguments.*
+<!-- → [FIGURE: 2×2 Thomas-Kilmann grid. Assertiveness vertical axis, Cooperativeness horizontal. Five modes labeled: Forcing (high/low), Collaborating (high/high), Compromising (middle/middle), Avoiding (low/low), Yielding (low/high). Source: Chapter 2 Fig 2.3] -->
 
-The defining feature of arbitration is that the arbitrator's decision — the *award* — is binding. (In non-binding arbitration, the award is a recommendation; parties dissatisfied with it can proceed to court. Non-binding arbitration is less common in commercial contexts.) The parties have agreed, usually in advance, to be bound by the decision. They sacrifice the right to a jury, the full range of appellate review, and most of the procedural protections of the formal litigation system. In exchange, they get a faster, cheaper, and more private resolution.
+*Forcing* is high assertiveness, low cooperativeness. You push your outcome regardless of impact on the other side. This works when you have substantially more leverage, when the relationship doesn't need to continue, and when you are actually right. It fails — often badly — when the other party also has leverage, when you need the relationship, or when you are wrong and too committed to your position to notice.
 
-### The types
+*Collaborating* is high on both axes. You actively try to find solutions that serve both parties' genuine interests. This is the integrative mode. It works when creative solutions exist and the relationship is valuable. It fails when the resource really is fixed, when the other party won't collaborate in return, and when the problem simply isn't worth the time genuine collaboration requires.
 
-The terminology in arbitration is not always used consistently, so it's worth being precise.
+*Compromising* is moderate on both. Split the difference. This is the default when neither extreme is available, when speed matters more than optimization, and when both parties have roughly equal footing.
 
-*Voluntary* arbitration occurs when the parties agree to arbitrate after the dispute has arisen. *Involuntary* arbitration — sometimes called *forced* arbitration — occurs when the parties agreed to arbitrate as a condition of the underlying relationship before any specific dispute arose: the arbitration clause embedded in the consumer agreement, the employment contract, the franchise agreement. The distinction matters because involuntary arbitration raises questions about whether the party with less bargaining power genuinely consented to giving up court access.
+*Avoiding* is low on both. Decline to engage. This is rational when the amount in dispute is genuinely not worth the cost of engagement, when timing is wrong, or when the relationship is ending anyway. It is not a strategy for anything important; unresolved real problems don't dissolve, they accumulate.
 
-*Interest* arbitration resolves the terms of a contract that doesn't yet exist — typically in labor disputes, where the parties can't agree on the terms of a new collective bargaining agreement. *Grievance* arbitration resolves disputes about the implementation of an existing contract.
+*Yielding* is low assertiveness, high cooperativeness. You accommodate the other party. This is appropriate when you are wrong — a condition many negotiators resist recognizing — when the other party's claim is genuinely stronger, or when the relationship is substantially more valuable than the thing being disputed.
 
-*Baseball arbitration* — named for its use in Major League Baseball salary disputes — requires the arbitrator to choose between the two parties' submitted figures without modification. The arbitrator cannot split the difference. This structure changes the incentives: each party knows that if its figure is unreasonable, the arbitrator will choose the other party's figure. Both parties therefore have an incentive to submit reasonable figures, and the zone of possible outcomes narrows before the arbitrator even begins.
-
-| Type | Who initiates? | Arbitrator power | Award binding? | Common context |
-| --- | --- | --- | --- | --- |
-| Voluntary, Involuntary | Forced, Interest, Grievance, Baseball. Helps reader distinguish terms that are often conflated. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
-
-### The enforcement problem
-
-An arbitration award is, by itself, a piece of paper. It is enforceable through the same mechanisms as a court judgment — but only after it has been *confirmed*, meaning converted into a judgment by a court of competent jurisdiction. That step requires filing a petition in the appropriate court, giving the losing party an opportunity to challenge the award on narrow grounds (fraud, arbitrator misconduct, a decision outside the arbitrator's authority), and obtaining a court order confirming the award as a judgment.
-
-Once confirmed, the enforcement mechanisms include three primary tools.
-
-*Writ of execution* is a court order directing law enforcement to seize specified property of the losing party and sell it to satisfy the judgment. The writ reaches tangible property: equipment, inventory, vehicles.
-
-*Garnishment* is a court order requiring a third party — usually an employer or a bank — to withhold a portion of the losing party's wages or account funds and remit them to the creditor. Federal law and most state law exempt Social Security Disability Insurance benefits from garnishment. Wage garnishment has income thresholds — most states protect the first approximately $1,600 per month of disposable income from garnishment — to prevent judgment debtors from being rendered unable to support themselves.
-
-*Liens* attach to real property and certain vehicles, encumbering the title and preventing transfer until the underlying debt is satisfied. A lien on a piece of real estate means the property can't be sold without first paying the judgment creditor. Most states set a minimum vehicle value — approximately $7,500 — below which the lien mechanism doesn't apply.
-
-![Enforcement pathway diagram ](images/02-disputes-and-dispute-settlement-fig-06.png)
-*Figure 2.6 — Enforcement pathway diagram *
-
-### The class-action waiver question
-
-The most ethically contested development in contemporary arbitration is the use of forced-arbitration clauses that include *class-action waivers*. These clauses — standard in most consumer and employment contracts — require the individual to arbitrate any dispute individually, waiving the right to participate in a class action.
-
-The U.S. Supreme Court has upheld these clauses. *AT&T Mobility v. Concepcion* (2011) established that the Federal Arbitration Act preempts state laws that would otherwise void class-action waivers as unconscionable. *Epic Systems v. Lewis* (2018) extended that reasoning to employment arbitration agreements. The clauses are legally enforceable under current doctrine.
-
-The ethical analysis is more contested, and the chapter's job is to lay out the actual arguments rather than pretend the question is settled.
-
-The case against class-action waivers: they substantially weaken the deterrent effect of class actions in cases where individual damages are too small to justify individual arbitration costs. If a company systematically overcharges one million customers by $15 each, no individual customer will spend $5,000 on arbitration to recover $15. The class action was designed precisely for this situation — aggregating small individual harms that would otherwise go unremedied into a dispute large enough to be worth litigating. The waiver eliminates that mechanism. The company that knows this knows it can impose small systematic harms with reduced legal risk.
-
-The case for class-action waivers: they produce faster, cheaper resolution of legitimate disputes and reduce the risk of opportunistic class-action litigation where the plaintiffs' attorneys' fees are large relative to the actual harm suffered by class members. Class actions are not always the righteous mechanism they are portrayed as; they are sometimes a tool for extracting settlements from companies that would rather pay than litigate, regardless of the merits.
-
-Both arguments have genuine empirical support. The chapter asks you to hold both.
-
-| Case Against | Case For |
-| --- | --- |
-| Class-action waiver debate | two |
+The insight Thomas and Kilmann offer is that no mode is correct in all situations, and the practitioner's actual skill is reading which mode fits which context — and being honest enough with themselves to shift modes when the situation changes.
 
 ---
 
-## The funnel in operation
+Here is a concrete illustration. In 2013, Tim Cook issued a public apology on Apple's Chinese website. The dispute was about warranty terms. Chinese law required electronics manufacturers to provide two-year warranties on certain product categories; Apple's standard warranty was one year. Chinese consumer-protection regulators had escalated their pressure, and state media had run a sustained critical campaign. Apple's ability to operate profitably in its most important growth market was genuinely at risk.
 
-Return to the funnel. A supplier (call it Northridge) has a three-year, $2-million-per-year contract to supply components to a manufacturer (call it Westbrook). Eighteen months in, Westbrook discovers that about 8 percent of recent shipments contain components that fail its quality-control testing. Northridge disputes the failure rate. The contract contains a binding-arbitration clause specifying AAA rules.
+Cook's apology committed Apple to align its warranty terms with Chinese legal requirements and improve its complaint-handling processes. No lawsuit was filed. No arbitration was conducted. A negotiation — partly public, partly through regulatory back-channels — produced a resolution both parties could accept.
+
+Map it to the framework. Apple's initial position was forcing: applying its global one-year policy despite the local two-year legal requirement. The Chinese regulatory and media response made that forcing posture progressively more expensive to maintain. Cook's apology was a shift to yielding: accommodating the Chinese requirement at the cost of the policy uniformity Apple had been defending. That shift wasn't weakness. It was the recognition that the Chinese market relationship was worth more than the policy it had been defending. The framework predicts this outcome exactly: a party in a forcing posture, facing escalating costs and holding a weaker underlying position than it had initially assessed, will eventually yield or lose more than it would have by yielding earlier.
+
+<!-- → [TABLE: Apple/China dispute mapped to Thomas-Kilmann modes. Columns: Stage | Party | Mode | Assertiveness | Cooperativeness | Why the mode was rational. Rows: Apple initial position (Forcing) | Chinese regulatory response (Forcing) | Cook apology (Yielding) | Final resolution. Reader should see the mode shift and why it was rational given leverage asymmetry. It makes the underlying reasoning visible instead of implied.] -->
+
+---
+
+Now suppose negotiation doesn't work. The parties are too far apart on the facts. The emotional temperature is too high. Neither party will make the first concession because doing so feels like weakness. Or there is a legal or technical question that neither party can evaluate confidently without outside expertise.
+
+The standard next step is mediation: the intervention of a neutral third party, retained by both parties, whose job is to help the parties find agreement without imposing one.
+
+The key distinction matters. A mediator is not a judge. A mediator does not decide who is right. What a mediator does is structure and facilitate a negotiation that has otherwise stalled — by clarifying what is actually in dispute, by helping each party understand the other's real interests rather than their stated positions, and by keeping the conversation productive when it would otherwise collapse.
+
+Most professional mediations follow a recognizable sequence. The mediator opens, explains the process, and establishes ground rules. Each party presents its position and what it wants from the mediation. The parties work through the issues jointly, identifying points of agreement and disagreement. Then the mediator meets privately with each party — what practitioners call the *private caucus*. The parties reconvene with the benefit of what the caucus surfaced. If agreement is reached, it is documented and signed. If not, the mediation closes without prejudice to further proceedings.
+
+<!-- → [FIGURE: Horizontal flowchart of the six mediation steps. Source: Chapter 2 Fig 2.4] -->
+
+The private caucus is where most of the real work happens, and understanding why tells you something important about negotiation in general. In the joint session, parties perform for each other. They take positions. They signal strength. They are negotiating not just about the underlying dispute but about how they appear. In the private caucus, with only the mediator present, a party can be honest about what it actually needs and what it might actually accept. The mediator takes that information — gathered separately from both parties — and uses it to find the *zone of possible agreement*: the range in which a deal might exist. The parties in the joint session couldn't get there because neither would move first. The mediator knows, from the private sessions, that movement is possible, and helps the parties make it.
+
+A widely cited cost comparison from Chevron Corporation compared three resolution paths for a comparable commercial dispute: mediation, outside legal counsel without mediation, and full litigation. The costs were approximately $25,000, $700,000, and $2.5 million respectively. The ratios — roughly 1:28:100 — are consistent with what practitioners report across industries. They don't mean mediation is always right; they mean that the decision to proceed to later stages should be deliberate, not a default.
+
+<!-- → [FIGURE: Bar chart — three bars showing relative cost of mediation, outside counsel, and litigation. Ratios approximately 1:28:100. Source: Chapter 2 Fig 2.5] -->
+
+There is an ethical dimension to mediation that is worth understanding. The Model Standards of Conduct for Mediators — adopted jointly by the American Bar Association, the American Arbitration Association, and the Association for Conflict Resolution — draw a clear line between a mediator who *facilitates* and one who *pressures*. A mediator who pressures parties toward settlement violates those standards. The mediator's obligation is to preserve the parties' autonomy: to produce only settlements that both parties have genuinely chosen.
+
+This sounds simple, but it creates a real tension. Mediators are often measured on resolution rates. A mediator who can't get parties to settle doesn't get hired again. The incentive to push — to use the private caucus to deliver a verdict rather than to discover information — is real. The standards reject this not only on principle but for a practical reason: settlements produced by pressure are less durable than settlements produced by genuine agreement. They are more likely to be breached, more likely to be relitigated, and less likely to preserve any underlying relationship worth preserving.
+
+---
+
+If mediation doesn't produce settlement, the parties face a fork: go to court, or go to arbitration.
+
+Arbitration is private adjudication. An arbitrator — a neutral third party — hears evidence, receives arguments, and issues a binding decision called an *award*. Unlike a mediator, an arbitrator decides. The American Bar Association's definition: *a private process where disputing parties agree that one or several individuals can make a decision about the dispute after receiving evidence and hearing arguments.*
+
+The tradeoff at this stage is explicit. The parties give up the right to a jury, the full range of appellate review, and most of the procedural protections of the formal litigation system. In exchange, they get a faster, cheaper, and more private resolution. Whether that tradeoff is favorable depends on the specific dispute, the specific parties, and what each actually values.
+
+The terminology in arbitration is worth being precise about, because it is not always used consistently.
+
+*Voluntary* arbitration means the parties agreed to arbitrate after the dispute arose. *Involuntary* — or *forced* — arbitration means the parties agreed to arbitrate before any specific dispute arose, as a condition of the underlying relationship: the clause buried in a consumer agreement, employment contract, or franchise agreement. That distinction matters because involuntary arbitration raises a genuine question about whether the party with less bargaining power meaningfully consented to surrendering court access.
+
+*Interest* arbitration resolves the terms of a contract that doesn't yet exist — most commonly in labor disputes, where parties can't agree on a new collective bargaining agreement. *Grievance* arbitration resolves disputes about implementing a contract that already exists.
+
+*Baseball arbitration* — named for its use in Major League Baseball salary disputes — requires the arbitrator to choose between the two parties' submitted figures without modification. The arbitrator cannot split the difference. This structure changes the negotiating incentives before the arbitration even begins: each party knows that if its figure is unreasonable, the arbitrator will choose the other party's figure. Both parties therefore have an incentive to submit realistic figures, and the zone of possible outcomes narrows substantially before anyone sits down to hear the case.
+
+<!-- → [TABLE: Arbitration types. Columns: Type | Who initiates | Arbitrator power | Award binding? | Common context. Rows: Voluntary | Involuntary/Forced | Interest | Grievance | Baseball. Helps reader distinguish terms that are often conflated.] -->
+
+An arbitration award is, by itself, a piece of paper. It is enforceable — but only after a court has *confirmed* it, meaning converted it into a court judgment. That step requires filing a petition, giving the losing party a narrow opportunity to challenge the award on grounds like fraud, arbitrator misconduct, or a decision outside the arbitrator's authority, and obtaining the court's confirmation order. The grounds for challenging an arbitration award are deliberately narrow. Courts reviewing confirmed arbitration awards are not re-examining the merits of the underlying dispute; they are checking whether the process was valid.
+
+Once confirmed, the enforcement mechanisms are the same ones courts use for any money judgment. A *writ of execution* directs law enforcement to seize specified property — equipment, inventory, vehicles — and sell it to satisfy the judgment. *Garnishment* requires an employer or bank to withhold a portion of wages or account funds and remit them to the creditor; federal law and most state law exempt Social Security Disability Insurance from garnishment, and wage garnishment is subject to income thresholds that prevent judgment debtors from being rendered unable to support themselves. *Liens* attach to real property and encumber the title, preventing transfer until the underlying debt is satisfied.
+
+<!-- → [FIGURE: Enforcement pathway diagram — award → confirmation petition → court order → three branches: writ of execution, garnishment, lien. Source: Chapter 2 Fig 2.6] -->
+
+---
+
+The most contested question in contemporary arbitration is the class-action waiver. These clauses — now standard in most consumer and employment contracts — require the individual to arbitrate any dispute individually, forfeiting the right to participate in a class action. The U.S. Supreme Court has upheld them. *AT&T Mobility v. Concepcion* (2011) established that the Federal Arbitration Act preempts state laws that would otherwise void class-action waivers as unconscionable. *Epic Systems v. Lewis* (2018) extended that reasoning to employment agreements. The clauses are legally enforceable under current doctrine.
+
+The ethical analysis is more contested, and the job here is to lay out the actual arguments rather than pretend the question is settled.
+
+The case against: class-action waivers substantially weaken the deterrent effect of class actions in precisely the cases where class actions were designed to work. If a company systematically overcharges a million customers by fifteen dollars each, no individual customer will spend thousands of dollars on arbitration to recover fifteen dollars. The class action was designed for exactly this situation — aggregating small individual harms that would otherwise go unremedied into a dispute large enough to be worth pursuing. The waiver eliminates that mechanism. The company that knows this knows it can impose small, systematic harms with reduced legal risk.
+
+The case for: forced arbitration produces faster, cheaper resolution of legitimate individual disputes and reduces the risk of opportunistic class-action litigation where plaintiffs' attorneys' fees are large relative to the actual harm suffered. Class actions are not always the righteous mechanism they are portrayed as; they are sometimes a tool for extracting settlements from defendants who would rather pay than litigate, regardless of whether the merits support payment.
+
+Both arguments have genuine empirical support. Neither is obviously wrong. The practitioner who understands the case for and against is better equipped to think clearly about what the law should be — and about what it currently is.
+
+---
+
+Let me bring all of this together with a single running example.
+
+Northridge has a three-year, two-million-dollar-per-year contract to supply components to a manufacturer called Westbrook. Eighteen months in, Westbrook discovers that about eight percent of recent shipments fail quality-control testing. Northridge disputes the failure rate. The contract contains a binding arbitration clause specifying AAA rules.
 
 How does this resolve?
 
-*Negotiation first.* Westbrook's counsel contacts Northridge's counsel and proposes independent third-party testing, costs split, with a quality-improvement protocol for future shipments. In Thomas-Kilmann terms, this is collaborative — preserving the relationship while addressing the underlying problem. If Northridge agrees, the dispute ends here.
+Negotiation first. Westbrook's counsel contacts Northridge's counsel and proposes independent third-party testing, costs split, with a quality-improvement protocol for future shipments. In Thomas-Kilmann terms, this is collaborative — preserving the relationship while addressing the underlying problem. If Northridge agrees, the dispute ends here at minimal cost.
 
-*Mediation if negotiation fails.* If Northridge's initial response is that Westbrook's testing protocols are unreasonably strict and independent testing is unnecessary, the parties are at an impasse on the facts. A mediator can help: the private caucus allows Northridge to acknowledge privately that some failure rate exists, even if not 8 percent; allows Westbrook to acknowledge privately that some of its testing parameters may be more conservative than the contract strictly requires; and gives the mediator the information needed to find a zone of agreement that neither party was willing to propose in the joint setting.
+Suppose Northridge's response is that Westbrook's testing protocols are unreasonably strict and independent testing is unnecessary. The parties are at an impasse on the facts. A mediator is the right tool. In the joint session, neither party budges on its testing methodology claim. In the private caucus, Northridge can acknowledge to the mediator that some failure rate exists — even if not eight percent — and Westbrook can acknowledge that some of its testing parameters may be more conservative than the contract strictly requires. The mediator knows, from both private sessions, that there is a zone of possible agreement neither party was willing to propose in the joint setting. The mediation produces a settlement: an agreed-upon independent testing standard, a partial credit for prior shipments, and a prospective quality protocol.
 
-*Arbitration if mediation fails.* The contract's clause governs. An arbitrator is selected from AAA's commercial panel. Evidence is submitted — the components, the testing protocols, the contract terms, any expert testimony either party presents. The arbitrator issues an award. If Northridge loses and doesn't pay, Westbrook petitions the court to confirm the award, and then pursues the enforcement mechanisms: bank account garnishment, liens on Northridge's real property, writs of execution against its equipment and inventory.
+Suppose even mediation fails. The arbitration clause governs. An arbitrator is selected from AAA's commercial panel. Evidence is submitted: the components, the testing protocols, the contract terms, expert testimony from both sides. The arbitrator issues an award. If Northridge loses and doesn't pay, Westbrook petitions the court to confirm the award and then pursues the enforcement mechanisms — garnishment of Northridge's accounts, liens on its real property, writs of execution against its equipment and inventory.
 
-![The Westbrook/Northridge dispute traced through the funnel ](images/02-disputes-and-dispute-settlement-fig-07.png)
-*Figure 2.7 — The Westbrook/Northridge dispute traced through the funnel *
+<!-- → [FIGURE: The Northridge/Westbrook dispute traced through the funnel — three branches showing negotiation resolution, mediation resolution, and arbitration/enforcement path. Source: Chapter 2 Fig 2.7] -->
 
-The sequence is the point. Most disputes resolve in negotiation. Most that escalate resolve in mediation. Most that escalate further resolve in arbitration. Court litigation handles what's left. The practitioner who understands the sequence — who knows what each level costs, how long it takes, and what it's optimized for — makes better decisions at every stage than the practitioner who treats every dispute as a potential lawsuit.
+The sequence is the point. Most disputes resolve in negotiation. Most that escalate resolve in mediation. Most that escalate further resolve in arbitration — usually before a decision is issued. Court litigation handles what's left.
+
+The practitioner who understands that sequence — who knows what each level costs, how long it takes, and what kind of problem it is optimized to solve — makes better decisions at every stage than the practitioner who treats every dispute as a potential lawsuit. The courthouse is there when you need it. You won't need it as often as you think.
 
 ---
 
