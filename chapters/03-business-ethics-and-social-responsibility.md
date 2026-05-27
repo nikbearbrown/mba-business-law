@@ -3,169 +3,166 @@
 
 ---
 
-Here is a puzzle I want you to sit with before we get into any of the formal machinery.
+Here is a puzzle.
 
-In April 2015, a thirty-year-old CEO in Seattle announced at an all-hands meeting that every employee at his company would earn at least $70,000 a year. To pay for it, he cut his own salary from approximately one million dollars to the same $70,000. The company — Gravity Payments, a credit-card processor — had revenue of about $20 million at the time. The wage increase committed the firm to a substantial jump in payroll cost, with no guarantee of any return.
+In April 2015, a thirty-year-old CEO named Dan Price stood up at an all-hands meeting in Seattle and told every person in the room that their salary — or their new starting salary, if they were just joining — would be at least $70,000 a year. To fund this, he cut his own salary from roughly one million dollars to $70,000. His company, Gravity Payments, was a credit-card processor with about $20 million in revenue. The wage increase committed the firm to a substantial jump in its largest cost line, with no contractual obligation to do so, no regulatory requirement, and no investor demand. The market had not asked for it.
 
-Most economists, if you had shown them the plan in advance, would have said: this is not rational. You are taking a company running at normal margins and voluntarily increasing your largest cost line by a significant fraction, for no reason that the market requires you to. The company's competitors were not doing this. The law did not require it. The shareholders did not demand it.
+Most economists, shown the plan in advance, would have called it irrational. You are voluntarily increasing your cost structure. Your competitors are not doing this. The law does not require this. The only person who wanted this to happen was you.
 
-Three years later, Gravity had grown its revenue substantially, retained more than 90 percent of its workforce through the entire transition, and become one of the most-cited business cases in the country.
+Three years later, Gravity's revenue had grown substantially. More than ninety percent of the workforce that was there before the announcement was still there. The company had become one of the most-cited business cases in the country, and Dan Price had more job applications than he could process.
 
-So what happened? And more precisely: what is the correct theoretical account of what happened, so that we can predict when this kind of thing works and when it doesn't?
+So something happened. But *what*, exactly? And how would you know, in advance, whether it would happen? The puzzle is not whether Dan Price was a good person — maybe he was, maybe that is irrelevant. The puzzle is: what is the correct analytical account of what happened, precise enough to tell you when this kind of decision pays off and when it is just expensive sentiment?
 
-That is what this chapter is about.
-
----
-
-## The floor and what is above it
-
-Let me draw a picture in words, because the picture is the chapter's core idea.
-
-Imagine a building. The ground floor is built from law — federal statutes, state statutes, regulations, court decisions. The floor specifies the minimum: what you must do to avoid being fined, sued, or prosecuted. If you discriminate in hiring on the basis of race, sex, or national origin, you have violated Title VII of the Civil Rights Act of 1964, and the law will sanction you. If your firm is publicly traded and your CEO knowingly certifies a false financial statement, Section 906 of the Sarbanes-Oxley Act of 2002 gives the federal government authority to imprison him for up to twenty years. The floor is not optional.
-
-But almost everything interesting in business happens above the floor. The floor only tells you what you cannot do. It says nothing about what you should do.
-
-This distinction sounds simple. It is, in fact, the conceptual nucleus of the entire field of business ethics, and it is the thing that most people who think they understand business ethics have not quite grasped. The confusion goes in two directions.
-
-Some people think ethics is just compliance. If we are not violating any law, we are fine. This misses the point badly. Legal compliance is the minimum condition for staying in business, not a description of how you should run it. The firms that operate at the legal minimum — doing precisely and only what the law requires — tend to produce operative cultures that track the minimum in everything else too.
-
-Other people think ethics is charity. Paying your employees well, treating the environment carefully, avoiding suppliers who use child labor — these are nice things to do, but they cost money, and a firm's job is to maximize profit for shareholders, so the ethical commitments are a luxury that virtue-minded founders indulge and hard-nosed managers eventually rationalize away.
-
-The Gravity Payments case is a standing rebuke to both views. Dan Price's decision to raise the minimum wage was not legally required. And it was not charity. It was a commercial bet, and it paid off. The mechanism — which is the interesting part — runs through what the companion *Business Ethics* textbook calls the *operative culture.*
-
-![Two-layer diagram of the compliance/ethics building metaphor ](images/03-business-ethics-and-social-responsibility-fig-01.png)
-*Figure 3.1 — Two-layer diagram of the compliance/ethics building metaphor *
+That is the chapter's question. Let me build up to the answer from the ground.
 
 ---
 
-## What the operative culture actually is
+## The building, and what is above the first floor
 
-A firm's stated values are what it writes in its code of conduct, its annual report, its recruitment materials. A firm's operative culture is what actually governs employee behavior on a Tuesday afternoon when no one is watching and there is an ambiguous decision to make.
+I want you to imagine a building. Not a metaphor for its own sake — a specific architectural image that does analytical work.
 
-These two things are frequently different. The interesting question is: what determines the operative culture?
+The ground floor of this building is built from law. Federal statutes, state statutes, regulations, court decisions. The ground floor specifies the minimum: what you must do, or refrain from doing, to avoid being fined, sued, or prosecuted. If your publicly-traded firm's CEO knowingly certifies a false financial statement, Section 906 of the Sarbanes-Oxley Act gives the federal government the authority to imprison him for up to twenty years. If your firm discriminates in hiring on the basis of race, sex, or national origin, Title VII of the Civil Rights Act will sanction you. The ground floor is not optional. It is the minimum condition for staying in business.
 
-The answer, on the documented evidence, is simpler than you might expect. The operative culture is determined primarily by what the people at the top of the firm actually do — not what they say, not what the code of conduct specifies, but what they actually model in their own conduct, what they reward, and what they tolerate.
+![Two-layer diagram of the compliance/ethics building metaphor](images/03-business-ethics-and-social-responsibility-fig-01.png)
+*Figure 3.1 — Two-layer diagram of the compliance/ethics building metaphor*
 
-This is called *tone at the top*, and it has a mechanism you can trace. Employees observe their managers; junior managers observe senior managers; senior managers observe the C-suite and the board. The observations travel downward through the organization as behavioral templates. If the CEO cuts her own salary to fund a wage increase for the lowest-paid employees, that act is observed and interpreted throughout the firm as a signal about what this organization actually values. If the CEO publicly humiliates a whistleblower, that act is also observed and interpreted throughout the firm — with the opposite lesson.
+But here is the thing about the ground floor: it only tells you what you cannot do. It says absolutely nothing about what you should do.
 
-The mechanism is not mysterious. It is the same process by which children learn the actual norms of their households, as distinct from the rules posted on the refrigerator. The posted rules describe the floor. The behavior of the adults in the room describes the operative culture.
+Almost everything interesting in business happens on the floors above it.
 
-![Downward cascade showing tone-at-the-top propagation ](images/03-business-ethics-and-social-responsibility-fig-02.png)
-*Figure 3.2 — Downward cascade showing tone-at-the-top propagation *
+This distinction sounds obvious, but it is the conceptual nucleus of the entire field of business ethics, and it is precisely what most people who think they understand business ethics have not grasped. The confusion runs in two directions, and it is worth naming both.
 
-The practical implication is important. When a firm experiences a major ethics failure, the investigation almost always traces backward to a senior leadership decision — not to a rogue employee who somehow circumvented all the controls, but to a structure of incentives, tolerances, and modeled behaviors that senior leadership established and maintained.
+Some people think ethics is just compliance. If we have not violated any law, we are fine. This misses the point badly. Operating at the legal minimum is not a description of how to run a business well. It is the lowest possible claim you can make about your conduct — "we have not done anything for which we can be prosecuted" — and firms that optimize for the minimum in legal compliance tend, unsurprisingly, to produce cultures that track the minimum in everything else.
 
-The 2016 Wells Fargo unauthorized-account scandal illustrates this with uncomfortable clarity. Employees at Wells Fargo branches opened approximately 3.5 million fraudulent accounts in customers' names without their knowledge, from at least 2011 through 2016. The accounts were opened because employees faced extreme pressure to meet sales targets, because the incentive structure rewarded account-opening volume above virtually everything else, and because management at multiple levels tolerated — and in some cases encouraged — the behavior required to hit the numbers. The operative culture was not created by the individual employees who opened the accounts. It was created by the incentive structures and tolerances that senior management produced and maintained over years. The individuals were prosecuted; so was the institution. The fine was $185 million, subsequently supplemented by additional regulatory actions totaling several billion dollars.
+Other people think ethics is charity — a luxury that virtue-minded founders indulge and hard-nosed successors eventually rationalize away, because the firm's actual job is to generate returns for shareholders, and ethics spending is cost without guaranteed return. This view treats Dan Price's announcement as financially irrational, and it predicts that Gravity Payments should have suffered for it.
 
-The Wells Fargo case is the inverse of the Gravity Payments case. Both are instances of tone at the top. One executive team decided that employee welfare was a priority worth paying for, and the culture tracked that decision. Another executive team decided that short-term account-volume metrics were the priority, and the culture tracked that decision too — all the way to criminal prosecution.
-
----
-
-## The tools: what firms actually use to manage above the floor
-
-If the operative culture is the thing that matters, then the tools of business ethics are the instruments through which senior leadership attempts to shape the operative culture toward the firm's stated values. Three of these tools are now standard in most large U.S. firms.
-
-**Codes of conduct** are written enumerations of the behavioral expectations the firm imposes on its employees. A well-constructed code covers: legal compliance with applicable statutes; conflicts of interest and disclosure obligations; the handling of company property; cybersecurity and data-handling procedures; workplace respect and the prohibition of harassment; gift policies; social-media conduct in contexts where the firm is identifiable. The Exxon Mobil Code of Conduct is frequently cited as a representative example of the form.
-
-Here is the thing about codes of conduct that you need to understand: they are necessary but not sufficient. A code specifies the floor of expected behavior above the legal floor. Whether the firm actually operates there depends entirely on what happens when someone violates the code. If violations are documented, investigated, and sanctioned consistently — up to and including senior executives — the code is a functional governance tool. If violations by senior executives are quietly tolerated while violations by junior employees are punished, the code is decorative. The code does not produce the culture; the enforcement pattern produces the culture.
-
-**Whistleblower policies** are formal procedures through which employees who observe misconduct can report it without retaliation. An effective policy specifies: confidential reporting channels (typically including a hotline operated by a third party, so that the report does not go to the employee's direct supervisor); explicit protection against retaliation; escalation procedures when initial reports do not produce action; and documentation requirements so there is a record.
-
-The legal framework for whistleblower protection is substantial and has grown considerably since 2002. The Sarbanes-Oxley Act's Section 806 prohibits retaliation against whistleblowers at publicly-traded firms and specifies remedies — reinstatement, back pay, special damages — for employees who experience it. The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 extended the framework further: it created a specific SEC whistleblower program with financial rewards (10 to 30 percent of sanctions collected in cases where the SEC recovers more than one million dollars), and it has paid out more than $1.7 billion in whistleblower awards through 2024.
-
-The effectiveness of whistleblower protections depends, again, on the operative culture. A firm whose senior leadership models retaliation — subtly or openly — against employees who report misconduct will find that its formal whistleblower policy changes nothing. The policy creates a legal obligation; the culture determines whether anyone uses it.
-
-**Third-party investigation** is the practice of retaining an outside law firm or specialized investigative consultant to investigate ethics complaints that have reached a level requiring formal inquiry. The operational rationale is simple: an internal investigation of senior-executive misconduct, conducted by people who report to the executives under investigation, is structurally unlikely to produce credible results. A third-party investigation removes that structural conflict. It also produces investigative work that is more defensible in subsequent litigation, which is relevant because the firm's regulatory exposures typically increase substantially once a formal investigation begins.
-
-These three tools — codes of conduct, whistleblower policies, third-party investigation — form the standard architecture of the modern corporate compliance regime. They are the institutional expression of the firm's commitment to operating above the legal floor. Whether they function is determined by the operative culture they are embedded in.
-
-| Tool | What it specifies | Why it can fail | What makes it functional |
-| --- |
-| Code of Conduct, Whistleblower Policy, Third-Party Investigation. Student should be able to use this table as a quick diagnostic checklist when analyzing a real case. |
+The empirical record is not cooperating with that prediction. Which means the framework is wrong. Let me show you the right one.
 
 ---
 
-## Where the formal apparatus came from
+## The operative culture
 
-The contemporary compliance apparatus did not emerge spontaneously. It has a traceable institutional history that is worth knowing, because the history explains why the apparatus looks the way it does.
+A firm's stated values are the things it writes in its code of conduct, its annual report, its recruitment materials. A firm's operative culture is what actually governs employee behavior on a Tuesday afternoon when no one senior is watching and there is an ambiguous decision to make.
+
+These two things are frequently different. The interesting question is not whether they differ — they almost always do, to some degree — but what determines the operative culture when it diverges from the stated values.
+
+The answer, on the documented evidence, is simpler than you would expect. The operative culture is determined primarily by what the people at the top of the firm actually do — not what they say, not what they write in the code of conduct, but what they model in their own visible conduct, what they reward with promotion and compensation, and what they tolerate without sanction.
+
+This principle is called *tone at the top*, and it has a mechanism you can trace. Employees observe their direct managers. Junior managers observe senior managers. Senior managers observe the C-suite and the board. Those observations propagate downward through the organization as behavioral templates. They function like the norms in a family: the posted rules on the refrigerator describe the stated values; what the adults actually do in visible moments of decision describes the operative culture.
+
+![Downward cascade showing tone-at-the-top propagation](images/03-business-ethics-and-social-responsibility-fig-02.png)
+*Figure 3.2 — Downward cascade showing tone-at-the-top propagation*
+
+Now I can tell you what happened at Gravity Payments.
+
+Dan Price's decision was a tone-at-the-top decision. By cutting his own salary to fund the wage increase, he made a visible, costly, uncoerced demonstration that the firm's stated commitment to employee welfare was real — that it was not just language in the recruitment materials. The demonstration propagated. Employees updated their beliefs about what kind of organization they were working in. Alignment between stated values and operative structure reduced the friction that misalignment produces: turnover, disengagement, the low-level rule-bending and effort-withdrawal that happen when employees have concluded their employer's stated values are decorative. The revenue growth and retention outcome is consistent with what the model predicts.
+
+The inverse prediction is equally testable. When stated values and operative structure are misaligned — when the code of conduct says one thing and the compensation structure rewards another — the operative culture tracks the compensation structure, not the code.
+
+---
+
+## The inverse: Wells Fargo
+
+In 2016, it became public that employees at Wells Fargo branches had opened approximately 3.5 million fraudulent accounts in customers' names without their knowledge, from at least 2011 through 2016. The accounts were opened because employees faced severe pressure to meet sales targets; because the incentive structure rewarded account-opening volume above virtually everything else; and because management at multiple levels tolerated, and in some cases encouraged, the behavior required to hit the numbers.
+
+Wells Fargo had a code of conduct. It had a stated commitment to customer service. It had a compliance function. None of those things changed the operative culture, because none of them changed what the incentive structure rewarded or what senior management tolerated.
+
+The individuals who opened fraudulent accounts were prosecuted. So was the institution. The fine was $185 million, subsequently supplemented by additional regulatory actions totaling several billion dollars. The CEO resigned. The firm's reputation damage is not fully quantified even now.
+
+The Wells Fargo case and the Gravity Payments case are structurally symmetrical. Both are instances of tone at the top operating in its normal way. One leadership team made a visible, costly decision that aligned stated values with operative structure. The other produced an incentive environment whose operative logic contradicted the stated values — and the culture tracked the incentive environment, all the way to criminal prosecution.
+
+This is not a coincidence and it is not a morality tale. It is the mechanism working exactly as described. If you want to predict how a firm will behave when employees face ambiguous decisions, you should look at what senior leadership actually does — not what it says.
+
+---
+
+## The tools
+
+If the operative culture is the thing that matters, then the tools of business ethics are the instruments through which senior leadership attempts to shape the operative culture toward the firm's stated values. Three tools are now standard in most large U.S. firms.
+
+**Codes of conduct** are written specifications of the behavioral expectations the firm imposes on its employees. A well-constructed code covers legal compliance with applicable statutes, conflicts of interest and disclosure obligations, handling of company property, cybersecurity and data procedures, workplace respect, gift policies, and social-media conduct where the firm is identifiable.
+
+Here is what you need to understand about codes of conduct: they are necessary but not sufficient. A code specifies the floor of expected behavior above the legal floor. Whether the firm actually operates there depends entirely on what happens when the code is violated. If violations are documented, investigated, and sanctioned consistently — including by senior executives — the code is a functional governance tool. If violations by senior executives are tolerated while violations by junior employees are punished, the code is decorative. The code does not produce the culture. The enforcement pattern produces the culture.
+
+<!-- → TABLE: Tool | What it specifies | Why it can fail | What makes it functional — covering Code of Conduct, Whistleblower Policy, Third-Party Investigation. Reader should use as diagnostic checklist when analyzing a real case. -->
+
+**Whistleblower policies** are formal procedures through which employees who observe misconduct can report it without retaliation. An effective policy includes confidential reporting channels (typically a third-party hotline so reports do not go to the employee's direct supervisor), explicit protection against retaliation, escalation procedures when initial reports do not produce action, and documentation requirements.
+
+The legal framework here is substantial. Sarbanes-Oxley's Section 806 prohibits retaliation against whistleblowers at publicly-traded firms and provides remedies — reinstatement, back pay, special damages — for employees who experience it. The Dodd-Frank Act of 2010 extended this further, creating an SEC whistleblower program with financial rewards of ten to thirty percent of sanctions collected in cases where the SEC recovers more than one million dollars. Through 2024, the program has paid out more than $1.7 billion in whistleblower awards.
+
+Whether any of that matters depends, again, on the operative culture. A firm whose senior leadership models retaliation — subtly or openly — against employees who report misconduct will find that the formal policy changes nothing. The policy creates a legal obligation. The culture determines whether anyone uses it.
+
+**Third-party investigation** is the practice of retaining an outside law firm or specialized investigative consultant to investigate ethics complaints that have reached a level requiring formal inquiry. The logic is simple: an internal investigation of senior-executive misconduct, conducted by people who report to the executives under investigation, is structurally unlikely to produce credible results. A third-party investigation removes that conflict. It also produces work more defensible in subsequent litigation, which matters because regulatory exposure typically increases substantially once a formal investigation begins.
+
+---
+
+## Where the apparatus came from
+
+The contemporary compliance regime did not emerge from a general cultural awakening. It has a specific institutional history, and the history explains why the apparatus looks the way it does.
+
+![Timeline of the corporate compliance apparatus](images/03-business-ethics-and-social-responsibility-fig-03.png)
+*Figure 3.3 — Timeline of the corporate compliance apparatus*
 
 In 1985, the defense contractor General Dynamics — responding to a sequence of procurement scandals during the Reagan administration's military buildup — established what is now considered the first formal corporate ethics office in U.S. business history. The office had a written charter, a reporting structure that ran to the board rather than to operational management, and the authority to investigate and act on ethics complaints independently of the chain of command.
 
-The model was important not because General Dynamics invented ethics but because it invented a *structural* solution — an institutional form that could be replicated across other firms regardless of who happened to be the current CEO. In 1986, the Defense Industry Initiative on Business Ethics and Conduct brought together major defense contractors to share the General Dynamics model and to commit, in writing, to specific ethics standards. The DII was the cross-firm diffusion mechanism; it is where the *ethics office* becomes an institutional form rather than an idiosyncratic experiment.
+What matters about the General Dynamics model is not that it invented ethics. It invented a *structural* solution — an institutional form replicable across other firms regardless of who the current CEO was. In 1986, the Defense Industry Initiative brought major defense contractors together to share the model and commit in writing to specific ethics standards. The DII was the cross-firm diffusion mechanism. A structural innovation became an industry norm.
 
-Over the following decade, the ethics-office model diffused beyond defense contracting into other industries. The Federal Sentencing Guidelines of 1991 gave firms a concrete financial incentive to adopt formal compliance programs: firms with documented compliance programs received reduced criminal fines and organizational probations compared to firms without them. Ethics compliance became — explicitly and measurably — a factor in criminal sentencing calculations.
-
-![Timeline of the corporate compliance apparatus ](images/03-business-ethics-and-social-responsibility-fig-03.png)
-*Figure 3.3 — Timeline of the corporate compliance apparatus *
+The Federal Sentencing Guidelines of 1991 gave firms a concrete financial incentive to formalize what had started as voluntary: documented compliance programs now produced reduced criminal fines and organizational probations compared to firms without them. Ethics compliance became explicitly and measurably a factor in criminal sentencing calculations.
 
 Then Enron happened.
 
-The Enron Corporation's bankruptcy in December 2001, and the WorldCom bankruptcy in July 2002, were the largest corporate-accounting failures in U.S. history at the time of their occurrence. Enron had used complex off-balance-sheet structures to conceal billions of dollars in debt and to report revenues that did not, in fact, exist. Its auditor, Arthur Andersen, one of the five largest accounting firms in the world, was convicted of obstruction of justice for shredding documents related to the SEC investigation (the conviction was later reversed by the Supreme Court, but Arthur Andersen had already collapsed). WorldCom had fraudulently capitalized operating expenses — converting them from line items that would reduce reported profit into assets that would appear on the balance sheet instead — to the tune of approximately $11 billion.
+The Enron Corporation's bankruptcy in December 2001, and WorldCom's in July 2002, were the largest corporate accounting failures in U.S. history at the time. Enron had used complex off-balance-sheet structures to conceal billions in debt and report revenues that did not exist. Its auditor, Arthur Andersen — one of the five largest accounting firms in the world — was convicted of obstruction of justice for shredding documents related to the SEC investigation. (The conviction was later reversed, but Arthur Andersen had already collapsed.) WorldCom had fraudulently capitalized approximately $11 billion in operating expenses, converting costs that would reduce reported profit into assets that would appear on the balance sheet instead.
 
-The Congressional response was the Sarbanes-Oxley Act of 2002, signed into law by President George W. Bush in July 2002. The Act's four major provisions are worth knowing precisely:
+Congress responded with the Sarbanes-Oxley Act of 2002. Four provisions are worth knowing precisely, because they represent the specific legal responses to the specific structural failures that produced the scandals.
 
-**Section 302** requires the CEO and CFO of a publicly-traded firm to personally certify, in writing, the accuracy of the firm's periodic financial reports. The certification creates personal criminal liability — not just civil liability, not just the firm's liability, but the personal criminal liability of the individual executive — for knowingly certifying an inaccurate report.
+Section 302 requires the CEO and CFO of a publicly-traded firm to personally certify, in writing, the accuracy of the firm's periodic financial reports. The certification creates personal criminal liability — not the firm's liability, not civil liability, but the personal criminal liability of the individual executive — for knowingly certifying an inaccurate report.
 
-**Section 404** requires publicly-traded firms to maintain documented internal controls over financial reporting and to obtain an independent auditor's assessment that those controls are operating effectively. This is the provision that has generated the most compliance cost, particularly for smaller public companies; the Jumpstart Our Business Startups Act of 2012 provided partial relief for emerging growth companies.
+Section 404 requires publicly-traded firms to maintain documented internal controls over financial reporting and to obtain an independent auditor's assessment that those controls are operating effectively.
 
-**Section 806** prohibits retaliation against employees who report potential securities violations and creates specific legal remedies for employees who experience retaliation — including reinstatement, back pay, and attorney's fees.
+Section 806 prohibits retaliation against employees who report potential securities violations and creates specific legal remedies — reinstatement, back pay, attorney's fees — for employees who experience retaliation.
 
-**Section 906** establishes criminal penalties for executives who knowingly certify false financial reports: up to ten years imprisonment for violations, up to twenty years for willful violations.
+Section 906 establishes criminal penalties for executives who knowingly certify false financial reports: up to ten years imprisonment for violations, up to twenty years for willful violations.
 
-| Section | Requirement | Who is liable | Maximum criminal penalty |
-| --- |
-| 302, 404, 806, 906. Student should be able to reproduce the four-section structure from memory after seeing this table once. |
+<!-- → TABLE: Section | Requirement | Who is liable | Maximum criminal penalty — covering Sections 302, 404, 806, 906. Reader should be able to reproduce the four-section structure from memory after seeing this table once. -->
 
-The post-SOX compliance regime substantially reduced the incidence of the specific accounting-fraud patterns that Enron and WorldCom exemplified. It did not eliminate corporate-ethics failures in other categories. The decade following Sarbanes-Oxley produced its own portfolio of major failures: the subprime mortgage crisis, the Wells Fargo account-creation scandal, the Volkswagen diesel emissions fraud, the Boeing 737 MAX certification failures. Each failure represented a different category, exploiting structural gaps that SOX was not designed to address.
+The post-SOX regime substantially reduced the specific accounting-fraud patterns that produced the 2001–2002 scandals. It did not eliminate corporate-ethics failures in other categories. The decade following Sarbanes-Oxley produced its own set of major failures: the subprime mortgage crisis, the Wells Fargo account-creation scandal, the Volkswagen diesel emissions fraud, the Boeing 737 MAX certification failures. Each exploited structural gaps SOX was not designed to address. The apparatus improves; the failure modes migrate.
 
 ---
 
-## The taxonomy of failure
+## A taxonomy of failure
 
-The recurring categories of business-ethics failure are recognizable enough that they function as a working taxonomy. Knowing the categories lets you ask the right diagnostic questions when a new case emerges.
+The recurring categories of business-ethics failure are stable enough to function as a working taxonomy. Knowing the categories lets you ask the right diagnostic questions when a new case appears.
 
-**Conflicts of interest** are the classical case: an executive whose personal financial interest is misaligned with the firm's interest, and who acts on the personal interest at the firm's expense. The conflict can be direct (executive trading on material non-public information) or structural (executive sitting on the board of a supplier with whom the firm is negotiating). Post-SOX disclosure requirements have made conflicts more visible; they have not made them disappear.
+**Conflicts of interest** are the classical case: an executive whose personal financial interest is misaligned with the firm's, and who acts on the personal interest at the firm's expense. Post-SOX disclosure requirements have made conflicts more visible; they have not made them disappear.
 
-**Insider trading** is the use of material non-public information for personal trading or for tipping others who then trade. The Rajat Gupta case is the most prominent recent example: Gupta was a Goldman Sachs board member who passed confidential board-level information about Goldman's financial results to Raj Rajaratnam, the founder of the Galleon Group hedge fund. Gupta was convicted in 2012 on three counts of securities fraud and one count of conspiracy; he was sentenced to two years in federal prison and fined $5 million.
+**Insider trading** is the use of material non-public information for personal trading or tipping others who then trade. The Rajat Gupta case: Gupta was a Goldman Sachs board member who passed confidential board-level information about Goldman's financial results to Raj Rajaratnam, founder of the Galleon Group hedge fund. Gupta was convicted in 2012 on three counts of securities fraud, sentenced to two years in federal prison and fined $5 million.
 
-**Foreign bribery** under the Foreign Corrupt Practices Act of 1977, amended substantially in 1988 and 1998, prohibits U.S. persons and U.S.-listed firms from paying or offering anything of value to foreign government officials to obtain or retain business. The Act's enforcement has been active and the penalties substantial: BHP Billiton settled for $25 million in 2014; GlaxoSmithKline settled for $20 million in 2014 for a separate matter; Telia settled for $965 million in 2017 for systematic bribery of Uzbek officials to obtain telecommunications licenses.
+**Foreign bribery** under the Foreign Corrupt Practices Act of 1977 prohibits U.S. persons and U.S.-listed firms from paying anything of value to foreign government officials to obtain or retain business. Enforcement has been active and penalties substantial: Telia settled for $965 million in 2017 for systematic bribery of Uzbek officials to obtain telecommunications licenses.
 
-**Accounting fraud** is the Enron-WorldCom category. The specific forms that produced the 2001-2002 scandals — large-scale off-balance-sheet structures, fraudulent capitalization of operating expenses — have become harder to execute under the post-SOX regime. Subtler forms continue: revenue recognition timing, related-party transactions inadequately disclosed, aggressive interpretation of accounting standards in ways that technically comply while misleading investors.
+**Accounting fraud** in the Enron-WorldCom mold has become harder to execute under the post-SOX regime. Subtler forms continue: revenue recognition timing, related-party transactions inadequately disclosed, aggressive interpretation of accounting standards that technically comply while misleading investors.
 
-**Discrimination and harassment.** The legal framework has been in place since the Civil Rights Act of 1964. What the 2017 #MeToo wave revealed, at scale and across industries, was that the legal framework's existence had not eliminated the underlying failure modes — it had just made them more expensive, when they eventually surfaced, than they would otherwise have been.
+**Discrimination and harassment.** The legal framework has been in place since 1964. What the 2017 #MeToo wave revealed, at scale and across industries, was that the legal framework's existence had not eliminated the underlying failure modes — it had made them more expensive when they surfaced, but it had not changed the operative cultures that produced them.
 
-**Environmental and product-safety violations.** The Volkswagen diesel emissions fraud — in which the company installed software in its diesel vehicles specifically to detect emissions-testing conditions and reduce emissions during tests while running normally at higher emissions levels in actual driving — resulted in more than $30 billion in total fines and settlements. The BP Deepwater Horizon spill produced more than $65 billion in total costs. The Boeing 737 MAX certification failures, involving two crashes that killed 346 people in 2018 and 2019, produced criminal and civil consequences that continue to unfold.
+**Environmental and product-safety violations.** Volkswagen installed software in its diesel vehicles specifically designed to detect emissions-testing conditions and reduce emissions during tests while running normally at higher levels in actual driving. Total fines and settlements exceeded $30 billion. BP's Deepwater Horizon spill produced more than $65 billion in total costs. The Boeing 737 MAX certification failures involved two crashes that killed 346 people in 2018 and 2019; the legal and financial consequences continue to unfold.
 
-**Data privacy and cybersecurity.** The Equifax breach of 2017 exposed the personal financial information of approximately 147 million U.S. consumers; the settlement was $700 million. The Facebook-Cambridge Analytica matter of 2018 involved the harvesting and use of Facebook user data without adequate consent; the FTC settlement was $5 billion. The category has grown substantially in legal and reputational consequence over the past decade and shows no signs of stabilizing.
+**Data privacy and cybersecurity.** The Equifax breach of 2017 exposed the personal financial information of approximately 147 million U.S. consumers; the settlement was $700 million. The FTC's Facebook settlement over Cambridge Analytica was $5 billion. The category has grown substantially in legal consequence over the past decade.
 
-Across these categories, several structural conditions consistently make failure more likely. Misaligned compensation incentives — particularly incentives that reward short-term financial metrics without corresponding safeguards against the behaviors that produce them. Weak independent oversight — boards insufficiently independent of management, audit committees without adequate technical expertise, internal audit functions that report to management rather than to the board. And the founder-culture-bureaucracy paradox that fast-scaling firms with strong founding cultures often produce: the informal, authority-concentrated governance style that works at twenty employees becomes a structural ethics risk at two thousand.
+<!-- → TABLE: Category | Governing law | Representative case | Financial consequence | Primary structural condition that enabled it — covering Conflicts of interest, Insider trading, Foreign bribery, Accounting fraud, Discrimination and harassment, Environmental violations, Data privacy. Reader should be able to use as diagnostic when analyzing a new case. -->
 
-| Category | Governing law | statute | Representative case | Financial consequence | Primary structural condition that enabled it |
-| --- | --- |
-| Conflicts of interest, Insider trading, Foreign bribery (FCPA | A concrete checkpoint for applying the chapter concept. |
-| Accounting fraud, Discrimination | harassment, Environmental |
+Across these categories, several structural conditions consistently make failure more likely. Misaligned compensation incentives — particularly incentives that reward short-term financial metrics without safeguards against the behaviors that produce them. Weak independent oversight — boards insufficiently independent of management, audit committees without adequate technical expertise, internal audit functions that report to management rather than to the board. And the founder-culture paradox: the informal, authority-concentrated governance style that works at twenty employees becomes a structural ethics risk at two thousand.
 
 ---
 
-## What you can now do
+## Back to the puzzle
 
-You began this chapter with a puzzle: why did Dan Price's decision pay off when it looked, on the surface, like a financially irrational act?
+You started this chapter with a question: why did Dan Price's decision pay off when it looked, on the surface, like a financially irrational act?
 
-The chapter's apparatus gives you the answer. Price's decision was not charity and it was not irrational. It was a tone-at-the-top decision that restructured the firm's operative culture — aligning the stated commitment to employee welfare with the actual compensation structure. When stated values and operative structure are aligned, the internal friction that misalignment produces (turnover, disengagement, low-level rule-bending, erosion of trust) is reduced. The documented performance outcome — revenue growth, 90-percent-plus retention — is consistent with the framework's prediction.
+The answer is not that he was unusually virtuous or unusually lucky. The answer is that the decision was a tone-at-the-top intervention that restructured the firm's operative culture — aligning stated commitment to employee welfare with actual compensation structure. When stated values and operative structure are aligned, the internal friction of misalignment is reduced. Turnover falls. Engagement rises. The low-level rule-bending that employees perform when they have concluded that stated values are decorative stops happening. The documented performance outcome is consistent with what the model predicts.
 
-The inverse prediction is equally testable. When stated values and operative structure are misaligned — when the code of conduct says one thing and the compensation structure rewards another — the operative culture tracks the compensation structure, not the code. Wells Fargo is the standing case. The firm had a code of conduct. It had a stated commitment to customer service. It had a compliance function. None of those things prevented the account-creation scandal because none of them changed the operative culture that the incentive structure and management tolerance had produced.
+The Wells Fargo outcome is consistent with the same model, running in reverse.
 
-You can now do the following things that you could not do before this chapter.
+What this means, at a level of precision that is actually useful: the question for any firm is not "are we compliant" — that is the ground floor, and it is necessary but not the point. The question is what your operative culture actually rewards on a Tuesday afternoon when no one senior is watching. Whatever that answer is, that is what your organization will produce at scale, reliably, for as long as the incentive structure and the tolerance pattern remain what they are.
 
-You can distinguish legal compliance from ethical practice and identify cases where the two diverge — including cases where a firm is in full legal compliance and still failing on the operative-culture standard.
-
-You can trace the institutional history of the corporate compliance apparatus from General Dynamics 1985 through SOX 2002 through Dodd-Frank 2010 and explain why the apparatus developed when and how it did.
-
-You can evaluate specific compliance tools — codes of conduct, whistleblower policies, third-party investigation — with enough precision to identify the conditions under which each works and the conditions under which each fails.
-
-You can apply the failure-mode taxonomy to a case you have not seen before, identify the structural conditions that made the failure more likely, and specify a structural remedy.
-
-And you can articulate, in terms precise enough to be useful, why the *operate above the floor* posture produces better long-run performance than the *operate at the floor* posture — not as a moral assertion but as an empirical prediction grounded in what the operative-culture mechanism actually does.
+The floor is not the ceiling. The distance between them is where all the interesting decisions happen.
 
 ---
 
@@ -188,12 +185,6 @@ Compare the two responses. Which response better distinguishes structural failur
 Draft a prompt that you would give to a large language model to help you prepare the board presentation that escalates this finding if the CEO does not act within thirty days. The prompt should ask the LLM to help you: (1) frame the legal exposure created by the current incentive structure; (2) draft the specific language you would use to describe the gap to the board without triggering the CEO's defensive reaction; and (3) propose three alternative compensation structures that would reduce the gap while preserving the business objective of efficient claim resolution.
 
 After drafting the prompt, evaluate it: what information would you need to provide the LLM to get a useful answer? What are the limits of what the LLM can reliably produce in this context, and where would you need human expertise to check its output?
-
----
-
-## Connections forward
-
-Chapter 4 develops the Constitutional layer — the Commerce Clause, the Takings Clause, the First Amendment as it applies to commercial speech, and due-process and equal-protection principles in the business context. The Constitution is the highest of the four sources of law Chapter 1 introduced; it is also the layer that creates the most conceptually interesting constraints on what the legislature can require and what the firm can resist. The ethics framework this chapter built sits inside that Constitutional structure, and Chapter 4 explains the outer walls.
 
 ---
 
