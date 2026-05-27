@@ -1,170 +1,126 @@
-# Contract Law
-
-In November 1891, the *Carbolic Smoke Ball Company* — a London medical-device manufacturer — published an advertisement in several British newspapers offering £100 (a substantial sum, equivalent to roughly £15,000 in modern purchasing power) to anyone who used the company's smoke-ball product as directed for two weeks and subsequently contracted influenza. The advertisement also stated that the company had deposited £1,000 in a specified bank to demonstrate its sincerity. A woman named Louisa Carlill purchased a smoke ball, used it as directed, and contracted influenza. She sued the company for the £100. The company defended on the grounds that the advertisement was puffery, not a binding offer.
-
-The English Court of Appeal, in *Carlill v. Carbolic Smoke Ball Company* (1893), ruled in Mrs. Carlill's favor. The court held that the advertisement was a unilateral offer to the world at large; that the company's deposit of £1,000 demonstrated serious intent to be bound; that Mrs. Carlill's compliance with the advertised conditions constituted acceptance of the offer; and that the company was contractually obligated to pay the £100. The case has been taught in every common-law jurisdiction's first-year contract-law course for the past 130 years. It is the canonical illustration of how contract formation actually works.
-
-This chapter is the operating manual for U.S. contract law — the body of legal doctrine governing the formation, performance, breach, and remedy of voluntary agreements between parties. The chapter argues that contract law is, on inspection, more carefully calibrated to commercial practice than the casual reader assumes, and that practitioners who understand the framework produce more durable agreements and fewer disputes than practitioners who do not.
-
-[FIGURE: A diagram showing the five elements of a valid contract — offer, acceptance, consideration, capacity, legality — arranged as a pentagon with the contract at the center. Each element labeled with its operational meaning. The student should notice that all five elements must be satisfied for a contract to be enforceable.]
-
-## Learning objectives
-
-By the end of this chapter, you will be able to:
-
-- **Identify** the five elements required for a valid and enforceable contract under U.S. common law.
-- **Distinguish** between offer, acceptance, and counter-offer, and **explain** the *mirror image* rule and its exceptions.
-- **Apply** the doctrine of consideration to a specific contract and **identify** the conditions under which promissory estoppel can substitute for consideration.
-- **Evaluate** the conditions that produce contract invalidity, including fraud, misrepresentation, mistake, duress, and undue influence.
-- **Analyze** the available remedies for contract breach, including expectation damages, reliance damages, restitution, and specific performance.
-
-## Prerequisites
-
-Chapter 1's framework on common law and the role of judicial precedent. Chapter 6's framework on civil liability. Contract law operates as the second major pillar of civil legal exposure, alongside tort law.
-
-## Why this chapter matters
-
-Almost every business interaction is structured by contracts — employment agreements, vendor contracts, customer transactions, leases, license agreements, settlement agreements, and many others. The framework the chapter builds is the operating context for nearly all daily commercial activity.
+# Chapter 7 — Contract Law
 
 ---
 
-## Concept 1: The five elements of a valid contract
+In November 1891, a London company called the Carbolic Smoke Ball Company placed advertisements in several British newspapers. The advertisement offered £100 — a substantial sum, equivalent to something like £15,000 today — to anyone who used their smoke-ball product as directed for two weeks and subsequently contracted influenza. To demonstrate that the offer was serious, the company announced it had deposited £1,000 in a specified bank.
 
-A contract, in U.S. common-law doctrine, is an *agreement between two or more parties that is enforceable by law*. For the agreement to be enforceable, five elements must be satisfied.
+A woman named Louisa Carlill bought the smoke ball. She used it as directed. She contracted influenza. She wrote to the company asking for her £100. The company refused, saying the advertisement was merely puffery — promotional language, not a binding promise.
 
-**Offer.** A *proposal* by one party (the *offeror*) demonstrating intent to enter a contract. The offer must be made with serious intent (jokes and casual statements are not offers), must be definite and certain (the terms must be specified clearly enough that a court could enforce them), and must be communicated to the *offeree*.
+Mrs. Carlill sued.
 
-**Acceptance.** An *agreement* by the offeree to be bound by the terms of the offer. Acceptance must be unequivocal — under the *mirror image* rule of common law, a purported acceptance that adds, modifies, or omits terms from the offer is a *counter-offer* rather than an acceptance, and the original offer is rejected. The Uniform Commercial Code's Article 2, governing sales of goods, modifies the mirror-image rule for certain commercial contexts (Section 2-207); the modifications are addressed in Chapter 8.
+The English Court of Appeal, in 1893, ruled in her favor. The advertisement was a real offer, open to the world at large. The deposited £1,000 proved the company meant it seriously. Mrs. Carlill's compliance with the advertised conditions was her acceptance. The company owed her the money. The case — *Carlill v. Carbolic Smoke Ball Company* — has been taught in every common-law contract course for 130 years.
 
-**Consideration.** A *thing of value* exchanged between the parties. Consideration can be money, property, a promise, the forbearance of a legal right, or any other thing of value to which both parties agree. The doctrine requires that *each party* give consideration; a one-sided agreement (a promise to give a gift without anything in return) is not enforceable as a contract.
+What I want you to notice is this: the court did not need Mrs. Carlill to have called anyone at the company. She never signed a document. There was no handshake, no negotiation, no explicit "I agree." She just bought the product and used it. And that was enough.
 
-**Capacity.** Each party must have the *legal capacity* to enter the contract. Minors (typically those under 18) generally lack capacity, with specified exceptions for necessities. Persons who are mentally incompetent at the time of contracting lack capacity. Persons substantially intoxicated at the time of contracting may lack capacity. Capacity is generally presumed; the party challenging the contract on capacity grounds bears the burden of proof.
-
-**Legality.** The contract's purpose must be legal. Contracts to commit crimes, contracts to violate public policy, and contracts in restraint of trade beyond what the law permits are unenforceable. A contract that includes both legal and illegal provisions may be partially enforceable depending on whether the legal portions can be severed from the illegal portions.
-
-### Worked example: *Carlill v. Carbolic Smoke Ball Company*
-
-Run the five elements through the case.
-
-*Offer.* The newspaper advertisement was, in the Court's reading, a serious offer (the £1,000 deposit demonstrated sincerity), definite and certain in its terms (£100 to anyone who used the product as directed and contracted influenza), and communicated to the public at large.
-
-*Acceptance.* Mrs. Carlill accepted by performing the advertised conditions — purchasing the product and using it as directed for the specified period.
-
-*Consideration.* Mrs. Carlill's consideration was her purchase of the product and her compliance with the conditions; the company's consideration was the promised £100.
-
-*Capacity.* No capacity issue.
-
-*Legality.* No illegality issue.
-
-All five elements are satisfied. The court ruled the contract enforceable and ordered the company to pay.
-
-### Common misconceptions
-
-The first is that contracts must be in writing to be enforceable. They generally need not be. The Statute of Frauds, in most U.S. states, requires written form for specific categories of contracts (real-estate transactions, contracts that cannot be performed within one year, contracts for the sale of goods over $500, and a few others), but most other contracts can be oral. The practitioner's discipline is that oral contracts, while enforceable, are harder to prove in litigation.
-
-The second is that signatures are required. They are not, generally. Acceptance can be manifested by conduct, by performance, by electronic communication, by any reasonable indication of agreement. Signatures are evidence of agreement; they are not the only evidence.
-
-The third is that consideration must be commercially adequate. It need not be. Courts generally do not inquire into the *adequacy* of consideration; a peppercorn is sufficient consideration if both parties agree to the exchange. The exception involves *unconscionability* — a doctrine that permits courts to refuse to enforce contracts whose terms are so one-sided that they shock the conscience.
+Why? What is the underlying logic that produces that result? The answer is the structure of contract law, and understanding that structure is what this chapter is about. Not because contract disputes are exotic — they are the most common legal disputes in commercial life — but because the structure, once you see it clearly, turns out to be more carefully calibrated to commercial reality than you might expect.
 
 ---
 
-## Concept 2: Genuine agreement and the conditions for invalidity
+## What makes a contract a contract
 
-The five elements above are necessary for contract formation. They are not always sufficient. A contract that satisfies all five elements may nonetheless be invalid or voidable under several specific doctrines that protect the *genuine agreement* of the parties.
+A contract, in U.S. law, is an agreement between two or more parties that is enforceable by a court. For it to be enforceable, five elements must all be present. All five. A failure on any single one and the agreement is not legally binding, whatever the parties intended.
 
-**Fraud.** A party's intentional misrepresentation of a material fact, with knowledge of the falsity, intent to induce the other party's reliance, and actual reliance producing harm, makes the contract voidable by the defrauded party. The remedy includes rescission of the contract and damages.
+<!-- → INFOGRAPHIC: Pentagon with "Contract" at center — five labeled vertices: Offer, Acceptance, Consideration, Capacity, Legality. One-sentence operational definition at each vertex. Reader should see at a glance that all five must be satisfied. -->
 
-**Misrepresentation (non-fraudulent).** Material misrepresentation made innocently or negligently, on which the other party relied to its detriment, can also produce voidability, with somewhat narrower remedies.
+**Offer.** A proposal by one party — the offeror — demonstrating a serious intent to enter a contract on specified terms, communicated to the other party. The key word is *serious*. A joke is not an offer. A casual statement is not an offer. What makes something an offer is that a reasonable person receiving it would understand that acceptance would create a binding commitment. The Carbolic Smoke Ball advertisement qualified because the company's deposit of £1,000 was a visible, costly signal of seriousness.
 
-**Mistake.** A *mutual* mistake of fact (both parties were mistaken about a fact essential to the agreement) typically makes the contract voidable. A *unilateral* mistake (only one party was mistaken) generally does not, with limited exceptions when the other party knew or should have known of the mistake.
+**Acceptance.** An unequivocal agreement by the offeree to be bound by the offer's terms. Here is where most people stumble on the common-law rule: acceptance must be a mirror image of the offer. A response that says "yes, but with these modifications" is not acceptance — it is a counter-offer, and it terminates the original offer. This is the *mirror image rule*, and it is stricter than ordinary commercial intuition suggests. The Uniform Commercial Code's Article 2 modifies the rule for sales of goods between merchants, in recognition of the commercial reality that businesspeople often send purchase orders and acknowledgments that don't match precisely; but in common-law contracts, the rule applies.
 
-**Duress.** Agreement obtained through threat of harm — physical, economic, or otherwise — can be voided by the threatened party.
+**Consideration.** This is the element that surprises most people. Consideration is a thing of value exchanged between the parties — what each side gives in return for what the other side promises. Money is consideration. Property is consideration. A promise is consideration. Forbearing from exercising a legal right you had is consideration. What is *not* consideration is a gift — a promise to give something for nothing in return. Courts will not enforce a gift promise as a contract, because there is nothing on the promisor's side of the exchange.
 
-**Undue influence.** Agreement obtained through unfair persuasion by a party in a position of trust or dominance over the other party can be voided. The doctrine applies particularly to contracts between fiduciaries and beneficiaries, between elderly persons and caretakers, and in similar relational contexts.
+Notice the implication: the law does not care whether consideration is commercially adequate. A peppercorn is sufficient consideration if both parties agree that it is. Courts do not weigh the fairness of the exchange; they ask only whether something was exchanged. The exception — and it is an important one — is *unconscionability*, the doctrine that permits courts to refuse enforcement when the terms are so one-sided that they shock the conscience. But unconscionability is the exception; commercial adequacy is not the standard.
 
-### The unconscionability doctrine
+**Capacity.** Each party must have the legal ability to enter into a contract. Minors generally lack this capacity. Persons who are mentally incompetent at the time of contracting lack it. Persons who are severely intoxicated may lack it. Capacity is presumed; the party challenging the contract on capacity grounds bears the burden of proof.
 
-A contract whose terms are so substantively unfair, or whose formation involved such procedural unfairness, that no reasonable person would have agreed to it can be refused enforcement under the doctrine of *unconscionability*. The doctrine has both a *procedural* component (was the formation process fair?) and a *substantive* component (are the terms fair?). Most jurisdictions require some showing of both for a contract to be unenforceable on unconscionability grounds.
+**Legality.** The contract's purpose must be legal. A contract to commit a crime is not enforceable. A contract in illegal restraint of trade is not enforceable. When a contract mixes legal and illegal provisions, a court may sever the illegal portions and enforce the rest, or may void the whole thing, depending on how central the illegal element is to the agreement.
 
-The doctrine has been applied most often in consumer contexts — adhesion contracts (take-it-or-leave-it consumer agreements), forced-arbitration clauses with class-action waivers, deceptive credit terms — and less often in arms-length commercial contexts where both parties have meaningful bargaining power.
-
----
-
-## Concept 3: Consideration, promissory estoppel, breach, and remedies
-
-The doctrine of consideration sometimes produces results that ordinary commercial intuition would reject. A party who makes a promise that the other party reasonably relies on, to the relying party's detriment, is — under common-law doctrine — generally not bound to perform the promise unless the relying party has given consideration in return. The result can be unjust in cases where a promise has been made, the other party has relied on it, and the promisor has subsequently changed mind.
-
-The doctrine of *promissory estoppel* addresses this gap. Under the doctrine, a promise that a reasonable promisor should expect to induce action or forbearance by the promisee, that does in fact induce the action or forbearance, becomes enforceable to the extent necessary to avoid injustice — even without consideration.
-
-### Worked example: a job offer rescinded
-
-Bob receives a job offer from MegaCorp in San Francisco. The offer specifies a start date, compensation, and benefits. Bob declines a competing offer from a Miami employer, breaks his Miami apartment lease (incurring penalty fees), pays $13,000 in moving expenses, and signs a San Francisco lease at substantially higher rent than his Miami lease. Two days before his San Francisco start date, MegaCorp rescinds the offer.
-
-Under strict consideration analysis, Bob may not have a contract claim — the employment relationship had not begun, and the offer-and-acceptance may not have created a binding contract under all states' employment-at-will doctrines. Under promissory estoppel, Bob has a strong claim for *reliance damages* — the costs he incurred in reliance on the offer (lease-break penalty, moving expenses, rent differential, possibly the lost opportunity at the Miami employer). The doctrine restores Bob to the position he would have been in if the promise had not been made; it does not entitle him to *expectation damages* (the salary and benefits he would have earned at MegaCorp).
-
-The doctrine's elements: a legal relationship between the parties; a promise made; reasonable reliance on the promise that produced action; substantial and measurable detriment from the broken promise; and an unjust result if the promise is not enforced. Each element is fact-specific.
-
-### Contract breach and remedies
-
-When a party fails to perform a contractual obligation, the other party has several available remedies.
-
-**Expectation damages** — the remedy that places the non-breaching party in the position it would have been in had the contract been fully performed. Expectation damages are the standard remedy for contract breach.
-
-**Reliance damages** — the remedy that places the non-breaching party in the position it would have been in had the contract not been made. Reliance damages are typically smaller than expectation damages and apply when expectation damages are unavailable or inappropriate.
-
-**Restitution** — the remedy that requires the breaching party to return any benefit received from the non-breaching party. Restitution prevents unjust enrichment.
-
-**Specific performance** — a court order requiring the breaching party to perform the contract as promised. Specific performance is generally available only when monetary damages would be inadequate, typically in real-estate transactions and in contracts for the sale of unique goods.
-
-**Liquidated damages** — damages specified in the contract itself for the event of breach. Liquidated-damages clauses are enforceable when they reflect a reasonable estimate of likely actual damages and are unenforceable when they constitute *penalties* designed to punish breach rather than to compensate for it.
+Now run all five through the Carlill case. The advertisement was a serious offer with definite terms, communicated publicly. Mrs. Carlill accepted by performing the advertised conditions. She gave consideration — the purchase of the product and the effort of using it as directed. No capacity issue. No illegality issue. All five satisfied. The contract was enforceable.
 
 ---
 
-## Integration: a contract through the chapter's framework
+## When the five elements aren't enough
 
-A small business — call it Riverbend — enters into a one-year supply contract with a vendor (call it Lakeshore) under which Lakeshore will deliver specified raw materials at a specified price. Six months into the contract, Lakeshore notifies Riverbend that it cannot continue at the contracted price because of a substantial increase in its underlying costs. Lakeshore demands a 25 percent price increase or it will stop deliveries.
+Satisfying all five elements gets you to a contract. It does not always get you to an *enforceable* contract. Several doctrines permit a party to avoid a contract that was validly formed, on the grounds that the agreement was not genuinely voluntary.
 
-Apply the chapter's framework.
+**Fraud** is the most serious. If one party intentionally misrepresented a material fact, knowing it was false, intending to induce the other party's reliance, and the other party did in fact rely to their detriment — the defrauded party can void the contract and seek damages. The key is intentionality. Fraud requires that the misrepresenter knew the statement was false.
 
-*Five elements.* The original contract satisfied all five elements when formed. The contract is, prima facie, enforceable.
+**Misrepresentation** without fraudulent intent can also produce voidability, with somewhat narrower remedies, when a material false statement was made innocently or negligently and the other party relied on it.
 
-*Genuine agreement.* No fraud, misrepresentation, mutual mistake, duress, or undue influence at formation. The current price-increase demand might constitute *economic duress* if Riverbend cannot reasonably obtain alternative supply, depending on the specific facts.
+**Mistake** comes in two varieties with very different legal consequences. A *mutual* mistake — both parties were wrong about a fundamental fact essential to the agreement — typically makes the contract voidable by the disadvantaged party. A *unilateral* mistake — only one party was wrong — generally does not, because the other party is entitled to rely on the agreement as made. There are narrow exceptions when the other party knew or should have known of the mistake, but unilateral mistake is a weak ground for avoidance.
 
-*Promissory estoppel.* If Riverbend has relied on the contract — for example, by entering downstream commitments to its own customers based on the contracted supply — promissory estoppel may strengthen Riverbend's position even if specific contract-performance is contested.
+**Duress** means that agreement was obtained by threat of harm. Physical duress is straightforward. *Economic duress* — "agree to these new terms or I stop supplying you, and I know you cannot find another supplier in time" — is recognized by courts but requires showing both that the threat was wrongful and that the threatened party had no reasonable alternative.
 
-*Remedies.* If Lakeshore actually stops deliveries, Riverbend's remedies include expectation damages (the cost of obtaining the same materials elsewhere, less the contracted price, plus consequential damages from any disruption to Riverbend's operations), specific performance (uncommon for fungible commodities), or liquidated damages (if the contract specified them). The most likely operational outcome: Riverbend pursues alternative supply, sues Lakeshore for the cost differential, and the case settles or is litigated to judgment.
+**Undue influence** arises in relationships of trust or dominance — a caretaker and an elderly patient, a fiduciary and a beneficiary — where the stronger party exploits that relationship to extract agreement the weaker party would not otherwise have reached.
 
-The integration verdict: the chapter's framework produces the structured analysis. The remedy is operational — qualified counsel, prompt action to mitigate damages, careful documentation of the breach and the response.
-
----
-
-## Exercises
-
-### Warm-up
-
-**Exercise 7.1.** *Tests learning objective 1.* In your own words, identify the five elements of a valid contract and provide a one-sentence example of each. Difficulty: easy.
-
-**Exercise 7.2.** *Tests learning objective 4.* Distinguish fraud, misrepresentation, mutual mistake, duress, and undue influence. Identify a fact pattern in which each could produce contract invalidity. Difficulty: easy.
-
-### Application
-
-**Exercise 7.3.** *Tests learning objective 3.* Apply the promissory-estoppel framework to the rescinded-job-offer fact pattern. Identify each element and the available remedies. Difficulty: moderate.
-
-**Exercise 7.4.** *Tests learning objective 5.* Distinguish expectation damages, reliance damages, restitution, and specific performance. Identify a fact pattern in which each would be the most appropriate remedy. Difficulty: moderate.
-
-### Synthesis
-
-**Exercise 7.5.** *Tests learning objective 2.* The mirror-image rule of common law makes any acceptance with modified terms a counter-offer. The UCC modifies the rule for sales of goods. Identify the conditions under which the UCC modification produces a contract that the common-law rule would not, and analyze the policy reasons for the modification. Difficulty: harder.
+The thread connecting all of these doctrines is the same: *genuine agreement*. Contract law enforces the voluntary exchange of commitments. When the voluntariness is compromised — by deception, by coercion, by the exploitation of trust — the law gives the compromised party a way out.
 
 ---
 
-## Chapter summary
+## The gap that promissory estoppel fills
 
-You can now do five things you could not do before. You can identify the five elements of a valid contract under U.S. common law. You can apply the consideration doctrine and the promissory-estoppel exception. You can evaluate the conditions under which agreement can be invalidated. You can analyze the available remedies for contract breach. And you can apply the framework to a specific business contract under stress.
+The consideration doctrine, strictly applied, occasionally produces results that commercial intuition finds unjust. Here is the classic situation.
 
-The single idea that matters most is that *contract law is the structural framework inside which most commercial activity happens*. The reader who understands the framework produces more durable agreements; the reader who does not produces avoidable disputes.
+Suppose Bob receives a job offer from a firm in San Francisco. The offer specifies salary, benefits, and a start date. Bob, relying on the offer, turns down a competing offer from a Miami employer, breaks his Miami apartment lease at a penalty, pays moving expenses of $13,000, and signs a San Francisco lease at significantly higher rent. Two days before his start date, the San Francisco firm rescinds the offer.
 
-You should now be able to teach the five elements of a contract and the remedies for breach to a colleague who has not read this chapter, in fifteen minutes.
+Under strict consideration analysis, Bob may not have a contract claim in some states. Employment-at-will doctrines in many states mean the employment relationship had not yet begun, and the offer-and-acceptance cycle may not have crystallized into an enforceable bilateral contract. If Bob gave no consideration — and arguing that accepting a job offer is itself consideration is not straightforward — the company's promise to employ him might not be binding.
+
+This is where *promissory estoppel* enters. The doctrine holds that a promise which a reasonable promisor should expect to induce substantial action or forbearance by the promisee, and which does in fact induce it, is enforceable to the extent necessary to prevent injustice — even without consideration.
+
+Bob has a strong promissory estoppel claim. The firm made a clear promise. A reasonable employer making that promise should expect the offeree to take substantial action in reliance — turn down other offers, arrange housing, move. Bob did exactly those things. He suffered real, measurable losses. It would be unjust to leave those losses entirely on him.
+
+Notice, though, what promissory estoppel gives Bob and what it does not. It restores him to the position he would have been in if the promise had not been made — his *reliance damages*: the lease-break penalty, the moving costs, the rent differential, possibly the value of the foregone Miami opportunity. It does not give him *expectation damages* — the salary and benefits he would have earned at the San Francisco firm if the employment had proceeded. Promissory estoppel remedies reliance; it does not substitute fully for a binding contract.
+
+The distinction between reliance and expectation is, in fact, the key to understanding the full remedies framework.
+
+---
+
+## What you can recover when a contract breaks
+
+When a party fails to perform a contractual obligation, the law offers several remedies. They differ in what position they restore the non-breaching party to, and they are not all equally available in any given situation.
+
+<!-- → TABLE: Remedy | What position it restores | When available | Typical measure — covering Expectation Damages, Reliance Damages, Restitution, Specific Performance, Liquidated Damages. Reader should be able to apply this as a reference when analyzing a breach fact pattern. -->
+
+**Expectation damages** put the non-breaching party where it would have been if the contract had been fully performed. This is the standard remedy for contract breach. If you contracted to buy a machine for $50,000 and the seller breaches, forcing you to buy an equivalent machine elsewhere for $60,000, your expectation damages are $10,000 — the difference between what you would have paid under the contract and what you actually had to pay to get the performance you were promised. Consequential damages — losses flowing from the breach that both parties could reasonably have anticipated at the time of contracting — can also be recovered.
+
+**Reliance damages** put the non-breaching party where it would have been if the contract had never been made. They are typically smaller than expectation damages. They apply when expectation damages cannot be proven with sufficient certainty, or in promissory estoppel cases where full expectation recovery is not warranted.
+
+**Restitution** requires the breaching party to return any benefit it received from the non-breaching party. It prevents unjust enrichment. If you paid a contractor $40,000 in advance and the contractor abandons the job, restitution gives you the $40,000 back — regardless of what the completed work would have been worth.
+
+**Specific performance** is a court order requiring the breaching party to actually perform the contract. Courts are reluctant to grant it, because it requires ongoing supervision of compliance and because damages are usually adequate compensation. It is regularly available for real-estate transactions — land is unique, and money cannot substitute for the specific parcel — and for contracts involving unique goods. It is rarely available for personal-service contracts; courts will not order someone to work.
+
+**Liquidated damages** clauses specify in the contract itself what damages will be owed in the event of breach. These are enforceable when they represent a reasonable advance estimate of what actual damages would be. They are *not* enforceable when they are structured as penalties — amounts designed to punish breach rather than compensate for it. The line between a reasonable estimate and a penalty is contested in litigation frequently.
+
+---
+
+## The apparatus on a live case
+
+Let me put all of this together on a specific situation, because that is the point at which the machinery becomes useful rather than abstract.
+
+Riverbend is a small manufacturer that entered a one-year supply contract with Lakeshore, a raw materials vendor. The contract specifies quantities, a fixed price, and a delivery schedule. Six months in, Lakeshore notifies Riverbend that its own costs have increased substantially and demands a 25 percent price increase or it will stop deliveries.
+
+Start with the five elements. The original contract satisfied all of them at formation. There is a binding contract. Lakeshore does not get to unilaterally modify its terms because its costs went up; cost increases are exactly the kind of business risk that fixed-price contracts are designed to allocate.
+
+Check for genuine-agreement defects. There is no fraud, misrepresentation, or mistake at formation. The 25 percent demand, if Riverbend cannot reasonably find alternative supply in time, may constitute *economic duress* — but Riverbend would need to show both that the threat was wrongful and that no reasonable alternative was available. The strength of that argument depends on the specific market conditions.
+
+Consider Riverbend's reliance position. If Riverbend has entered downstream commitments to its own customers based on the contracted supply — which is likely in a manufacturing context — promissory estoppel may independently support performance, reinforcing Riverbend's position even if the contract analysis were somehow in doubt.
+
+Now the remedies if Lakeshore actually stops deliveries. Expectation damages: the cost of obtaining equivalent materials elsewhere minus the contracted price, plus any consequential damages from supply disruption that Lakeshore could have anticipated when it signed. Specific performance: unlikely for fungible commodities. Liquidated damages: only if the contract specified them. The realistic operational path is that Riverbend secures alternative supply — which it must do promptly, because the duty to mitigate damages is a real obligation — documents the cost differential carefully, and pursues Lakeshore for that differential.
+
+That analysis — formation, genuine agreement, reliance, remedies — is what the framework produces. It tells you where you stand, what you can recover, and what you need to do right now. The remedy is operational, but the structure of the analysis is the chapter's contribution.
+
+---
+
+## What *Carlill* actually teaches
+
+Let me come back to where we started. The Carbolic Smoke Ball case looks, on the surface, like a quirky Victorian curiosity. A product nobody remembers, a lawsuit over a Victorian advertising claim, a company that probably deserved to lose.
+
+But the case is taught for 130 years because it illustrates something true and precise about how contracts actually work. Mrs. Carlill never negotiated with the company. She never received a personal offer. She never signed anything. She just read the advertisement, bought the product, used it as instructed, got sick, and showed up. The court said that was enough — not as a matter of sympathy for Mrs. Carlill, but as a matter of structural analysis. The offer was real and serious. The acceptance was by performance, exactly as the offer specified. The consideration was bilateral. The five elements were satisfied.
+
+What the case teaches is that a contract is not a ceremony. It is an agreement, and agreements can take many forms. The document with signatures is evidence of agreement; it is not the only evidence. The handshake is evidence. The email thread is evidence. The conduct of compliance is evidence — which is exactly what Mrs. Carlill provided.
+
+The implication for commercial practice is direct: the parties' conduct matters as much as their documents. A firm that acts as if a contract exists — delivering goods, making payments, relying on a supplier's schedule — may find itself bound by an agreement even if the formal paperwork was never completed. And a firm that wants to avoid being bound needs to pay attention not just to what it signs but to what it does.
+
+The five elements are the structure. The conduct is the evidence. The remedies are what you are entitled to when the structure is violated. That is contract law.
 
 ---
 
@@ -190,15 +146,9 @@ After drafting the prompt, evaluate it: what specific facts about the company's 
 
 ---
 
-## Connections forward
-
-Chapter 8 turns to *sales contracts* — the specific UCC Article 2 framework that governs sales of goods between merchants and between merchants and consumers. The framework modifies the common-law rules in commercially important ways.
-
----
-
 ## AI Wayback Machine
 
-The ideas in this chapter didn't appear from nowhere. **Karl Llewellyn** led the drafting of the Uniform Commercial Code in the 1940s and 50s — modernizing US commercial law into a single framework adopted (with variations) by every state. The contract sections you study today are largely his.
+The ideas in this chapter didn't appear from nowhere. **Karl Llewellyn** led the drafting of the Uniform Commercial Code in the 1940s and 50s — modernizing U.S. commercial law into a single framework adopted (with variations) by every state. The contract sections you study today are largely his.
 
 **Run this:**
 
