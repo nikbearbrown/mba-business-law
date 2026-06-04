@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" width="1600" height="2560" preserveAspectRatio="xMidYMid meet" shape-rendering="geometricPrecision">
+  <g id="background"><rect x="0" y="0" width="1600" height="2560" fill="#F5C518"/></g>
+  <g id="symbol-fragments" transform="rotate(1, 800, 850)">
+    <polygon points="223,34 383,194 223,354 63,194" fill="#111111"/>
+    <polygon points="493,402 573,482 493,563 413,482" fill="#111111"/>
+    <polygon points="249,325 437,513 249,701 61,513" fill="#111111"/>
+    <polygon points="404,67 521,184 404,301 287,184" fill="#111111"/>
+    <polygon points="583,590 667,673 583,757 500,673" fill="#111111"/>
+    <polygon points="1073,386 1263,577 1073,767 882,577" fill="#111111"/>
+    <polygon points="243,95 412,264 243,433 74,264" fill="#111111"/>
+    <polygon points="759,1236 954,1430 759,1625 564,1430" fill="#D62B2B"/>
+    <polygon points="545,128 650,234 545,339 439,234" fill="#111111"/>
+    <polygon points="230,5 408,183 230,362 51,183" fill="#111111"/>
+  </g>
+  <g id="title-letterforms">
+    <text x="120" y="1510" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#111111" textLength="1300" lengthAdjust="spacingAndGlyphs">BUSINESS</text>
+    <text x="120" y="1768" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#D62B2B">LAW</text>
+  </g>
+</svg>
