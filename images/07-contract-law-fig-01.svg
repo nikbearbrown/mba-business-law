@@ -1,0 +1,26 @@
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-7-1 desc-7-1">
+<title id="title-7-1">diagram showing the five elements of a valid contract</title>
+<desc id="desc-7-1">A diagram showing the five elements of a valid contract — offer, acceptance, consideration, capacity, legality — arranged as a pentagon with the contract at the center. Each element labeled with its operational meaning. The student should notice that all five elements must be satisfied for a contract to be enforceable.</desc>
+<rect width="700" height="420" fill="#FFFFFF"/>
+<text x="48" y="54" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="13" font-weight="bold" fill="#2a1a0e">diagram showing the five elements of a valid contract</text>
+<text x="48" y="78" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="10" fill="#545454"><tspan x="48" dy="0">A diagram showing the five elements of a valid contract — offer,</tspan><tspan x="48" dy="15">acceptance, consideration, capacity, legality — arranged as a</tspan><tspan x="48" dy="15">pentagon with the contract at the center. Each element labeled</tspan><tspan x="48" dy="15">with its operational meaning. The student should notice that all</tspan></text>
+<rect x="78" y="104" width="544" height="236" fill="#F5EFE8" stroke="#D4D4D4" stroke-width="0.75"/>
+<rect x="246" y="166" width="208" height="88" fill="#C8102E" stroke="#C8102E" stroke-width="1"/>
+<text x="350" y="204" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="13" font-weight="bold" fill="#FFFFFF">elements</text>
+<text x="350" y="224" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="10" fill="#FFFFFF">central claim</text>
+<rect x="116" y="132" width="116" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+<text x="174" y="161" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="11" fill="#2a1a0e">valid</text>
+<line x1="174" y1="180" x2="350" y2="166" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="494" y="132" width="116" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+<text x="552" y="161" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="11" fill="#2a1a0e">contract</text>
+<line x1="552" y1="180" x2="350" y2="166" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="116" y="284" width="116" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+<text x="174" y="313" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="11" fill="#2a1a0e">offer</text>
+<line x1="174" y1="284" x2="350" y2="254" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="494" y="284" width="116" height="48" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="1"/>
+<text x="552" y="313" text-anchor="middle" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="11" fill="#2a1a0e">acceptance</text>
+<line x1="552" y1="284" x2="350" y2="254" stroke="#2a1a0e" stroke-width="1.5" stroke-dasharray="4 3"/>
+
+<line x1="48" y1="382" x2="652" y2="382" stroke="#D4D4D4" stroke-width="1"/>
+<text x="48" y="400" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="10" letter-spacing="0.08em" fill="#545454">FIGURE 7.1</text>
+</svg>

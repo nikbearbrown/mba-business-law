@@ -131,6 +131,10 @@ Understanding why the system is complex the way it is — not just experiencing 
 
 The ideas in this chapter didn't appear from nowhere. **Oliver Wendell Holmes Jr.** wrote *The Common Law* in 1881 — opening with "the life of the law has not been logic; it has been experience." His pragmatic theory of legal reasoning shaped every major American law-school course of the 20th century.
 
+![Oliver Wendell Holmes Jr.](../images/oliver-wendell-holmes-jr-6ig.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

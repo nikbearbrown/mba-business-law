@@ -164,6 +164,10 @@ After drafting the prompt, evaluate it: what specific facts about the supervisor
 
 The ideas in this chapter didn't appear from nowhere. **Frances Perkins** drafted the Social Security Act, the Fair Labor Standards Act (40-hour week, minimum wage), and the architecture of U.S. unemployment insurance — as FDR's Labor Secretary and the first woman to serve in a U.S. cabinet. Modern employment law is built on her foundation.
 
+![Frances Perkins](../images/frances-perkins-t0k.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

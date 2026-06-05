@@ -161,6 +161,10 @@ The practitioner who understands that sequence — who knows what each level cos
 
 The ideas in this chapter didn't appear from nowhere. **Frank Sander** delivered the 1976 Pound Conference speech proposing the "multi-door courthouse" — different doors for litigation, mediation, arbitration, and other dispute resolution methods. Modern alternative dispute resolution (ADR) is essentially his framework, scaled up.
 
+![Frank Sander](../images/frank-sander-uh4.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

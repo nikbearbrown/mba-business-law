@@ -170,6 +170,10 @@ After drafting the prompt, evaluate it: what specific facts about the underlying
 
 The ideas in this chapter didn't appear from nowhere. **Edwin Sutherland** coined the term "white-collar crime" in his 1939 American Sociological Association presidential address — challenging the assumption that crime was a working-class problem. He spent the rest of his career documenting corporate criminality.
 
+![Edwin Sutherland](../images/edwin-sutherland-19i.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```
